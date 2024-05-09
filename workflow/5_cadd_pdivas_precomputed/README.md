@@ -35,6 +35,8 @@ columns=[4, 5]
 
 Annotate VCF files from `4_pangolin` folder:
 ```bash
+mkdir 5_cadd_pdivas;
+cd 5_cadd_pdivas;
 for file in ../4_pangolin/*vcf; do \
 name=`basename $file`; \
 vcfanno -p 12 ann.conf $file > ${name%vcf}cadd.pdivas.vcf; \
