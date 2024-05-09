@@ -29,5 +29,34 @@ For **splicing variant interpretation**, the following tools were used:
 
 The obtained scores were processed with [VETA](https://github.com/PedroBarbosa/VETA)
 ## Results
+According to the obtained metrics, SpliceAI, Pangolin and SPiP were selected.
+
+#### AUROC for studied tools *
+
+103 variants            |  54 variants
+:-------------------------:|:-------------------------:
+<img src="workflow/figures/ROC_103_all.jpg" alt="drawing" width="500"/>  |  <img src="workflow/figures/ROC_54_all.jpg" alt="drawing" width="500"/>
+
+*PDIVAS is not presented since it predicts only 50% of the data
+
+
+#### Class distribution for SQUIRLS and SPiP
+
+SQUIRLS            |  SPiP *
+:-------------------------:|:-------------------------:
+<img src="workflow/figures/SQUIRLS_cd.jpg" alt="drawing" width="300"/>  |  <img src="workflow/figures/SPiP_cd.jpg" alt="drawing" width="300"/>
+
+*SpliceAI and Pangolin have the similar distribution.
+
+
+#### Selected thresholds
+
+The thresholds were chosen according to *the F1 score*. The details can be found in `Data_analysis.ipynb`
+- Pangolin: 0.05
+- SpliceAI: 0.05
+- SPiP: 0.015
 
 ## Contacts
+- Supervisor: Marianna Weener
+- Ekaterina Shitik
+- Ustin Zolotikov
