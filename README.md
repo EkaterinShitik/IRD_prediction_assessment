@@ -35,7 +35,7 @@ According to the obtained metrics, SpliceAI, Pangolin and SPiP were selected.
 
 103 variants            |  54 variants
 :-------------------------:|:-------------------------:
-<img src="workflow/figures/ROC_103_all.jpg" alt="drawing" width="500"/>  |  <img src="workflow/figures/ROC_54_all.jpg" alt="drawing" width="500"/>
+<img src="figures/ROC_103_all.jpg" alt="drawing" width="500"/>  |  <img src="figures/ROC_54_all.jpg" alt="drawing" width="500"/>
 
 *PDIVAS is not presented since it predicts only 50% of the data
 
@@ -44,7 +44,7 @@ According to the obtained metrics, SpliceAI, Pangolin and SPiP were selected.
 
 SQUIRLS            |  SPiP *
 :-------------------------:|:-------------------------:
-<img src="workflow/figures/SQUIRLS_cd.jpg" alt="drawing" width="300"/>  |  <img src="workflow/figures/SPiP_cd.jpg" alt="drawing" width="300"/>
+<img src="figures/SQUIRLS_cd.jpg" alt="drawing" width="300"/>  |  <img src="figures/SPiP_cd.jpg" alt="drawing" width="300"/>
 
 *SpliceAI and Pangolin have the similar distribution.
 
