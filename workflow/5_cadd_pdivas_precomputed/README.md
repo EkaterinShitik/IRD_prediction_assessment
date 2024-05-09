@@ -16,7 +16,7 @@ gsutil -m cp -r \
 ```
 2. Download CADD precomputed variants
 ```bash
-wget -c https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/whole_genome_SNVs.tsv.gz # download variants db
+wget -c https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/whole_genome_SNVs.tsv.gz -O cadd_precomputed_snv.tsv.gz
 ```
 3. Create vcfanno `ann.conf` config file with the following text
 ```plaintext
@@ -27,7 +27,7 @@ fields = ["PDIVAS"]
 ops=["self"]
 names=["PDIVAS"]
 [[annotation]]
-file="whole_genome_SNVs.tsv.gz"
+file="cadd_precomputed_snv.tsv.gz"
 names=["cadd_raw", "cadd_phred"]
 ops=["mean", "mean"]
 columns=[4, 5]
