@@ -1,4 +1,4 @@
-# CADD and [PDIVAS](https://github.com/shiro-kur/PDIVAS?tab=readme-ov-file) annotations
+# [CADD](https://github.com/kircherlab/CADD-scripts) and [PDIVAS](https://github.com/shiro-kur/PDIVAS?tab=readme-ov-file) annotations
 
 For this step you will need [vcfanno](https://github.com/brentp/vcfanno). You can install it with [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)/[mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html):
 
