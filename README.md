@@ -74,5 +74,5 @@ The symbols used:
 
 ## Contacts
 - Supervisor: Marianna Weener
-- Ekaterina Shitik (shitik.ekaterina@gmail.com)
-- Ustin Zolotikov (zolotikov.u.e@yandex.ru)
+- Ekaterina Shitik shitik.ekaterina@gmail.com
+- Ustin Zolotikov zolotikov.u.e@yandex.ru
