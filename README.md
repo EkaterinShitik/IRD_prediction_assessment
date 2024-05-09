@@ -50,11 +50,27 @@ SQUIRLS            |  SPiP *
 
 
 #### Selected thresholds
-
+ 
 The thresholds were chosen according to *the F1 score*. The details can be found in `Data_analysis.ipynb`
 - Pangolin: 0.05
 - SpliceAI: 0.05
 - SPiP: 0.015
+
+#### Annotation
+
+With the obtained thresholds DIVs in *USH2A*, *CRB1* and *ABCA4* genes (gnomAD) have been annotated. 
+
+The results are presented in table [ABCA4_CRB1_USH2A_annot.csv](annotation/ABCA4_CRB1_USH2A_annot.csv).
+
+The symbols used:
+
+🟢 Benign
+
+🟡 Pathogenic under one assessment
+
+🟠 Pathogenic under two assessments
+
+🔴 Pathogenic under three assessments
 
 ## Contacts
 - Supervisor: Marianna Weener
