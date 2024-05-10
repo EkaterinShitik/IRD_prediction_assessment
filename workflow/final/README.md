@@ -1,6 +1,6 @@
 # Results of the instruments annotation
 
-Folder names define number of variants in their VCF files.
+Folder names define variants set of their VCF files.
 
 * Pathogenic variants:
   - 57 from [Roosing et al](https://www.frontiersin.org/articles/10.3389/fcell.2023.1112270) (1, 2)
