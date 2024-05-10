@@ -1,1 +1,1 @@
-Folder with figures created in repository notebooks
+Folder with figures created in `workflow/Data_analysis.ipynb`
