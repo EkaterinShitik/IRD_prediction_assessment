@@ -1,0 +1,9 @@
+tool	precision	specificity	sensitivity	mcc	norm_mcc	weighted_norm_mcc	tp	fp	tn	fn	mp	mn	scored_p	scored_n	total_p	total_n	F1	weighted_F1	total	correct	nan	fraction_nan	coverage	accuracy	weighted_accuracy	auROC	auPRC
+CADD_v1.5	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+SQUIRLS	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+MaxEntScan	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+SpliceAI	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+CI-SpliceAI	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+Pangolin	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+SPiP	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		
+PDIVAS	0	0	0.0	0.0	0.5	0.5	0	0	0	2	0	0	2	0	2	0	0	0	2	0	0	0.0	1.0	0.0	0.0		

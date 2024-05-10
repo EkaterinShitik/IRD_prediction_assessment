@@ -1,9 +1,0 @@
-Classifier	Parameters_of_best_estimator	Cross_validation_score
-Naive_Bayes		0.4666666666666667
-LDA	lda__solver=svd	0.4026190476190477
-QDA	qda__reg_param=0.0;qda__store_covariance=True	0.6
-Decision_Tree	dt__criterion=gini;dt__max_depth=7;dt__max_features=None;dt__min_samples_leaf=1;dt__min_samples_split=4;dt__splitter=random	0.6549783549783549
-Random_Forest	rf__bootstrap=True;rf__criterion=gini;rf__max_depth=7;rf__max_features=auto;rf__max_samples=0.9;rf__min_samples_leaf=2;rf__min_samples_split=2;rf__n_estimators=10	0.6098412698412699
-Ada_Boost	ab__learning_rate=1;ab__n_estimators=10	0.573034188034188
-SVM	svm=SVC(C=10, kernel='sigmoid', random_state=0);svm__C=10;svm__kernel=sigmoid	0.555122655122655
-Logistic_Regression	lr__penalty=l1;lr__solver=liblinear	0.4542857142857143

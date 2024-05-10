@@ -1,9 +1,0 @@
-intron_bin	outcome	0
-1000+	Benign	21
-1000+	Pathogenic	55
-201-500	Benign	72
-201-500	Pathogenic	14
-41-200	Benign	3
-41-200	Pathogenic	3
-501-1000	Benign	7
-501-1000	Pathogenic	31
