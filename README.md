@@ -73,6 +73,6 @@ The symbols used:
 🔴 Pathogenic under three assessments
 
 ## Contacts
-- Supervisor: MD, PhD Marianna Weener mweener@meei.harvard.edu
-- Ekaterina Shitik shitik.ekaterina@gmail.com
-- Ustin Zolotikov zolotikov.u.e@yandex.ru
+- Supervisor: MD, PhD [Marianna Weener](mweener@meei.harvard.edu)
+- [Ekaterina Shitik](shitik.ekaterina@gmail.com)
+- [Ustin Zolotikov](zolotikov.u.e@yandex.ru)
