@@ -1,4 +1,4 @@
-# [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) annotation
+# Indexing, sorting and [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) annotation
 
 Along with VEP annotation wwe will use MaxEntScan plugin and ConSplice precomputed variants.
 
@@ -10,11 +10,18 @@ gsutil -m cp -r \
   "gs://pdivas/ConSplice_for_PDIVAS" \
   .
 ```
-
-To annotate VCF files with VEP we used following command
+For VEP annotation VCF must be sorted and have appropriate indexes in the header.
 ```bash
 for file in ../init/*vcf; do \
 name=`basename $file`; \
+bcftools reheader \
+--fai ../ensembl-vep/vep_cache/homo_sapiens/111_GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa.gz.fai \
+$file | bcftools sort -o ${name%.vcf}_indexed.vcf; \
+done;
+```
+To annotate VCF files with VEP we used following command
+```bash
+for file in *vcf; do \
 vep --cache ../ensembl-vep/vep_cache/ \
 --offline \
 --cache_version 111 \
@@ -25,6 +32,6 @@ vep --cache ../ensembl-vep/vep_cache/ \
 --custom ../ConSplice_for_PDIVAS/ConSplice.50bp_region.inverse_proportion_refo_hg38.bed.gz,ConSplice,bed,overlap,0 \
 --plugin MaxEntScan,../ensembl-vep/fordownload,SWA,NCSS \
 --fields "Consequence,SYMBOL,Gene,INTRON,HGVSc,STRAND,ConSplice,MES-SWA_acceptor_diff,MES-SWA_acceptor_alt,MES-SWA_donor_diff,MES-SWA_donor_alt" \
--i $file -o ${name%vcf}vep.vcf
+-i $file -o ${file%vcf}vep.vcf
 done;
 ```
