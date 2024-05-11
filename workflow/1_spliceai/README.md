@@ -11,7 +11,7 @@ pip install tensorflow
 # or
 conda install tensorflow
 ```
-2. Download reference file [GRCh37/hg19](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz) or [GRCh38/hg38](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
+2. Download reference file [GRCh38/hg38](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
 3. Annotate files from `0_vep_maxentscan` folder:
 ```bash
 mkdir 1_spliceai;
