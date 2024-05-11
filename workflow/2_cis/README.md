@@ -7,7 +7,7 @@ pip install "cispliceai[cpu]"
 ```
 To set up GPU follow these [instructions](https://ci-spliceai.com/install/) 
 
-2. Download reference file [GRCh37/hg19](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz) or [GRCh38/hg38](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz). *Or use from the previous step.*
+2. Download reference file [GRCh38/hg38](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz). *Or use from the previous step.*
 3. Annotate files from `1_spliceai` folder:
 ```bash
 mkdir 2_cis;
