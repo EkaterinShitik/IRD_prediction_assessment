@@ -4,7 +4,7 @@
 cd squirls-cli-2.0.1
 ``` 
 
-2. To download the reference database visit the [website](https://squirls.readthedocs.io/en/latest/setup.html)
+2. Download the reference [hg38/GRCh38 database](https://storage.googleapis.com/squirls/2203_hg38.zip)
 
 3. Annotate files from `2_cis` folder:
 ```bash
