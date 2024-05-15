@@ -5,7 +5,7 @@ Overall, 206 DIVs involving 103 pathogenic and 103 benign were explored. The min
 
 **Pathogenic**
 - 57: [Roosing et al](https://www.frontiersin.org/articles/10.3389/fcell.2023.1112270/full)✧
-- 4: [Lu Tian et al](https://pubmed.ncbi.nlm.nih.gov/35657619/)
+- 4: [Lu Tian et al]([https://pubmed.ncbi.nlm.nih.gov/35657619/](https://iovs.arvojournals.org/article.aspx?articleid=2778880))
 - 3: [Lui et al](https://www.nature.com/articles/s41525-024-00391-2)✦
 - 51: experimental data that were provided by Marianna Weener (see Contacts)✦
 
