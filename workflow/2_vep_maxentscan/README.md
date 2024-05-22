@@ -1,4 +1,4 @@
-# Indexing, sorting and [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) annotation
+# [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) annotation
 
 Along with VEP annotation wwe will use MaxEntScan plugin and ConSplice precomputed variants.
 
@@ -10,15 +10,7 @@ gsutil -m cp -r \
   "gs://pdivas/ConSplice_for_PDIVAS" \
   .
 ```
-For VEP annotation VCF must be sorted and have appropriate indexes in the header.
-```bash
-for file in ../init/*vcf; do \
-name=`basename $file`; \
-bcftools reheader \
---fai ../ensembl-vep/vep_cache/homo_sapiens/111_GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa.gz.fai \
-$file | bcftools sort -o ${name%.vcf}_indexed.vcf; \
-done;
-```
+
 To annotate VCF files with VEP we used following command
 ```bash
 for file in *vcf; do \
