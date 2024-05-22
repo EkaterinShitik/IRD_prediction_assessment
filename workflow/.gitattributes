@@ -1,0 +1,1 @@
+../annotation/3_spip/EYS_deep_intronic_SNP_indexed.spip.vcf filter=lfs diff=lfs merge=lfs -text
