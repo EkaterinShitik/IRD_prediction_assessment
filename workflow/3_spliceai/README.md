@@ -12,7 +12,7 @@ pip install tensorflow
 conda install tensorflow
 ```
 2. Download reference file [GRCh37/hg19](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz) or [GRCh38/hg38](http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
-3. Annotate files from `0_vep_maxentscan` folder:
+3. Annotate files from `2_vep_maxentscan` folder:
 ```
 for file in ../2_vep_maxentscan/*vcf; do \
 name=`basename $file`; \
