@@ -6,7 +6,7 @@ cd squirls-cli-2.0.1
 
 2. To download the reference database visit the [website](https://squirls.readthedocs.io/en/latest/setup.html)
 
-3. Annotate files from `2_cis` folder:
+3. Annotate files from `4_cis` folder:
 ```bash
 for file in ../4_cis/*vcf; do \
 name=`basename $file`; \
