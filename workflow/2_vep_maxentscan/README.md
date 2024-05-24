@@ -13,7 +13,7 @@ gsutil -m cp -r \
 
 To annotate VCF files with VEP we used following command
 ```bash
-for file in *vcf; do \
+for file in ../1_indexing/*vcf; do \
 vep --cache ../ensembl-vep/vep_cache/ \
 --offline \
 --cache_version 111 \
