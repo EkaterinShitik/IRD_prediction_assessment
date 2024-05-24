@@ -15,9 +15,9 @@ install.packages("doParallel")
 install.packages("randomForest")
 ```
 
-Annotate files from `5_cadd_pdivas_precomputed`:
+Annotate files from `7_cadd_pdivas_precomputed`:
 ```bash
-for file in ../8_cadd_pdivas/*vcf; do \
+for file in ../7_cadd_pdivas_precomputed/*vcf; do \
 name=`basename $file`; \
 Rscript ../SPiP/SPiPv2.1_main.r -t 12 --VCF --verbose -g hg38 -I $file -O ${name%vcf}spip.vcf; \
 done;
