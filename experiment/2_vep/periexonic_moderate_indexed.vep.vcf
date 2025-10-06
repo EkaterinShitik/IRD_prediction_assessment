@@ -1,0 +1,719 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=1,length=248956422>
+##contig=<ID=10,length=133797422>
+##contig=<ID=11,length=135086622>
+##contig=<ID=11_KI270721v1_random,length=100316>
+##contig=<ID=12,length=133275309>
+##contig=<ID=13,length=114364328>
+##contig=<ID=14,length=107043718>
+##contig=<ID=14_GL000009v2_random,length=201709>
+##contig=<ID=14_GL000225v1_random,length=211173>
+##contig=<ID=14_KI270722v1_random,length=194050>
+##contig=<ID=14_GL000194v1_random,length=191469>
+##contig=<ID=14_KI270723v1_random,length=38115>
+##contig=<ID=14_KI270724v1_random,length=39555>
+##contig=<ID=14_KI270725v1_random,length=172810>
+##contig=<ID=14_KI270726v1_random,length=43739>
+##contig=<ID=15,length=101991189>
+##contig=<ID=15_KI270727v1_random,length=448248>
+##contig=<ID=16,length=90338345>
+##contig=<ID=16_KI270728v1_random,length=1872759>
+##contig=<ID=17,length=83257441>
+##contig=<ID=17_GL000205v2_random,length=185591>
+##contig=<ID=17_KI270729v1_random,length=280839>
+##contig=<ID=17_KI270730v1_random,length=112551>
+##contig=<ID=18,length=80373285>
+##contig=<ID=19,length=58617616>
+##contig=<ID=1_KI270706v1_random,length=175055>
+##contig=<ID=1_KI270707v1_random,length=32032>
+##contig=<ID=1_KI270708v1_random,length=127682>
+##contig=<ID=1_KI270709v1_random,length=66860>
+##contig=<ID=1_KI270710v1_random,length=40176>
+##contig=<ID=1_KI270711v1_random,length=42210>
+##contig=<ID=1_KI270712v1_random,length=176043>
+##contig=<ID=1_KI270713v1_random,length=40745>
+##contig=<ID=1_KI270714v1_random,length=41717>
+##contig=<ID=2,length=242193529>
+##contig=<ID=20,length=64444167>
+##contig=<ID=21,length=46709983>
+##contig=<ID=22,length=50818468>
+##contig=<ID=22_KI270731v1_random,length=150754>
+##contig=<ID=22_KI270732v1_random,length=41543>
+##contig=<ID=22_KI270733v1_random,length=179772>
+##contig=<ID=22_KI270734v1_random,length=165050>
+##contig=<ID=22_KI270735v1_random,length=42811>
+##contig=<ID=22_KI270736v1_random,length=181920>
+##contig=<ID=22_KI270737v1_random,length=103838>
+##contig=<ID=22_KI270738v1_random,length=99375>
+##contig=<ID=22_KI270739v1_random,length=73985>
+##contig=<ID=2_KI270715v1_random,length=161471>
+##contig=<ID=2_KI270716v1_random,length=153799>
+##contig=<ID=3,length=198295559>
+##contig=<ID=3_GL000221v1_random,length=155397>
+##contig=<ID=4,length=190214555>
+##contig=<ID=4_GL000008v2_random,length=209709>
+##contig=<ID=5,length=181538259>
+##contig=<ID=5_GL000208v1_random,length=92689>
+##contig=<ID=6,length=170805979>
+##contig=<ID=7,length=159345973>
+##contig=<ID=8,length=145138636>
+##contig=<ID=9,length=138394717>
+##contig=<ID=9_KI270717v1_random,length=40062>
+##contig=<ID=9_KI270718v1_random,length=38054>
+##contig=<ID=9_KI270719v1_random,length=176845>
+##contig=<ID=9_KI270720v1_random,length=39050>
+##contig=<ID=1_KI270762v1_alt,length=354444>
+##contig=<ID=1_KI270766v1_alt,length=256271>
+##contig=<ID=1_KI270760v1_alt,length=109528>
+##contig=<ID=1_KI270765v1_alt,length=185285>
+##contig=<ID=1_GL383518v1_alt,length=182439>
+##contig=<ID=1_GL383519v1_alt,length=110268>
+##contig=<ID=1_GL383520v2_alt,length=366580>
+##contig=<ID=1_KI270764v1_alt,length=50258>
+##contig=<ID=1_KI270763v1_alt,length=911658>
+##contig=<ID=1_KI270759v1_alt,length=425601>
+##contig=<ID=1_KI270761v1_alt,length=165834>
+##contig=<ID=2_KI270770v1_alt,length=136240>
+##contig=<ID=2_KI270773v1_alt,length=70887>
+##contig=<ID=2_KI270774v1_alt,length=223625>
+##contig=<ID=2_KI270769v1_alt,length=120616>
+##contig=<ID=2_GL383521v1_alt,length=143390>
+##contig=<ID=2_KI270772v1_alt,length=133041>
+##contig=<ID=2_KI270775v1_alt,length=138019>
+##contig=<ID=2_KI270771v1_alt,length=110395>
+##contig=<ID=2_KI270768v1_alt,length=110099>
+##contig=<ID=2_GL582966v2_alt,length=96131>
+##contig=<ID=2_GL383522v1_alt,length=123821>
+##contig=<ID=2_KI270776v1_alt,length=174166>
+##contig=<ID=2_KI270767v1_alt,length=161578>
+##contig=<ID=3_JH636055v2_alt,length=173151>
+##contig=<ID=3_KI270783v1_alt,length=109187>
+##contig=<ID=3_KI270780v1_alt,length=224108>
+##contig=<ID=3_GL383526v1_alt,length=180671>
+##contig=<ID=3_KI270777v1_alt,length=173649>
+##contig=<ID=3_KI270778v1_alt,length=248252>
+##contig=<ID=3_KI270781v1_alt,length=113034>
+##contig=<ID=3_KI270779v1_alt,length=205312>
+##contig=<ID=3_KI270782v1_alt,length=162429>
+##contig=<ID=3_KI270784v1_alt,length=184404>
+##contig=<ID=4_KI270790v1_alt,length=220246>
+##contig=<ID=4_GL383528v1_alt,length=376187>
+##contig=<ID=4_KI270787v1_alt,length=111943>
+##contig=<ID=4_GL000257v2_alt,length=586476>
+##contig=<ID=4_KI270788v1_alt,length=158965>
+##contig=<ID=4_GL383527v1_alt,length=164536>
+##contig=<ID=4_KI270785v1_alt,length=119912>
+##contig=<ID=4_KI270789v1_alt,length=205944>
+##contig=<ID=4_KI270786v1_alt,length=244096>
+##contig=<ID=5_KI270793v1_alt,length=126136>
+##contig=<ID=5_KI270792v1_alt,length=179043>
+##contig=<ID=5_KI270791v1_alt,length=195710>
+##contig=<ID=5_GL383532v1_alt,length=82728>
+##contig=<ID=5_GL949742v1_alt,length=226852>
+##contig=<ID=5_KI270794v1_alt,length=164558>
+##contig=<ID=5_GL339449v2_alt,length=1612928>
+##contig=<ID=5_GL383530v1_alt,length=101241>
+##contig=<ID=5_KI270796v1_alt,length=172708>
+##contig=<ID=5_GL383531v1_alt,length=173459>
+##contig=<ID=5_KI270795v1_alt,length=131892>
+##contig=<ID=6_GL000250v2_alt,length=4672374>
+##contig=<ID=6_KI270800v1_alt,length=175808>
+##contig=<ID=6_KI270799v1_alt,length=152148>
+##contig=<ID=6_GL383533v1_alt,length=124736>
+##contig=<ID=6_KI270801v1_alt,length=870480>
+##contig=<ID=6_KI270802v1_alt,length=75005>
+##contig=<ID=6_KB021644v2_alt,length=185823>
+##contig=<ID=6_KI270797v1_alt,length=197536>
+##contig=<ID=6_KI270798v1_alt,length=271782>
+##contig=<ID=7_KI270804v1_alt,length=157952>
+##contig=<ID=7_KI270809v1_alt,length=209586>
+##contig=<ID=7_KI270806v1_alt,length=158166>
+##contig=<ID=7_GL383534v2_alt,length=119183>
+##contig=<ID=7_KI270803v1_alt,length=1111570>
+##contig=<ID=7_KI270808v1_alt,length=271455>
+##contig=<ID=7_KI270807v1_alt,length=126434>
+##contig=<ID=7_KI270805v1_alt,length=209988>
+##contig=<ID=8_KI270818v1_alt,length=145606>
+##contig=<ID=8_KI270812v1_alt,length=282736>
+##contig=<ID=8_KI270811v1_alt,length=292436>
+##contig=<ID=8_KI270821v1_alt,length=985506>
+##contig=<ID=8_KI270813v1_alt,length=300230>
+##contig=<ID=8_KI270822v1_alt,length=624492>
+##contig=<ID=8_KI270814v1_alt,length=141812>
+##contig=<ID=8_KI270810v1_alt,length=374415>
+##contig=<ID=8_KI270819v1_alt,length=133535>
+##contig=<ID=8_KI270820v1_alt,length=36640>
+##contig=<ID=8_KI270817v1_alt,length=158983>
+##contig=<ID=8_KI270816v1_alt,length=305841>
+##contig=<ID=8_KI270815v1_alt,length=132244>
+##contig=<ID=9_GL383539v1_alt,length=162988>
+##contig=<ID=9_GL383540v1_alt,length=71551>
+##contig=<ID=9_GL383541v1_alt,length=171286>
+##contig=<ID=9_GL383542v1_alt,length=60032>
+##contig=<ID=9_KI270823v1_alt,length=439082>
+##contig=<ID=10_GL383545v1_alt,length=179254>
+##contig=<ID=10_KI270824v1_alt,length=181496>
+##contig=<ID=10_GL383546v1_alt,length=309802>
+##contig=<ID=10_KI270825v1_alt,length=188315>
+##contig=<ID=11_KI270832v1_alt,length=210133>
+##contig=<ID=11_KI270830v1_alt,length=177092>
+##contig=<ID=11_KI270831v1_alt,length=296895>
+##contig=<ID=11_KI270829v1_alt,length=204059>
+##contig=<ID=11_GL383547v1_alt,length=154407>
+##contig=<ID=11_JH159136v1_alt,length=200998>
+##contig=<ID=11_JH159137v1_alt,length=191409>
+##contig=<ID=11_KI270827v1_alt,length=67707>
+##contig=<ID=11_KI270826v1_alt,length=186169>
+##contig=<ID=12_GL877875v1_alt,length=167313>
+##contig=<ID=12_GL877876v1_alt,length=408271>
+##contig=<ID=12_KI270837v1_alt,length=40090>
+##contig=<ID=12_GL383549v1_alt,length=120804>
+##contig=<ID=12_KI270835v1_alt,length=238139>
+##contig=<ID=12_GL383550v2_alt,length=169178>
+##contig=<ID=12_GL383552v1_alt,length=138655>
+##contig=<ID=12_GL383553v2_alt,length=152874>
+##contig=<ID=12_KI270834v1_alt,length=119498>
+##contig=<ID=12_GL383551v1_alt,length=184319>
+##contig=<ID=12_KI270833v1_alt,length=76061>
+##contig=<ID=12_KI270836v1_alt,length=56134>
+##contig=<ID=13_KI270840v1_alt,length=191684>
+##contig=<ID=13_KI270839v1_alt,length=180306>
+##contig=<ID=13_KI270843v1_alt,length=103832>
+##contig=<ID=13_KI270841v1_alt,length=169134>
+##contig=<ID=13_KI270838v1_alt,length=306913>
+##contig=<ID=13_KI270842v1_alt,length=37287>
+##contig=<ID=14_KI270844v1_alt,length=322166>
+##contig=<ID=14_KI270847v1_alt,length=1511111>
+##contig=<ID=14_KI270845v1_alt,length=180703>
+##contig=<ID=14_KI270846v1_alt,length=1351393>
+##contig=<ID=15_KI270852v1_alt,length=478999>
+##contig=<ID=15_KI270851v1_alt,length=263054>
+##contig=<ID=15_KI270848v1_alt,length=327382>
+##contig=<ID=15_GL383554v1_alt,length=296527>
+##contig=<ID=15_KI270849v1_alt,length=244917>
+##contig=<ID=15_GL383555v2_alt,length=388773>
+##contig=<ID=15_KI270850v1_alt,length=430880>
+##contig=<ID=16_KI270854v1_alt,length=134193>
+##contig=<ID=16_KI270856v1_alt,length=63982>
+##contig=<ID=16_KI270855v1_alt,length=232857>
+##contig=<ID=16_KI270853v1_alt,length=2659700>
+##contig=<ID=16_GL383556v1_alt,length=192462>
+##contig=<ID=16_GL383557v1_alt,length=89672>
+##contig=<ID=17_GL383563v3_alt,length=375691>
+##contig=<ID=17_KI270862v1_alt,length=391357>
+##contig=<ID=17_KI270861v1_alt,length=196688>
+##contig=<ID=17_KI270857v1_alt,length=2877074>
+##contig=<ID=17_JH159146v1_alt,length=278131>
+##contig=<ID=17_JH159147v1_alt,length=70345>
+##contig=<ID=17_GL383564v2_alt,length=133151>
+##contig=<ID=17_GL000258v2_alt,length=1821992>
+##contig=<ID=17_GL383565v1_alt,length=223995>
+##contig=<ID=17_KI270858v1_alt,length=235827>
+##contig=<ID=17_KI270859v1_alt,length=108763>
+##contig=<ID=17_GL383566v1_alt,length=90219>
+##contig=<ID=17_KI270860v1_alt,length=178921>
+##contig=<ID=18_KI270864v1_alt,length=111737>
+##contig=<ID=18_GL383567v1_alt,length=289831>
+##contig=<ID=18_GL383570v1_alt,length=164789>
+##contig=<ID=18_GL383571v1_alt,length=198278>
+##contig=<ID=18_GL383568v1_alt,length=104552>
+##contig=<ID=18_GL383569v1_alt,length=167950>
+##contig=<ID=18_GL383572v1_alt,length=159547>
+##contig=<ID=18_KI270863v1_alt,length=167999>
+##contig=<ID=19_KI270868v1_alt,length=61734>
+##contig=<ID=19_KI270865v1_alt,length=52969>
+##contig=<ID=19_GL383573v1_alt,length=385657>
+##contig=<ID=19_GL383575v2_alt,length=170222>
+##contig=<ID=19_GL383576v1_alt,length=188024>
+##contig=<ID=19_GL383574v1_alt,length=155864>
+##contig=<ID=19_KI270866v1_alt,length=43156>
+##contig=<ID=19_KI270867v1_alt,length=233762>
+##contig=<ID=19_GL949746v1_alt,length=987716>
+##contig=<ID=20_GL383577v2_alt,length=128386>
+##contig=<ID=20_KI270869v1_alt,length=118774>
+##contig=<ID=20_KI270871v1_alt,length=58661>
+##contig=<ID=20_KI270870v1_alt,length=183433>
+##contig=<ID=21_GL383578v2_alt,length=63917>
+##contig=<ID=21_KI270874v1_alt,length=166743>
+##contig=<ID=21_KI270873v1_alt,length=143900>
+##contig=<ID=21_GL383579v2_alt,length=201197>
+##contig=<ID=21_GL383580v2_alt,length=74653>
+##contig=<ID=21_GL383581v2_alt,length=116689>
+##contig=<ID=21_KI270872v1_alt,length=82692>
+##contig=<ID=22_KI270875v1_alt,length=259914>
+##contig=<ID=22_KI270878v1_alt,length=186262>
+##contig=<ID=22_KI270879v1_alt,length=304135>
+##contig=<ID=22_KI270876v1_alt,length=263666>
+##contig=<ID=22_KI270877v1_alt,length=101331>
+##contig=<ID=22_GL383583v2_alt,length=96924>
+##contig=<ID=22_GL383582v2_alt,length=162811>
+##contig=<ID=X_KI270880v1_alt,length=284869>
+##contig=<ID=X_KI270881v1_alt,length=144206>
+##contig=<ID=19_KI270882v1_alt,length=248807>
+##contig=<ID=19_KI270883v1_alt,length=170399>
+##contig=<ID=19_KI270884v1_alt,length=157053>
+##contig=<ID=19_KI270885v1_alt,length=171027>
+##contig=<ID=19_KI270886v1_alt,length=204239>
+##contig=<ID=19_KI270887v1_alt,length=209512>
+##contig=<ID=19_KI270888v1_alt,length=155532>
+##contig=<ID=19_KI270889v1_alt,length=170698>
+##contig=<ID=19_KI270890v1_alt,length=184499>
+##contig=<ID=19_KI270891v1_alt,length=170680>
+##contig=<ID=1_KI270892v1_alt,length=162212>
+##contig=<ID=2_KI270894v1_alt,length=214158>
+##contig=<ID=2_KI270893v1_alt,length=161218>
+##contig=<ID=3_KI270895v1_alt,length=162896>
+##contig=<ID=4_KI270896v1_alt,length=378547>
+##contig=<ID=5_KI270897v1_alt,length=1144418>
+##contig=<ID=5_KI270898v1_alt,length=130957>
+##contig=<ID=6_GL000251v2_alt,length=4795265>
+##contig=<ID=7_KI270899v1_alt,length=190869>
+##contig=<ID=8_KI270901v1_alt,length=136959>
+##contig=<ID=8_KI270900v1_alt,length=318687>
+##contig=<ID=11_KI270902v1_alt,length=106711>
+##contig=<ID=11_KI270903v1_alt,length=214625>
+##contig=<ID=12_KI270904v1_alt,length=572349>
+##contig=<ID=15_KI270906v1_alt,length=196384>
+##contig=<ID=15_KI270905v1_alt,length=5161414>
+##contig=<ID=17_KI270907v1_alt,length=137721>
+##contig=<ID=17_KI270910v1_alt,length=157099>
+##contig=<ID=17_KI270909v1_alt,length=325800>
+##contig=<ID=17_JH159148v1_alt,length=88070>
+##contig=<ID=17_KI270908v1_alt,length=1423190>
+##contig=<ID=18_KI270912v1_alt,length=174061>
+##contig=<ID=18_KI270911v1_alt,length=157710>
+##contig=<ID=19_GL949747v2_alt,length=729520>
+##contig=<ID=22_KB663609v1_alt,length=74013>
+##contig=<ID=X_KI270913v1_alt,length=274009>
+##contig=<ID=19_KI270914v1_alt,length=205194>
+##contig=<ID=19_KI270915v1_alt,length=170665>
+##contig=<ID=19_KI270916v1_alt,length=184516>
+##contig=<ID=19_KI270917v1_alt,length=190932>
+##contig=<ID=19_KI270918v1_alt,length=123111>
+##contig=<ID=19_KI270919v1_alt,length=170701>
+##contig=<ID=19_KI270920v1_alt,length=198005>
+##contig=<ID=19_KI270921v1_alt,length=282224>
+##contig=<ID=19_KI270922v1_alt,length=187935>
+##contig=<ID=19_KI270923v1_alt,length=189352>
+##contig=<ID=3_KI270924v1_alt,length=166540>
+##contig=<ID=4_KI270925v1_alt,length=555799>
+##contig=<ID=6_GL000252v2_alt,length=4604811>
+##contig=<ID=8_KI270926v1_alt,length=229282>
+##contig=<ID=11_KI270927v1_alt,length=218612>
+##contig=<ID=19_GL949748v2_alt,length=1064304>
+##contig=<ID=22_KI270928v1_alt,length=176103>
+##contig=<ID=19_KI270929v1_alt,length=186203>
+##contig=<ID=19_KI270930v1_alt,length=200773>
+##contig=<ID=19_KI270931v1_alt,length=170148>
+##contig=<ID=19_KI270932v1_alt,length=215732>
+##contig=<ID=19_KI270933v1_alt,length=170537>
+##contig=<ID=19_GL000209v2_alt,length=177381>
+##contig=<ID=3_KI270934v1_alt,length=163458>
+##contig=<ID=6_GL000253v2_alt,length=4677643>
+##contig=<ID=19_GL949749v2_alt,length=1091841>
+##contig=<ID=3_KI270935v1_alt,length=197351>
+##contig=<ID=6_GL000254v2_alt,length=4827813>
+##contig=<ID=19_GL949750v2_alt,length=1066390>
+##contig=<ID=3_KI270936v1_alt,length=164170>
+##contig=<ID=6_GL000255v2_alt,length=4606388>
+##contig=<ID=19_GL949751v2_alt,length=1002683>
+##contig=<ID=3_KI270937v1_alt,length=165607>
+##contig=<ID=6_GL000256v2_alt,length=4929269>
+##contig=<ID=19_GL949752v1_alt,length=987100>
+##contig=<ID=6_KI270758v1_alt,length=76752>
+##contig=<ID=19_GL949753v2_alt,length=796479>
+##contig=<ID=19_KI270938v1_alt,length=1066800>
+##contig=<ID=M,length=16569>
+##contig=<ID=Un_KI270302v1,length=2274>
+##contig=<ID=Un_KI270304v1,length=2165>
+##contig=<ID=Un_KI270303v1,length=1942>
+##contig=<ID=Un_KI270305v1,length=1472>
+##contig=<ID=Un_KI270322v1,length=21476>
+##contig=<ID=Un_KI270320v1,length=4416>
+##contig=<ID=Un_KI270310v1,length=1201>
+##contig=<ID=Un_KI270316v1,length=1444>
+##contig=<ID=Un_KI270315v1,length=2276>
+##contig=<ID=Un_KI270312v1,length=998>
+##contig=<ID=Un_KI270311v1,length=12399>
+##contig=<ID=Un_KI270317v1,length=37690>
+##contig=<ID=Un_KI270412v1,length=1179>
+##contig=<ID=Un_KI270411v1,length=2646>
+##contig=<ID=Un_KI270414v1,length=2489>
+##contig=<ID=Un_KI270419v1,length=1029>
+##contig=<ID=Un_KI270418v1,length=2145>
+##contig=<ID=Un_KI270420v1,length=2321>
+##contig=<ID=Un_KI270424v1,length=2140>
+##contig=<ID=Un_KI270417v1,length=2043>
+##contig=<ID=Un_KI270422v1,length=1445>
+##contig=<ID=Un_KI270423v1,length=981>
+##contig=<ID=Un_KI270425v1,length=1884>
+##contig=<ID=Un_KI270429v1,length=1361>
+##contig=<ID=Un_KI270442v1,length=392061>
+##contig=<ID=Un_KI270466v1,length=1233>
+##contig=<ID=Un_KI270465v1,length=1774>
+##contig=<ID=Un_KI270467v1,length=3920>
+##contig=<ID=Un_KI270435v1,length=92983>
+##contig=<ID=Un_KI270438v1,length=112505>
+##contig=<ID=Un_KI270468v1,length=4055>
+##contig=<ID=Un_KI270510v1,length=2415>
+##contig=<ID=Un_KI270509v1,length=2318>
+##contig=<ID=Un_KI270518v1,length=2186>
+##contig=<ID=Un_KI270508v1,length=1951>
+##contig=<ID=Un_KI270516v1,length=1300>
+##contig=<ID=Un_KI270512v1,length=22689>
+##contig=<ID=Un_KI270519v1,length=138126>
+##contig=<ID=Un_KI270522v1,length=5674>
+##contig=<ID=Un_KI270511v1,length=8127>
+##contig=<ID=Un_KI270515v1,length=6361>
+##contig=<ID=Un_KI270507v1,length=5353>
+##contig=<ID=Un_KI270517v1,length=3253>
+##contig=<ID=Un_KI270529v1,length=1899>
+##contig=<ID=Un_KI270528v1,length=2983>
+##contig=<ID=Un_KI270530v1,length=2168>
+##contig=<ID=Un_KI270539v1,length=993>
+##contig=<ID=Un_KI270538v1,length=91309>
+##contig=<ID=Un_KI270544v1,length=1202>
+##contig=<ID=Un_KI270548v1,length=1599>
+##contig=<ID=Un_KI270583v1,length=1400>
+##contig=<ID=Un_KI270587v1,length=2969>
+##contig=<ID=Un_KI270580v1,length=1553>
+##contig=<ID=Un_KI270581v1,length=7046>
+##contig=<ID=Un_KI270579v1,length=31033>
+##contig=<ID=Un_KI270589v1,length=44474>
+##contig=<ID=Un_KI270590v1,length=4685>
+##contig=<ID=Un_KI270584v1,length=4513>
+##contig=<ID=Un_KI270582v1,length=6504>
+##contig=<ID=Un_KI270588v1,length=6158>
+##contig=<ID=Un_KI270593v1,length=3041>
+##contig=<ID=Un_KI270591v1,length=5796>
+##contig=<ID=Un_KI270330v1,length=1652>
+##contig=<ID=Un_KI270329v1,length=1040>
+##contig=<ID=Un_KI270334v1,length=1368>
+##contig=<ID=Un_KI270333v1,length=2699>
+##contig=<ID=Un_KI270335v1,length=1048>
+##contig=<ID=Un_KI270338v1,length=1428>
+##contig=<ID=Un_KI270340v1,length=1428>
+##contig=<ID=Un_KI270336v1,length=1026>
+##contig=<ID=Un_KI270337v1,length=1121>
+##contig=<ID=Un_KI270363v1,length=1803>
+##contig=<ID=Un_KI270364v1,length=2855>
+##contig=<ID=Un_KI270362v1,length=3530>
+##contig=<ID=Un_KI270366v1,length=8320>
+##contig=<ID=Un_KI270378v1,length=1048>
+##contig=<ID=Un_KI270379v1,length=1045>
+##contig=<ID=Un_KI270389v1,length=1298>
+##contig=<ID=Un_KI270390v1,length=2387>
+##contig=<ID=Un_KI270387v1,length=1537>
+##contig=<ID=Un_KI270395v1,length=1143>
+##contig=<ID=Un_KI270396v1,length=1880>
+##contig=<ID=Un_KI270388v1,length=1216>
+##contig=<ID=Un_KI270394v1,length=970>
+##contig=<ID=Un_KI270386v1,length=1788>
+##contig=<ID=Un_KI270391v1,length=1484>
+##contig=<ID=Un_KI270383v1,length=1750>
+##contig=<ID=Un_KI270393v1,length=1308>
+##contig=<ID=Un_KI270384v1,length=1658>
+##contig=<ID=Un_KI270392v1,length=971>
+##contig=<ID=Un_KI270381v1,length=1930>
+##contig=<ID=Un_KI270385v1,length=990>
+##contig=<ID=Un_KI270382v1,length=4215>
+##contig=<ID=Un_KI270376v1,length=1136>
+##contig=<ID=Un_KI270374v1,length=2656>
+##contig=<ID=Un_KI270372v1,length=1650>
+##contig=<ID=Un_KI270373v1,length=1451>
+##contig=<ID=Un_KI270375v1,length=2378>
+##contig=<ID=Un_KI270371v1,length=2805>
+##contig=<ID=Un_KI270448v1,length=7992>
+##contig=<ID=Un_KI270521v1,length=7642>
+##contig=<ID=Un_GL000195v1,length=182896>
+##contig=<ID=Un_GL000219v1,length=179198>
+##contig=<ID=Un_GL000220v1,length=161802>
+##contig=<ID=Un_GL000224v1,length=179693>
+##contig=<ID=Un_KI270741v1,length=157432>
+##contig=<ID=Un_GL000226v1,length=15008>
+##contig=<ID=Un_GL000213v1,length=164239>
+##contig=<ID=Un_KI270743v1,length=210658>
+##contig=<ID=Un_KI270744v1,length=168472>
+##contig=<ID=Un_KI270745v1,length=41891>
+##contig=<ID=Un_KI270746v1,length=66486>
+##contig=<ID=Un_KI270747v1,length=198735>
+##contig=<ID=Un_KI270748v1,length=93321>
+##contig=<ID=Un_KI270749v1,length=158759>
+##contig=<ID=Un_KI270750v1,length=148850>
+##contig=<ID=Un_KI270751v1,length=150742>
+##contig=<ID=Un_KI270752v1,length=27745>
+##contig=<ID=Un_KI270753v1,length=62944>
+##contig=<ID=Un_KI270754v1,length=40191>
+##contig=<ID=Un_KI270755v1,length=36723>
+##contig=<ID=Un_KI270756v1,length=79590>
+##contig=<ID=Un_KI270757v1,length=71251>
+##contig=<ID=Un_GL000214v1,length=137718>
+##contig=<ID=Un_KI270742v1,length=186739>
+##contig=<ID=Un_GL000216v2,length=176608>
+##contig=<ID=Un_GL000218v1,length=161147>
+##contig=<ID=X,length=156040895>
+##contig=<ID=Y,length=57227415>
+##contig=<ID=Y_KI270740v1_random,length=37240>
+##VEP="v115.2" API="v115" time="2025-10-05 21:26:36" cache="/data/homo_sapiens/115_GRCh38" ensembl=115.266b84d ensembl-compara=115.ae48a7a ensembl-funcgen=115.57f7061 ensembl-io=115.25061d3 ensembl-variation=115.b7c2637 1000genomes="phase3" COSMIC="101" ClinVar="202502" HGMD-PUBLIC="20204" assembly="GRCh38.p14" dbSNP="156" gencode="GENCODE 49" genebuild="GENCODE49" gnomADe="v4.1" gnomADg="v4.1" polyphen="2.2.3" regbuild="1.0" sift="6.2.1"
+##INFO=<ID=CSQ,Number=.,Type=String,Description="Consequence annotations from Ensembl VEP. Format: Consequence|SYMBOL|Gene|INTRON|HGVSc|STRAND">
+##VEP-command-line='vep --assembly GRCh38 --cache --database 0 --dir_cache /data --dir_plugins /plugins --fasta [PATH]/genome_noprefix.fa --fields Consequence,SYMBOL,Gene,INTRON,HGVSc,STRAND --hgvs --input_file [PATH]/periexonic_moderate_indexed.vcf --offline --output_file [PATH]/periexonic_moderate_indexed.vep.vcf --pick_allele_gene --vcf'
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	5864337	ENST00000378156:c.3996+1G>T	C	A	.	.	CSQ=upstream_gene_variant|MIR4689|ENSG00000264101|||-1,splice_donor_variant|NPHP4|ENSG00000131697|28/29|ENST00000378156.9:c.3996+1G>T|-1
+1	5865101	ENST00000378156:c.3816+1G>T	C	A	.	.	CSQ=splice_donor_variant|NPHP4|ENSG00000131697|27/29|ENST00000378156.9:c.3816+1G>T|-1,upstream_gene_variant|MIR4689|ENSG00000264101|||-1
+1	5865244	ENST00000378156:c.3674C>T	G	A	.	.	CSQ=upstream_gene_variant|MIR4689|ENSG00000264101|||-1,missense_variant|NPHP4|ENSG00000131697||ENST00000378156.9:c.3674C>T|-1
+1	5865274	ENST00000378156:c.3645-1G>T	C	A	.	.	CSQ=upstream_gene_variant|MIR4689|ENSG00000264101|||-1,splice_acceptor_variant|NPHP4|ENSG00000131697|26/29|ENST00000378156.9:c.3645-1G>T|-1
+1	20089828	ENST00000375108:c.226_228del	GGAG	G	.	.	CSQ=inframe_deletion|PLA2G5|ENSG00000127472||ENST00000375108.4:c.226_228del|1
+1	43920550	ENST00000530581:c.656G>A	G	A	.	.	CSQ=splice_region_variant&synonymous_variant|ST3GAL3|ENSG00000126091||ENST00000347631.8:c.891G>A|1
+1	68439564	ENST00000262340:c.722A>T	T	A	.	.	CSQ=missense_variant|RPE65|ENSG00000116745||ENST00000262340.6:c.722A>T|-1
+1	94000924	ENST00000370225:c.6391G>A	C	T	.	.	CSQ=missense_variant|ABCA4|ENSG00000198691||ENST00000370225.4:c.6391G>A|-1
+1	94008750	ENST00000370225:c.5835+1G>T	C	A	.	.	CSQ=splice_donor_variant|ABCA4|ENSG00000198691|41/49|ENST00000370225.4:c.5835+1G>T|-1
+1	94010799	ENST00000370225:c.5714+1G>T	C	A	.	.	CSQ=splice_donor_variant|ABCA4|ENSG00000198691|40/49|ENST00000370225.4:c.5714+1G>T|-1
+1	94010872	ENST00000370225:c.5642C>G	G	C	.	.	CSQ=missense_variant|ABCA4|ENSG00000198691||ENST00000370225.4:c.5642C>G|-1
+1	94010928	ENST00000370225:c.5586T>A	A	T	.	.	CSQ=splice_region_variant&synonymous_variant|ABCA4|ENSG00000198691||ENST00000370225.4:c.5586T>A|-1
+1	94010930	ENST00000370225:c.5585-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|ABCA4|ENSG00000198691|39/49|ENST00000370225.4:c.5585-1G>T|-1
+1	94030427	ENST00000370225:c.4352+1G>T	C	A	.	.	CSQ=splice_donor_variant|ABCA4|ENSG00000198691|29/49|ENST00000370225.4:c.4352+1G>T|-1
+1	94030497	ENST00000370225:c.4283C>T	G	A	.	.	CSQ=missense_variant|ABCA4|ENSG00000198691||ENST00000370225.4:c.4283C>T|-1
+1	94030527	ENST00000370225:c.4254-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|ABCA4|ENSG00000198691|28/49|ENST00000370225.4:c.4254-1G>T|-1
+1	94077888	ENST00000370225:c.1357-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|ABCA4|ENSG00000198691|10/49|ENST00000370225.4:c.1357-1G>T|-1
+1	102996008	ENST00000353414:c.2159C>T	G	A	.	.	CSQ=missense_variant|COL11A1|ENSG00000060718||ENST00000370096.9:c.2276C>T|-1
+1	154191323	ENST00000271850:c.118-12G>A	C	T	.	.	CSQ=downstream_gene_variant|MIR190B|ENSG00000215938|||-1,splice_polypyrimidine_tract_variant&intron_variant|TPM3|ENSG00000143549|1/9|ENST00000651641.1:c.118-12G>A|-1
+1	201053459	ENST00000362061:c.3795G>T	C	A	.	.	CSQ=missense_variant&splice_region_variant|CACNA1S|ENSG00000081248||ENST00000362061.4:c.3795G>T|-1
+1	212887929	ENST00000366971:c.1235G>C	G	C	.	.	CSQ=missense_variant|FLVCR1|ENSG00000162769||ENST00000366971.9:c.1235G>C|1
+1	212887955	ENST00000366971:c.1261G>A	G	A	.	.	CSQ=missense_variant|FLVCR1|ENSG00000162769||ENST00000366971.9:c.1261G>A|1
+1	216083453	ENST00000307340:c.5298+3A>G	T	C	.	.	CSQ=splice_donor_region_variant&intron_variant|USH2A|ENSG00000042781|26/71|ENST00000307340.8:c.5298+3A>G|-1,intron_variant&non_coding_transcript_variant|USH2A-AS2|ENSG00000233620|2/2|ENST00000446411.6:n.277-3269T>C|1
+1	216097214	ENST00000307340:c.4628-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|USH2A|ENSG00000042781|21/71|ENST00000307340.8:c.4628-1G>T|-1
+1	216217421	ENST00000307340:c.3123C>A	G	T	.	.	CSQ=missense_variant|USH2A|ENSG00000042781||ENST00000307340.8:c.3123C>A|-1,intron_variant&non_coding_transcript_variant|USH2A-AS1|ENSG00000236292|2/2|ENST00000747930.1:n.357-20414G>T|1
+1	216251099	ENST00000307340:c.1972-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|USH2A|ENSG00000042781|11/71|ENST00000307340.8:c.1972-1G>T|-1
+1	216289279	ENST00000307340:c.1971+1G>T	C	A	.	.	CSQ=splice_donor_variant|USH2A|ENSG00000042781|11/71|ENST00000307340.8:c.1971+1G>T|-1
+10	71799491	ENST00000224721:c.7225-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|CDH23|ENSG00000107736|51/69|ENST00000224721.12:c.7225-1G>T|1
+10	71799630	ENST00000224721:c.7362+1G>T	G	T	.	.	CSQ=splice_donor_variant|CDH23|ENSG00000107736|52/69|ENST00000224721.12:c.7362+1G>T|1
+10	71811712	ENST00000224721:c.9279-1G>T	G	T	.	.	CSQ=downstream_gene_variant|PSAP|ENSG00000197746|||-1,splice_acceptor_variant|CDH23|ENSG00000107736|64/69|ENST00000224721.12:c.9279-1G>T|1
+10	71813243	ENST00000224721:c.9634-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|CDH23|ENSG00000107736|68/69|ENST00000224721.12:c.9634-1G>T|1,downstream_gene_variant|PSAP|ENSG00000197746|||-1
+10	71813280	ENST00000224721:c.9670C>T	C	T	.	.	CSQ=downstream_gene_variant|PSAP|ENSG00000197746|||-1,missense_variant|CDH23|ENSG00000107736||ENST00000224721.12:c.9670C>T|1
+10	71813349	ENST00000224721:c.9738+1G>T	G	T	.	.	CSQ=downstream_gene_variant|PSAP|ENSG00000197746|||-1,splice_donor_variant|CDH23|ENSG00000107736|69/69|ENST00000224721.12:c.9738+1G>T|1
+10	84204551	ENST00000332904:c.808G>A	G	A	.	.	CSQ=missense_variant|CDHR1|ENSG00000148600||ENST00000623527.4:c.808G>A|1
+10	92633622	ENST00000260731:c.1703-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|KIF11|ENSG00000138160|13/21|ENST00000260731.5:c.1703-1G>T|1
+10	92649834	ENST00000260731:c.2771-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|KIF11|ENSG00000138160|19/21|ENST00000260731.5:c.2771-1G>T|1
+10	113646922	ENST00000359988:c.993+1G>A	C	T	.	.	CSQ=splice_donor_variant|NRAP|ENSG00000197893|10/41|ENST00000359988.4:c.993+1G>A|-1
+10	115120274	ENST00000355044:c.377+6T>C	T	C	.	.	CSQ=downstream_gene_variant||ENSG00000285582|||-1,splice_donor_region_variant&intron_variant|ATRNL1|ENSG00000107518|2/28|ENST00000355044.8:c.377+6T>C|1
+10	132860779	ENST00000368586:c.5091+3A>T	T	A	.	.	CSQ=splice_donor_region_variant&intron_variant|CFAP46|ENSG00000171811|36/57|ENST00000368586.10:c.5091+3A>T|-1
+11	17523210	ENST00000005226:c.876+1G>T	C	A	.	.	CSQ=splice_donor_variant|USH1C|ENSG00000006611|11/26|ENST00000005226.12:c.876+1G>T|-1
+11	17523268	ENST00000005226:c.820-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|USH1C|ENSG00000006611|10/26|ENST00000005226.12:c.820-1G>T|-1
+11	45914326	ENST00000241041:c.684G>C	C	G	.	.	CSQ=synonymous_variant|PEX16|ENSG00000121680||ENST00000378750.10:c.684G>C|-1,upstream_gene_variant|LARGE2|ENSG00000165905|||1
+11	45914329	ENST00000241041:c.681G>A	C	T	.	.	CSQ=upstream_gene_variant|LARGE2|ENSG00000165905|||1,synonymous_variant|PEX16|ENSG00000121680||ENST00000378750.10:c.681G>A|-1
+11	45914469	ENST00000241041:c.542-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|PEX16|ENSG00000121680|6/10|ENST00000378750.10:c.542-1G>T|-1,upstream_gene_variant|LARGE2|ENSG00000165905|||1
+11	61339065	ENST00000394900:c.194-1G>A	G	A	.	.	CSQ=splice_acceptor_variant|TKFC|ENSG00000149476|3/17|ENST00000394900.8:c.194-1G>A|1,intron_variant|DDB1|ENSG00000167986|2/29|ENST00000954149.1:c.-166+2355C>T|-1
+11	61960010	ENST00000378043:c.1067G>A	G	A	.	.	CSQ=missense_variant|BEST1|ENSG00000167995||ENST00000378043.9:c.1067G>A|1,downstream_gene_variant|FTH1|ENSG00000167996|||-1
+11	63304148	ENST00000533483:c.1031C>T	C	T	.	.	CSQ=synonymous_variant|SLC22A10|ENSG00000184999||ENST00000332793.11:c.1326C>T|1
+11	66515671	ENST00000318312:c.480-22A>G	A	G	.	.	CSQ=downstream_gene_variant|ZDHHC24|ENSG00000174165|||-1,intron_variant|BBS1|ENSG00000174483|5/16|ENST00000318312.12:c.480-22A>G|1,non_coding_transcript_exon_variant||ENSG00000286688||ENST00000658548.1:n.538T>C|-1
+11	66515924	ENST00000318312:c.582C>G	C	G	.	.	CSQ=downstream_gene_variant|ZDHHC24|ENSG00000174165|||-1,missense_variant|BBS1|ENSG00000174483||ENST00000318312.12:c.582C>G|1,non_coding_transcript_exon_variant||ENSG00000286688||ENST00000658548.1:n.285G>C|-1
+11	66519749	ENST00000318312:c.723+1G>T	G	T	.	.	CSQ=splice_donor_variant|BBS1|ENSG00000174483|8/16|ENST00000318312.12:c.723+1G>T|1,downstream_gene_variant|ZDHHC24|ENSG00000174165|||-1,upstream_gene_variant||ENSG00000286688|||-1
+11	66523577	ENST00000318312:c.951+1G>T	G	T	.	.	CSQ=intron_variant|ZDHHC24|ENSG00000174165|3/3|ENST00000851487.1:c.*37-2111C>A|-1,splice_donor_variant|BBS1|ENSG00000174483|10/16|ENST00000318312.12:c.951+1G>T|1,upstream_gene_variant||ENSG00000286688|||-1
+11	77156784	ENST00000409619:c.559+3A>G	A	G	.	.	CSQ=splice_donor_region_variant&intron_variant|MYO7A|ENSG00000137474|6/48|ENST00000409709.9:c.592+3A>G|1
+11	77160162	ENST00000409619:c.1048-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|MYO7A|ENSG00000137474|10/48|ENST00000409709.9:c.1081-1G>T|1
+11	77160208	ENST00000409619:c.1093A>G	A	G	.	.	CSQ=missense_variant|MYO7A|ENSG00000137474||ENST00000409709.9:c.1126A>G|1
+11	77160283	ENST00000409619:c.1167+1G>T	G	T	.	.	CSQ=splice_donor_variant|MYO7A|ENSG00000137474|11/48|ENST00000409709.9:c.1200+1G>T|1
+11	77162852	ENST00000409619:c.1522-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|MYO7A|ENSG00000137474|13/48|ENST00000409709.9:c.1555-1G>T|1
+11	77162953	ENST00000409619:c.1622A>G	A	G	.	.	CSQ=missense_variant|MYO7A|ENSG00000137474||ENST00000409709.9:c.1655A>G|1
+11	77162989	ENST00000409619:c.1657+1G>T	G	T	.	.	CSQ=splice_donor_variant|MYO7A|ENSG00000137474|14/48|ENST00000409709.9:c.1690+1G>T|1
+11	77203059	ENST00000409619:c.5022-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|MYO7A|ENSG00000137474|37/48|ENST00000409709.9:c.5169-1G>T|1
+11	77203118	ENST00000409619:c.5080C>T	C	T	.	.	CSQ=missense_variant|MYO7A|ENSG00000137474||ENST00000409709.9:c.5227C>T|1
+11	77203182	ENST00000409619:c.5144A>G	A	G	.	.	CSQ=missense_variant|MYO7A|ENSG00000137474||ENST00000409709.9:c.5291A>G|1
+11	77203218	ENST00000409619:c.5179+1A>C	A	C	.	.	CSQ=splice_donor_variant|MYO7A|ENSG00000137474|38/48|ENST00000409709.9:c.5326+1A>C|1
+11	103114242	ENST00000334267:c.502+4T>G	T	G	.	.	CSQ=splice_donor_region_variant&intron_variant|DYNC2H1|ENSG00000187240|3/88|ENST00000375735.7:c.502+4T>G|1
+11	117382795	ENST00000278935:c.1578-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|CEP164|ENSG00000110274|13/32|ENST00000278935.8:c.1578-1G>T|1
+11	117382915	ENST00000278935:c.1697G>C	G	C	.	.	CSQ=missense_variant|CEP164|ENSG00000110274||ENST00000278935.8:c.1697G>C|1
+11	117382943	ENST00000278935:c.1724+1G>T	G	T	.	.	CSQ=splice_donor_variant|CEP164|ENSG00000110274|14/32|ENST00000278935.8:c.1724+1G>T|1
+11	117394841	ENST00000278935:c.2761-79T>G	T	G	.	.	CSQ=intron_variant|CEP164|ENSG00000110274|21/32|ENST00000278935.8:c.2761-79T>G|1
+11	117394919	ENST00000278935:c.2761-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|CEP164|ENSG00000110274|21/32|ENST00000278935.8:c.2761-1G>T|1
+11	117395004	ENST00000278935:c.2844+1G>T	G	T	.	.	CSQ=splice_donor_variant|CEP164|ENSG00000110274|22/32|ENST00000278935.8:c.2844+1G>T|1
+11	117395723	ENST00000278935:c.3089+1G>T	G	T	.	.	CSQ=splice_donor_variant|CEP164|ENSG00000110274|24/32|ENST00000278935.8:c.3089+1G>T|1
+11	117411794	ENST00000278935:c.4164-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|CEP164|ENSG00000110274|31/32|ENST00000278935.8:c.4164-1G>T|1
+11	117411918	ENST00000278935:c.4286+1G>T	G	T	.	.	CSQ=splice_donor_variant|CEP164|ENSG00000110274|32/32|ENST00000278935.8:c.4286+1G>T|1
+11	119342872	ENST00000360167:c.1029+1G>T	C	A	.	.	CSQ=splice_donor_variant|MFRP|ENSG00000235718|10/14|ENST00000619721.6:c.1255+1G>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119342968	ENST00000360167:c.934C>T	G	A	.	.	CSQ=missense_variant|MFRP|ENSG00000235718||ENST00000619721.6:c.1160C>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119343004	ENST00000360167:c.899-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|MFRP|ENSG00000235718|9/14|ENST00000619721.6:c.1125-1G>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119344627	ENST00000360167:c.898+5G>A	C	T	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|MFRP|ENSG00000235718|7/14|ENST00000619721.6:c.898+5G>A|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119344631	ENST00000360167:c.898+1G>T	C	A	.	.	CSQ=splice_donor_variant|MFRP|ENSG00000235718|7/14|ENST00000619721.6:c.898+1G>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119344873	ENST00000360167:c.772+1G>T	C	A	.	.	CSQ=splice_donor_variant|MFRP|ENSG00000235718|6/14|ENST00000619721.6:c.772+1G>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119344913	ENST00000360167:c.733G>A	C	T	.	.	CSQ=upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1,missense_variant|MFRP|ENSG00000235718||ENST00000619721.6:c.733G>A|-1
+11	119344997	ENST00000360167:c.649G>A	C	T	.	.	CSQ=missense_variant|MFRP|ENSG00000235718||ENST00000619721.6:c.649G>A|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+11	119345005	ENST00000360167:c.642-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|MFRP|ENSG00000235718|5/14|ENST00000619721.6:c.642-1G>T|-1,upstream_gene_variant|C1QTNF5|ENSG00000223953|||-1
+12	1811661	ENST00000280663:n.2806+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA2D4|ENSG00000151062|27/37|ENST00000382722.10:c.2613+1G>T|-1,downstream_gene_variant||ENSG00000287698|||1
+12	1811724	ENST00000280663:n.2745-1G>T	C	A	.	.	CSQ=downstream_gene_variant||ENSG00000287698|||1,splice_acceptor_variant|CACNA2D4|ENSG00000151062|26/37|ENST00000382722.10:c.2552-1G>T|-1
+12	1886920	ENST00000280663:n.1035+89T>C	A	G	.	.	CSQ=intron_variant|CACNA2D4|ENSG00000151062|7/37|ENST00000382722.10:c.842+89T>C|-1
+12	1887008	ENST00000280663:n.1035+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA2D4|ENSG00000151062|7/37|ENST00000382722.10:c.842+1G>T|-1
+12	1887070	ENST00000280663:n.975-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CACNA2D4|ENSG00000151062|6/37|ENST00000382722.10:c.782-1G>T|-1
+12	1914936	ENST00000280663:n.421-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CACNA2D4|ENSG00000151062|1/37|ENST00000382722.10:c.228-1G>T|-1,upstream_gene_variant||ENSG00000256706|||1
+12	7124629	ENST00000266560:c.354G>A	C	T	.	.	CSQ=splice_region_variant&synonymous_variant|RBP5|ENSG00000139194||ENST00000266560.8:c.354G>A|-1,downstream_gene_variant||ENSG00000256967|||-1,upstream_gene_variant|CLSTN3|ENSG00000139182|||1,downstream_gene_variant|C1RL-AS1|ENSG00000205885|||1
+12	88120113	ENST00000309041:c.1522+1G>T	C	A	.	.	CSQ=splice_donor_variant|CEP290|ENSG00000198707|15/53|ENST00000552810.6:c.1522+1G>T|-1
+12	88120277	ENST00000309041:c.1360-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CEP290|ENSG00000198707|14/53|ENST00000552810.6:c.1360-1G>T|-1
+12	112406893	ENST00000202773:c.337-3C>T	G	A	.	.	CSQ=splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant|RPL6|ENSG00000089009|3/6|ENST00000202773.14:c.337-3C>T|-1,upstream_gene_variant||ENSG00000305463|||1,downstream_gene_variant||ENSG00000305485|||1
+13	101110615	ENST00000251127:c.2364+4A>T	T	A	.	.	CSQ=splice_donor_region_variant&intron_variant|NALCN|ENSG00000102452|20/43|ENST00000251127.11:c.2364+4A>T|-1
+13	110172728	ENST00000375820:c.3548G>T	C	A	.	.	CSQ=missense_variant|COL4A1|ENSG00000187498||ENST00000375820.10:c.3548G>T|-1
+14	21312432	ENST00000400017:c.1078-1G>T	G	T	.	.	CSQ=upstream_gene_variant||ENSG00000296264|||-1,splice_acceptor_variant|RPGRIP1|ENSG00000092200|9/24|ENST00000400017.7:c.1078-1G>T|1
+14	35570646	ENST00000307138:c.5949G>A	C	T	.	.	CSQ=synonymous_variant|RALGAPA1|ENSG00000174373||ENST00000680220.1:c.7467G>A|-1
+14	75003400	ENST00000266126:c.284+5G>T	G	T	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|EIF2B2|ENSG00000119718|2/7|ENST00000266126.10:c.284+5G>T|1,downstream_gene_variant||ENSG00000258646|||-1
+14	88841416	ENST00000338104:c.460-9C>A	C	A	.	.	CSQ=downstream_gene_variant|Y_RNA|ENSG00000207342|||1,splice_polypyrimidine_tract_variant&intron_variant|TTC8|ENSG00000165533|5/14|ENST00000380656.7:c.490-9C>A|1
+15	31031157	ENST00000256552:c.2953A>C	T	G	.	.	CSQ=intron_variant&non_coding_transcript_variant||ENSG00000259720|2/2|ENST00000665655.1:n.218+4046T>G|1,missense_variant&splice_region_variant|TRPM1|ENSG00000134160||ENST00000256552.11:c.2953A>C|-1
+15	44573548	ENST00000261866:c.6204A>G	T	C	.	.	CSQ=splice_region_variant&synonymous_variant|SPG11|ENSG00000104133||ENST00000261866.12:c.6204A>G|-1
+15	49575088	ENST00000299338:c.568A>G	T	C	.	.	CSQ=missense_variant|FAM227B|ENSG00000166262||ENST00000299338.11:c.568A>G|-1
+15	63661047	ENST00000443617:c.9171-22A>G	T	C	.	.	CSQ=intron_variant|HERC1|ENSG00000103657|45/77|ENST00000443617.7:c.9171-22A>G|-1
+15	65481511	ENST00000300141:c.1118+4C>T	G	A	.	.	CSQ=splice_donor_region_variant&intron_variant|DPP8|ENSG00000074603|9/19|ENST00000300141.11:c.1118+4C>T|-1
+16	1519880	ENST00000361339:c.1622+1G>T	C	A	.	.	CSQ=splice_donor_variant|IFT140|ENSG00000187535|29/30|ENST00000426508.7:c.4040+1G>T|-1
+16	1519928	ENST00000361339:c.1575G>C	C	G	.	.	CSQ=missense_variant|IFT140|ENSG00000187535||ENST00000426508.7:c.3993G>C|-1
+16	1519996	ENST00000361339:c.1507G>A	C	T	.	.	CSQ=missense_variant|IFT140|ENSG00000187535||ENST00000426508.7:c.3925G>A|-1
+16	1520048	ENST00000361339:c.1456-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|IFT140|ENSG00000187535|28/30|ENST00000426508.7:c.3874-1G>T|-1
+16	1524667	ENST00000361339:c.608A>C	T	G	.	.	CSQ=missense_variant|IFT140|ENSG00000187535||ENST00000426508.7:c.3026A>C|-1,upstream_gene_variant|TMEM204|ENSG00000131634|||1
+16	1587197	ENST00000426508:c.1009+1G>T	C	A	.	.	CSQ=splice_donor_variant|IFT140|ENSG00000187535|9/30|ENST00000426508.7:c.1009+1G>T|-1,intron_variant&non_coding_transcript_variant||ENSG00000260989|1/2|ENST00000563162.1:n.59+6612C>A|1
+16	28477636	ENST00000333496:c.1126-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CLN3|ENSG00000188603|15/15|ENST00000636147.2:c.1198-1G>T|-1
+16	56501498	ENST00000245157:c.1081-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|BBS2|ENSG00000125124|9/16|ENST00000245157.11:c.1081-1G>T|-1
+16	57901436	ENST00000251102:c.2893-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CNGB1|ENSG00000070729|28/32|ENST00000251102.13:c.2893-1G>T|-1
+16	57903982	ENST00000251102:c.2635-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CNGB1|ENSG00000070729|26/32|ENST00000251102.13:c.2635-1G>T|-1
+16	68054574	ENST00000358896:c.265G>A	G	A	.	.	CSQ=missense_variant&splice_region_variant|DUS2|ENSG00000167264||ENST00000565263.6:c.265G>A|1
+16	72104555	ENST00000268482:c.2080G>T	G	T	.	.	CSQ=missense_variant|DHX38|ENSG00000140829||ENST00000268482.8:c.2080G>T|1
+16	72109514	ENST00000268482:c.3477+4A>G	A	G	.	.	CSQ=downstream_gene_variant|PMFBP1|ENSG00000118557|||-1,splice_donor_region_variant&intron_variant|DHX38|ENSG00000140829|25/26|ENST00000268482.8:c.3477+4A>G|1
+17	1678524	ENST00000304992:c.1848C>T	G	A	.	.	CSQ=synonymous_variant|PRPF8|ENSG00000174231||ENST00000304992.11:c.1848C>T|-1
+17	6468250	ENST00000262483:c.1865G>A	C	T	.	.	CSQ=missense_variant|PITPNM3|ENSG00000091622||ENST00000262483.13:c.1865G>A|-1
+17	8007368	ENST00000254854:c.1464-58C>T	C	T	.	.	CSQ=intron_variant|GUCY2D|ENSG00000132518|5/19|ENST00000254854.5:c.1464-58C>T|1
+17	8007425	ENST00000254854:c.1464-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|GUCY2D|ENSG00000132518|5/19|ENST00000254854.5:c.1464-1G>T|1
+17	8015823	ENST00000254854:c.3025A>C	A	C	.	.	CSQ=non_coding_transcript_exon_variant||ENSG00000279174||ENST00000623126.1:n.556T>G|-1,intron_variant&non_coding_transcript_variant||ENSG00000299408|2/2|ENST00000763246.1:n.146+109T>G|-1,missense_variant|GUCY2D|ENSG00000132518||ENST00000254854.5:c.3025A>C|1
+17	38334703	ENST00000616987:c.1784+1G>T	C	A	.	.	CSQ=splice_donor_variant|GPR179|ENSG00000277399|8/10|ENST00000616987.5:c.1784+1G>T|-1
+17	38339416	ENST00000616987:c.903+1G>T	C	A	.	.	CSQ=splice_donor_variant|GPR179|ENSG00000277399|2/10|ENST00000616987.5:c.903+1G>T|-1
+17	38339526	ENST00000610867:n.853-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|GPR179|ENSG00000277399|1/10|ENST00000616987.5:c.795-1G>T|-1
+17	38339578	ENST00000610867:n.853-53C>A	G	T	.	.	CSQ=intron_variant|GPR179|ENSG00000277399|1/10|ENST00000616987.5:c.795-53C>A|-1
+17	58207084	ENST00000393119:c.1407+1G>T	C	A	.	.	CSQ=upstream_gene_variant||ENSG00000278627|||-1,splice_donor_variant|MKS1|ENSG00000011143|15/17|ENST00000393119.7:c.1407+1G>T|-1,downstream_gene_variant|EPX|ENSG00000121053|||1
+17	58207219	ENST00000393119:c.1274-1G>T	C	A	.	.	CSQ=upstream_gene_variant||ENSG00000278627|||-1,downstream_gene_variant|EPX|ENSG00000121053|||1,splice_acceptor_variant|MKS1|ENSG00000011143|14/17|ENST00000393119.7:c.1274-1G>T|-1
+17	63657908	ENST00000361357:c.474+1G>A	G	A	.	.	CSQ=splice_donor_variant|MAP3K3|ENSG00000198909|5/15|ENST00000361733.8:c.381+1G>A|1
+18	62143358	ENST00000357637:c.923-12T>A	A	T	.	.	CSQ=splice_polypyrimidine_tract_variant&intron_variant|PIGN|ENSG00000197563|10/30|ENST00000640252.2:c.923-12T>A|-1
+19	1495468	ENST00000233596:c.210-1G>T	G	T	.	.	CSQ=upstream_gene_variant|PCSK4|ENSG00000115257|||-1,splice_acceptor_variant|REEP6|ENSG00000115255|2/4|ENST00000233596.8:c.210-1G>T|1
+19	4175159	ENST00000305232:c.534-8G>A	C	T	.	.	CSQ=downstream_gene_variant|CREB3L3|ENSG00000060566|||1,splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant|SIRT6|ENSG00000077463|6/7|ENST00000337491.7:c.615-8G>A|-1
+19	11237463	ENST00000294618:c.2066C>T	G	A	.	.	CSQ=upstream_gene_variant|ANGPTL8|ENSG00000130173|||1,missense_variant|DOCK6|ENSG00000130158||ENST00000294618.12:c.2066C>T|-1
+2	3460337	ENST00000324266:c.1677+1G>A	G	A	.	.	CSQ=splice_donor_variant|TRAPPC12|ENSG00000171853|8/11|ENST00000324266.10:c.1677+1G>A|1,upstream_gene_variant||ENSG00000304366|||-1
+2	27454631	ENST00000260570:c.3401G>T	C	A	.	.	CSQ=upstream_gene_variant||ENSG00000235267|||1,missense_variant|IFT172|ENSG00000138002||ENST00000260570.8:c.3401G>T|-1
+2	55871072	ENST00000355426:c.1052G>T	C	A	.	.	CSQ=missense_variant|EFEMP1|ENSG00000115380||ENST00000355426.8:c.1052G>T|-1
+2	71659033	ENST00000258104:c.4794G>T	G	T	.	.	CSQ=missense_variant&splice_region_variant|DYSF|ENSG00000135636||ENST00000410020.8:c.4911G>T|1
+2	73550266	ENST00000423048:c.*327-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|ALMS1|ENSG00000116127|12/22|ENST00000613296.6:c.9908-1G>T|1
+2	96276903	ENST00000323853:c.6174+1G>T	C	A	.	.	CSQ=downstream_gene_variant|CIAO1|ENSG00000144021|||1,splice_donor_variant|SNRNP200|ENSG00000144028|43/44|ENST00000323853.10:c.6174+1G>T|-1
+2	96276968	ENST00000323853:c.6110T>G	A	C	.	.	CSQ=missense_variant|SNRNP200|ENSG00000144028||ENST00000323853.10:c.6110T>G|-1,downstream_gene_variant|CIAO1|ENSG00000144021|||1
+2	96276976	ENST00000323853:c.6102A>C	T	G	.	.	CSQ=downstream_gene_variant|CIAO1|ENSG00000144021|||1,synonymous_variant|SNRNP200|ENSG00000144028||ENST00000323853.10:c.6102A>C|-1
+2	96276986	ENST00000323853:c.6093-1G>T	C	A	.	.	CSQ=downstream_gene_variant|CIAO1|ENSG00000144021|||1,splice_acceptor_variant|SNRNP200|ENSG00000144028|42/44|ENST00000323853.10:c.6093-1G>T|-1
+2	96279534	ENST00000323853:c.5050G>A	C	T	.	.	CSQ=missense_variant|SNRNP200|ENSG00000144028||ENST00000323853.10:c.5050G>A|-1
+2	98537956	ENST00000409016:c.561G>A	G	A	.	.	CSQ=synonymous_variant|INPP4A|ENSG00000040933||ENST00000409851.8:c.561G>A|1
+2	119920093	ENST00000263708:c.853G>A	G	A	.	.	CSQ=missense_variant|PTPN4|ENSG00000088179||ENST00000263708.7:c.853G>A|1
+2	165912625	ENST00000243344:c.2212-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|TTC21B|ENSG00000123607|16/28|ENST00000243344.8:c.2212-1G>T|-1
+2	165941070	ENST00000243344:c.667C>G	G	C	.	.	CSQ=missense_variant|TTC21B|ENSG00000123607||ENST00000243344.8:c.667C>G|-1,intron_variant&non_coding_transcript_variant|TTC21B-AS1|ENSG00000224490|1/3|ENST00000440322.5:n.221-6127G>C|1
+2	165941072	ENST00000243344:c.665A>T	T	A	.	.	CSQ=missense_variant|TTC21B|ENSG00000123607||ENST00000243344.8:c.665A>T|-1,intron_variant&non_coding_transcript_variant|TTC21B-AS1|ENSG00000224490|1/3|ENST00000440322.5:n.221-6125T>A|1
+2	218385122	ENST00000233202:c.274-25A>C	A	C	.	.	CSQ=intron_variant|SLC11A1|ENSG00000018280|3/14|ENST00000233202.11:c.274-25A>C|1
+2	233329578	ENST00000409110:c.733+1G>T	G	T	.	.	CSQ=splice_donor_variant|SAG|ENSG00000130561|9/15|ENST00000409110.6:c.733+1G>T|1
+20	10644805	ENST00000254958:c.2344+58T>G	A	C	.	.	CSQ=intron_variant|JAG1|ENSG00000101384|18/25|ENST00000254958.10:c.2344+58T>G|-1,downstream_gene_variant|MIR6870|ENSG00000273745|||-1
+20	10644895	ENST00000254958:c.2312A>G	T	C	.	.	CSQ=downstream_gene_variant|MIR6870|ENSG00000273745|||-1,missense_variant|JAG1|ENSG00000101384||ENST00000254958.10:c.2312A>G|-1
+20	35496582	ENST00000397527:c.3173C>G	C	G	.	.	CSQ=missense_variant|CEP250|ENSG00000126001||ENST00000397527.6:c.3173C>G|1
+20	36829054	ENST00000237536:c.1071G>A	C	T	.	.	CSQ=splice_region_variant&synonymous_variant|MTCL2|ENSG00000149639||ENST00000237536.9:c.1071G>A|-1
+20	45377534	ENST00000372726:c.123+5G>C	C	G	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|TP53TG5|ENSG00000124251|2/4|ENST00000372726.5:c.123+5G>C|-1,downstream_gene_variant|SYS1|ENSG00000204070|||1
+21	44335755	ENST00000325223:c.143+3A>T	T	A	.	.	CSQ=upstream_gene_variant||ENSG00000232969|||1,splice_donor_region_variant&intron_variant|CFAP410|ENSG00000160226|3/6|ENST00000339818.9:c.143+3A>T|-1,non_coding_transcript_exon_variant||ENSG00000184441||ENST00000448927.1:n.4258T>A|1
+21	45989713	ENST00000361866:c.904-39A>G	A	G	.	.	CSQ=intron_variant|COL6A1|ENSG00000142156|10/34|ENST00000361866.8:c.904-39A>G|1
+22	19191341	ENST00000427926:c.4286G>A	C	T	.	.	CSQ=missense_variant|CLTCL1|ENSG00000070371||ENST00000427926.6:c.4286G>A|-1
+22	37073550	ENST00000346753:c.1537G>A	C	T	.	.	CSQ=missense_variant|TMPRSS6|ENSG00000187045||ENST00000676104.1:c.1537G>A|-1
+22	38224863	ENST00000361684:c.904G>C	C	G	.	.	CSQ=missense_variant|TMEM184B|ENSG00000198792||ENST00000361906.8:c.904G>C|-1
+22	50572001	ENST00000312108:c.1575+5G>T	C	A	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|CPT1B|ENSG00000205560|13/19|ENST00000312108.12:c.1575+5G>T|-1
+3	39133240	ENST00000430597:c.2751G>A	G	A	.	.	CSQ=upstream_gene_variant|MIR6822|ENSG00000284158|||1,splice_region_variant&synonymous_variant|TTC21A|ENSG00000168026||ENST00000683103.1:c.2751G>A|1
+3	49723648	ENST00000308375:c.79G>C	C	G	.	.	CSQ=downstream_gene_variant|RNF123|ENSG00000164068|||1,missense_variant|GMPPB|ENSG00000173540||ENST00000308388.7:c.79G>C|-1,downstream_gene_variant|IP6K1|ENSG00000176095|||-1,upstream_gene_variant|AMIGO3|ENSG00000176020|||-1
+3	127022805	ENST00000393409:c.4349A>G	A	G	.	.	CSQ=missense_variant|PLXNA1|ENSG00000114554||ENST00000393409.3:c.4349A>G|1
+3	128906250	ENST00000308982:c.1278+1G>A	G	A	.	.	CSQ=downstream_gene_variant|CFAP92|ENSG00000114656|||-1,splice_donor_variant|ACAD9|ENSG00000177646|12/17|ENST00000308982.12:c.1278+1G>A|1
+3	132675248	ENST00000264991:c.645G>C	G	C	.	.	CSQ=missense_variant&splice_region_variant|UBA5|ENSG00000081307||ENST00000356232.10:c.813G>C|1
+3	132683432	ENST00000337331:c.3663C>T	G	A	.	.	CSQ=synonymous_variant|NPHP3|ENSG00000113971||ENST00000337331.10:c.3663C>T|-1,downstream_gene_variant|UBA5|ENSG00000081307|||1
+3	132700333	ENST00000337331:c.1743+1G>T	C	A	.	.	CSQ=splice_donor_variant|NPHP3|ENSG00000113971|11/26|ENST00000337331.10:c.1743+1G>T|-1
+3	154299926	ENST00000308361:c.1462-1G>C	C	G	.	.	CSQ=splice_acceptor_variant|DHX36|ENSG00000174953|11/24|ENST00000496811.6:c.1462-1G>C|-1
+3	193617819	ENST00000361510:c.592G>A	G	A	.	.	CSQ=missense_variant|OPA1|ENSG00000198836||ENST00000361510.8:c.592G>A|1,downstream_gene_variant|OPA1-AS1|ENSG00000224855|||-1
+4	654079	ENST00000255622:c.853-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|PDE6B|ENSG00000133256|4/21|ENST00000496514.6:c.853-1G>T|1,non_coding_transcript_exon_variant|PDE6B-AS1|ENSG00000242686||ENST00000468356.3:n.1267C>A|-1
+4	654132	ENST00000255622:c.905G>A	G	A	.	.	CSQ=non_coding_transcript_exon_variant|PDE6B-AS1|ENSG00000242686||ENST00000468356.3:n.1214C>T|-1,missense_variant|PDE6B|ENSG00000133256||ENST00000496514.6:c.905G>A|1
+4	654155	ENST00000255622:c.927+1G>T	G	T	.	.	CSQ=splice_donor_variant|PDE6B|ENSG00000133256|5/21|ENST00000496514.6:c.927+1G>T|1,non_coding_transcript_exon_variant|PDE6B-AS1|ENSG00000242686||ENST00000468356.3:n.1191C>A|-1
+4	662231	ENST00000255622:c.1712C>T	C	T	.	.	CSQ=intron_variant&non_coding_transcript_variant||ENSG00000272927|3/3|ENST00000609172.2:n.303-83G>A|-1,missense_variant|PDE6B|ENSG00000133256||ENST00000496514.6:c.1712C>T|1
+4	664866	ENST00000255622:c.2130-15G>A	G	A	.	.	CSQ=splice_polypyrimidine_tract_variant&intron_variant|PDE6B|ENSG00000133256|17/21|ENST00000496514.6:c.2130-15G>A|1,upstream_gene_variant||ENSG00000272927|||-1
+4	6291341	ENST00000226760:c.605A>G	A	G	.	.	CSQ=downstream_gene_variant||ENSG00000286176|||-1,missense_variant|WFS1|ENSG00000109501||ENST00000226760.5:c.605A>G|1
+4	15473197	ENST00000424120:c.-18-2718A>C	A	C	.	.	CSQ=intron_variant|CC2D2A|ENSG00000048342|1/36|ENST00000424120.6:c.-18-2718A>C|1
+4	15473221	ENST00000503292:c.-52-1G>T	G	T	.	.	CSQ=intron_variant|CC2D2A|ENSG00000048342|1/36|ENST00000424120.6:c.-18-2694G>T|1
+4	15473256	ENST00000503292:c.-19+1G>T	G	T	.	.	CSQ=intron_variant|CC2D2A|ENSG00000048342|1/36|ENST00000424120.6:c.-18-2659G>T|1
+4	16013348	ENST00000447510:c.1078-10T>G	A	C	.	.	CSQ=splice_polypyrimidine_tract_variant&intron_variant|PROM1|ENSG00000007062|10/27|ENST00000447510.7:c.1078-10T>G|-1
+4	25145092	ENST00000382103:c.846G>A	C	T	.	.	CSQ=synonymous_variant|SEPSECS|ENSG00000109618||ENST00000382103.7:c.846G>A|-1
+4	73065250	ENST00000295890:c.598G>A	C	T	.	.	CSQ=missense_variant&splice_region_variant|COX18|ENSG00000163626||ENST00000507544.3:c.598G>A|-1,upstream_gene_variant||ENSG00000299967|||1
+5	37167046	ENST00000508244:c.7400+1G>T	C	A	.	.	CSQ=splice_donor_variant|CPLANE1|ENSG00000197603|35/52|ENST00000651892.2:c.7400+1G>T|-1
+5	37167172	ENST00000508244:c.7275G>A	C	T	.	.	CSQ=synonymous_variant|CPLANE1|ENSG00000197603||ENST00000651892.2:c.7275G>A|-1
+5	37227242	ENST00000425232:c.*850+1G>T	C	A	.	.	CSQ=splice_donor_variant|CPLANE1|ENSG00000197603|11/52|ENST00000651892.2:c.1521+1G>T|-1
+5	37227303	ENST00000508244:c.1461C>T	G	A	.	.	CSQ=synonymous_variant|CPLANE1|ENSG00000197603||ENST00000651892.2:c.1461C>T|-1
+5	90643802	ENST00000405460:c.2554-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|ADGRV1|ENSG00000164199|13/89|ENST00000405460.9:c.2554-1G>T|1
+5	90643984	ENST00000405460:c.2734+1G>T	G	T	.	.	CSQ=splice_donor_variant|ADGRV1|ENSG00000164199|14/89|ENST00000405460.9:c.2734+1G>T|1
+5	90692787	ENST00000405460:c.7133+1G>T	G	T	.	.	CSQ=splice_donor_variant|ADGRV1|ENSG00000164199|32/89|ENST00000405460.9:c.7133+1G>T|1
+5	90712286	ENST00000405460:c.9043-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|ADGRV1|ENSG00000164199|41/89|ENST00000405460.9:c.9043-1G>T|1
+5	90712429	ENST00000405460:c.9184+1G>T	G	T	.	.	CSQ=splice_donor_variant|ADGRV1|ENSG00000164199|42/89|ENST00000405460.9:c.9184+1G>T|1
+5	90712474	ENST00000405460:c.9184+46G>A	G	A	.	.	CSQ=intron_variant|ADGRV1|ENSG00000164199|42/89|ENST00000405460.9:c.9184+46G>A|1
+5	90777904	ENST00000405460:c.12528-1G>T	G	T	.	.	CSQ=splice_acceptor_variant|ADGRV1|ENSG00000164199|61/89|ENST00000405460.9:c.12528-1G>T|1
+5	90778044	ENST00000405460:c.12666+1G>T	G	T	.	.	CSQ=splice_donor_variant|ADGRV1|ENSG00000164199|62/89|ENST00000405460.9:c.12666+1G>T|1
+5	149883428	ENST00000255266:c.2135+1G>T	C	A	.	.	CSQ=splice_donor_variant|PDE6A|ENSG00000132915|17/21|ENST00000255266.10:c.2135+1G>T|-1
+5	149898363	ENST00000255266:c.1407G>C	C	G	.	.	CSQ=missense_variant&splice_region_variant|PDE6A|ENSG00000132915||ENST00000255266.10:c.1407G>C|-1
+5	157490455	ENST00000257527:c.2096-1G>A	C	T	.	.	CSQ=splice_acceptor_variant|ADAM19|ENSG00000135074|18/22|ENST00000257527.9:c.2096-1G>A|-1
+5	178991423	ENST00000231188:c.857+1G>T	C	A	.	.	CSQ=splice_donor_variant|GRM6|ENSG00000113262|4/10|ENST00000517717.3:c.857+1G>T|-1,downstream_gene_variant||ENSG00000254035|||1
+5	178991554	ENST00000231188:c.727G>T	C	A	.	.	CSQ=downstream_gene_variant||ENSG00000254035|||1,missense_variant|GRM6|ENSG00000113262||ENST00000517717.3:c.727G>T|-1
+5	178991560	ENST00000231188:c.722-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|GRM6|ENSG00000113262|3/10|ENST00000517717.3:c.722-1G>T|-1,downstream_gene_variant||ENSG00000254035|||1
+6	24446981	ENST00000230036:c.1679-2A>G	T	C	.	.	CSQ=splice_acceptor_variant|GPLD1|ENSG00000112293|17/24|ENST00000230036.2:c.1679-2A>G|-1
+6	52050157	ENST00000340994:c.2279G>A	C	T	.	.	CSQ=missense_variant&splice_region_variant|PKHD1|ENSG00000170927||ENST00000371117.8:c.2279G>A|-1
+6	63741895	ENST00000370621:c.8134+18C>G	G	C	.	.	CSQ=intron_variant|PHF3|ENSG00000118482|3/4|ENST00000505138.1:c.363+30533G>C|1,intron_variant|EYS|ENSG00000188107|41/42|ENST00000503581.6:c.8072-15215C>G|-1
+6	63741901	ENST00000370621:c.8134+12T>G	A	C	.	.	CSQ=intron_variant|PHF3|ENSG00000118482|3/4|ENST00000505138.1:c.363+30539A>C|1,intron_variant|EYS|ENSG00000188107|41/42|ENST00000503581.6:c.8072-15221T>G|-1
+6	63741994	ENST00000370621:c.8072-19C>A	G	T	.	.	CSQ=intron_variant|PHF3|ENSG00000118482|3/4|ENST00000505138.1:c.363+30632G>T|1,intron_variant|EYS|ENSG00000188107|41/42|ENST00000503581.6:c.8072-15314C>A|-1
+6	63806177	ENST00000370621:c.7411+13G>A	C	T	.	.	CSQ=intron_variant&non_coding_transcript_variant|SCAT8|ENSG00000236345|1/1|ENST00000689151.3:n.100+281C>T|1,intron_variant|EYS|ENSG00000188107|37/42|ENST00000503581.6:c.7411+13G>A|-1
+6	63864226	ENST00000370621:c.7188C>T	G	A	.	.	CSQ=synonymous_variant|EYS|ENSG00000188107||ENST00000503581.6:c.7188C>T|-1
+6	64439161	ENST00000370621:c.5835+1G>T	C	A	.	.	CSQ=splice_donor_variant|EYS|ENSG00000188107|27/42|ENST00000503581.6:c.5835+1G>T|-1
+6	64439162	ENST00000370621:c.5835G>A	C	T	.	.	CSQ=splice_region_variant&synonymous_variant|EYS|ENSG00000188107||ENST00000503581.6:c.5835G>A|-1
+6	64997572	ENST00000370621:c.2259+10C>G	G	C	.	.	CSQ=intron_variant|EYS|ENSG00000188107|14/42|ENST00000503581.6:c.2259+10C>G|-1
+6	65402644	ENST00000342421:c.1057-39C>T	G	A	.	.	CSQ=intron_variant|EYS|ENSG00000188107|6/42|ENST00000503581.6:c.1057-39C>T|-1
+6	65405372	ENST00000342421:c.863-5T>C	A	G	.	.	CSQ=splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant|EYS|ENSG00000188107|5/42|ENST00000503581.6:c.863-5T>C|-1
+6	65405381	ENST00000342421:c.863-14G>A	C	T	.	.	CSQ=splice_polypyrimidine_tract_variant&intron_variant|EYS|ENSG00000188107|5/42|ENST00000503581.6:c.863-14G>A|-1
+6	65490581	ENST00000342421:c.862+13T>C	A	G	.	.	CSQ=intron_variant|EYS|ENSG00000188107|5/42|ENST00000503581.6:c.862+13T>C|-1
+7	33273024	ENST00000242067:c.715C>T	C	T	.	.	CSQ=synonymous_variant|BBS9|ENSG00000122507||ENST00000242067.11:c.715C>T|1,downstream_gene_variant||ENSG00000224946|||-1
+7	66089091	ENST00000304874:c.834C>T	C	T	.	.	CSQ=splice_region_variant&synonymous_variant|ASL|ENSG00000126522||ENST00000304874.14:c.834C>T|1
+7	66089093	ENST00000304874:c.836C>A	C	A	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.836C>A|1
+7	66089175	ENST00000304874:c.918G>C	G	C	.	.	CSQ=splice_region_variant&synonymous_variant|ASL|ENSG00000126522||ENST00000304874.14:c.918G>C|1
+7	66092006	ENST00000304874:c.1063A>C	A	C	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1063A>C|1
+7	66092007	ENST00000304874:c.1064T>A	T	A	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1064T>A|1
+7	66092007	ENST00000304874:c.1064T>G	T	G	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1064T>G|1
+7	66092557	ENST00000304874:c.1144A>G	A	G	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1144A>G|1
+7	66092558	ENST00000304874:c.1145T>G	T	G	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1145T>G|1
+7	66092661	ENST00000304874:c.1248C>A	C	A	.	.	CSQ=splice_region_variant&synonymous_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1248C>A|1
+7	66092661	ENST00000304874:c.1248C>G	C	G	.	.	CSQ=missense_variant&splice_region_variant|ASL|ENSG00000126522||ENST00000304874.14:c.1248C>G|1
+7	92501889	ENST00000248633:c.2416+1G>T	C	A	.	.	CSQ=intron_variant&non_coding_transcript_variant||ENSG00000244055|1/1|ENST00000746412.1:n.154-17753C>A|1,splice_donor_variant|PEX1|ENSG00000127980|14/23|ENST00000248633.9:c.2416+1G>T|-1
+7	107959862	ENST00000222399:c.2315-28A>G	T	C	.	.	CSQ=intron_variant|LAMB1|ENSG00000091136|18/33|ENST00000222399.11:c.2315-28A>G|-1
+7	128395176	ENST00000338791:c.1360A>G	T	C	.	.	CSQ=downstream_gene_variant||ENSG00000294385|||1,missense_variant|IMPDH1|ENSG00000106348||ENST00000338791.11:c.1360A>G|-1
+8	93791324	ENST00000323130:c.1575+5G>A	G	A	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|TMEM67|ENSG00000164953|15/27|ENST00000453321.8:c.1575+5G>A|1
+9	27218817	ENST00000380036:c.3103G>C	G	C	.	.	CSQ=missense_variant&splice_region_variant|TEK|ENSG00000120156||ENST00000380036.10:c.3103G>C|1
+9	78252003	ENST00000277082:c.1165T>C	T	C	.	.	CSQ=missense_variant|CEP78|ENSG00000148019||ENST00000643273.2:c.1165T>C|1
+9	92253357	ENST00000375643:c.2229+5G>A	C	T	.	.	CSQ=splice_donor_5th_base_variant&intron_variant|IARS1|ENSG00000196305|21/33|ENST00000443024.7:c.2229+5G>A|-1
+9	99062070	ENST00000375001:c.3502C>T	C	T	.	.	CSQ=missense_variant|COL15A1|ENSG00000204291||ENST00000375001.8:c.3502C>T|1
+9	130464166	ENST00000352480:c.419A>C	A	C	.	.	CSQ=missense_variant&splice_region_variant|ASS1|ENSG00000130707||ENST00000352480.10:c.419A>C|1
+9	130464166	ENST00000352480:c.419A>T	A	T	.	.	CSQ=missense_variant&splice_region_variant|ASS1|ENSG00000130707||ENST00000352480.10:c.419A>T|1
+9	132903649	ENST00000298552:c.2208+2T>A	A	T	.	.	CSQ=splice_donor_variant|TSC1|ENSG00000165699|17/22|ENST00000298552.9:c.2208+2T>A|-1
+9	136430276	ENST00000371712:c.1802+1G>T	C	A	.	.	CSQ=downstream_gene_variant|PMPCA|ENSG00000165688|||1,splice_donor_variant|INPP5E|ENSG00000148384|9/9|ENST00000371712.4:c.1802+1G>T|-1
+9	136430408	ENST00000371712:c.1671C>T	G	A	.	.	CSQ=downstream_gene_variant|PMPCA|ENSG00000165688|||1,synonymous_variant|INPP5E|ENSG00000148384||ENST00000371712.4:c.1671C>T|-1
+9	136430409	ENST00000371712:c.1670G>A	C	T	.	.	CSQ=missense_variant|INPP5E|ENSG00000148384||ENST00000371712.4:c.1670G>A|-1,downstream_gene_variant|PMPCA|ENSG00000165688|||1
+9	136430414	ENST00000371712:c.1666-1G>T	C	A	.	.	CSQ=downstream_gene_variant|PMPCA|ENSG00000165688|||1,splice_acceptor_variant|INPP5E|ENSG00000148384|8/9|ENST00000371712.4:c.1666-1G>T|-1
+9	136434036	ENST00000371712:c.1034+1G>T	C	A	.	.	CSQ=splice_donor_variant|INPP5E|ENSG00000148384|3/9|ENST00000371712.4:c.1034+1G>T|-1
+9	136434135	ENST00000371712:c.937-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|INPP5E|ENSG00000148384|2/9|ENST00000371712.4:c.937-1G>T|-1
+9	137462821	ENST00000277531:c.3281G>A	C	T	.	.	CSQ=missense_variant|PNPLA7|ENSG00000130653||ENST00000406427.6:c.3356G>A|-1,upstream_gene_variant|NSMF|ENSG00000165802|||-1
+X	13763795	ENST00000340096:c.2539G>A	G	A	.	.	CSQ=missense_variant|OFD1|ENSG00000046651||ENST00000340096.11:c.2539G>A|1
+X	13767237	ENST00000340096:c.2710G>A	G	A	.	.	CSQ=missense_variant|OFD1|ENSG00000046651||ENST00000340096.11:c.2710G>A|1,downstream_gene_variant|GPM6B|ENSG00000046653|||-1
+X	38287248	ENST00000339363:c.2366C>G	G	C	.	.	CSQ=splice_region_variant&splice_polypyrimidine_tract_variant&intron_variant|RPGR|ENSG00000156313|14/14|ENST00000645032.1:c.1754-3C>G|-1
+X	38403740	ENST00000039007:c.663G>A	G	A	.	.	CSQ=splice_region_variant&synonymous_variant|OTC|ENSG00000036473||ENST00000039007.5:c.663G>A|1
+X	38411999	ENST00000039007:c.1005G>A	G	A	.	.	CSQ=missense_variant&splice_region_variant|OTC|ENSG00000036473||ENST00000039007.5:c.1005G>A|1
+X	49211321	ENST00000323022:c.4260+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA1F|ENSG00000102001|36/47|ENST00000323022.10:c.4260+1G>T|-1
+X	49211361	ENST00000323022:c.4221C>T	G	A	.	.	CSQ=synonymous_variant|CACNA1F|ENSG00000102001||ENST00000323022.10:c.4221C>T|-1
+X	49212666	ENST00000323022:c.3942+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA1F|ENSG00000102001|33/47|ENST00000323022.10:c.3942+1G>T|-1
+X	49212741	ENST00000323022:c.3868A>G	T	C	.	.	CSQ=missense_variant|CACNA1F|ENSG00000102001||ENST00000323022.10:c.3868A>G|-1
+X	49214158	ENST00000323022:c.3708+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA1F|ENSG00000102001|30/47|ENST00000323022.10:c.3708+1G>T|-1
+X	49214234	ENST00000323022:c.3633G>T	C	A	.	.	CSQ=missense_variant|CACNA1F|ENSG00000102001||ENST00000323022.10:c.3633G>T|-1
+X	49214270	ENST00000323022:c.3598-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CACNA1F|ENSG00000102001|29/47|ENST00000323022.10:c.3598-1G>T|-1
+X	49222717	ENST00000323022:c.2206+1G>T	C	A	.	.	CSQ=splice_donor_variant|CACNA1F|ENSG00000102001|16/47|ENST00000323022.10:c.2206+1G>T|-1
+X	49228448	ENST00000323022:c.818-1G>T	C	A	.	.	CSQ=splice_acceptor_variant|CACNA1F|ENSG00000102001|6/47|ENST00000323022.10:c.818-1G>T|-1
+X	49231186	ENST00000323022:c.381+16C>T	G	A	.	.	CSQ=downstream_gene_variant||ENSG00000295652|||-1,upstream_gene_variant|CCDC22|ENSG00000101997|||1,intron_variant|CACNA1F|ENSG00000102001|3/47|ENST00000323022.10:c.381+16C>T|-1,downstream_gene_variant|HSPB1P2|ENSG00000230216|||-1
+X	120547149	ENST00000336592:c.778C>T	G	A	.	.	CSQ=missense_variant|CUL4B|ENSG00000158290||ENST00000371322.11:c.763C>T|-1
+X	154435153	ENST00000369762:c.938A>G	A	G	.	.	CSQ=missense_variant|ATP6AP1|ENSG00000071553||ENST00000369762.7:c.938A>G|1,upstream_gene_variant|GDI1|ENSG00000203879|||1

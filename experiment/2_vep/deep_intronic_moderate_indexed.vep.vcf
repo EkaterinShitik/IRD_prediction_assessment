@@ -1,0 +1,505 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=1,length=248956422>
+##contig=<ID=10,length=133797422>
+##contig=<ID=11,length=135086622>
+##contig=<ID=11_KI270721v1_random,length=100316>
+##contig=<ID=12,length=133275309>
+##contig=<ID=13,length=114364328>
+##contig=<ID=14,length=107043718>
+##contig=<ID=14_GL000009v2_random,length=201709>
+##contig=<ID=14_GL000225v1_random,length=211173>
+##contig=<ID=14_KI270722v1_random,length=194050>
+##contig=<ID=14_GL000194v1_random,length=191469>
+##contig=<ID=14_KI270723v1_random,length=38115>
+##contig=<ID=14_KI270724v1_random,length=39555>
+##contig=<ID=14_KI270725v1_random,length=172810>
+##contig=<ID=14_KI270726v1_random,length=43739>
+##contig=<ID=15,length=101991189>
+##contig=<ID=15_KI270727v1_random,length=448248>
+##contig=<ID=16,length=90338345>
+##contig=<ID=16_KI270728v1_random,length=1872759>
+##contig=<ID=17,length=83257441>
+##contig=<ID=17_GL000205v2_random,length=185591>
+##contig=<ID=17_KI270729v1_random,length=280839>
+##contig=<ID=17_KI270730v1_random,length=112551>
+##contig=<ID=18,length=80373285>
+##contig=<ID=19,length=58617616>
+##contig=<ID=1_KI270706v1_random,length=175055>
+##contig=<ID=1_KI270707v1_random,length=32032>
+##contig=<ID=1_KI270708v1_random,length=127682>
+##contig=<ID=1_KI270709v1_random,length=66860>
+##contig=<ID=1_KI270710v1_random,length=40176>
+##contig=<ID=1_KI270711v1_random,length=42210>
+##contig=<ID=1_KI270712v1_random,length=176043>
+##contig=<ID=1_KI270713v1_random,length=40745>
+##contig=<ID=1_KI270714v1_random,length=41717>
+##contig=<ID=2,length=242193529>
+##contig=<ID=20,length=64444167>
+##contig=<ID=21,length=46709983>
+##contig=<ID=22,length=50818468>
+##contig=<ID=22_KI270731v1_random,length=150754>
+##contig=<ID=22_KI270732v1_random,length=41543>
+##contig=<ID=22_KI270733v1_random,length=179772>
+##contig=<ID=22_KI270734v1_random,length=165050>
+##contig=<ID=22_KI270735v1_random,length=42811>
+##contig=<ID=22_KI270736v1_random,length=181920>
+##contig=<ID=22_KI270737v1_random,length=103838>
+##contig=<ID=22_KI270738v1_random,length=99375>
+##contig=<ID=22_KI270739v1_random,length=73985>
+##contig=<ID=2_KI270715v1_random,length=161471>
+##contig=<ID=2_KI270716v1_random,length=153799>
+##contig=<ID=3,length=198295559>
+##contig=<ID=3_GL000221v1_random,length=155397>
+##contig=<ID=4,length=190214555>
+##contig=<ID=4_GL000008v2_random,length=209709>
+##contig=<ID=5,length=181538259>
+##contig=<ID=5_GL000208v1_random,length=92689>
+##contig=<ID=6,length=170805979>
+##contig=<ID=7,length=159345973>
+##contig=<ID=8,length=145138636>
+##contig=<ID=9,length=138394717>
+##contig=<ID=9_KI270717v1_random,length=40062>
+##contig=<ID=9_KI270718v1_random,length=38054>
+##contig=<ID=9_KI270719v1_random,length=176845>
+##contig=<ID=9_KI270720v1_random,length=39050>
+##contig=<ID=1_KI270762v1_alt,length=354444>
+##contig=<ID=1_KI270766v1_alt,length=256271>
+##contig=<ID=1_KI270760v1_alt,length=109528>
+##contig=<ID=1_KI270765v1_alt,length=185285>
+##contig=<ID=1_GL383518v1_alt,length=182439>
+##contig=<ID=1_GL383519v1_alt,length=110268>
+##contig=<ID=1_GL383520v2_alt,length=366580>
+##contig=<ID=1_KI270764v1_alt,length=50258>
+##contig=<ID=1_KI270763v1_alt,length=911658>
+##contig=<ID=1_KI270759v1_alt,length=425601>
+##contig=<ID=1_KI270761v1_alt,length=165834>
+##contig=<ID=2_KI270770v1_alt,length=136240>
+##contig=<ID=2_KI270773v1_alt,length=70887>
+##contig=<ID=2_KI270774v1_alt,length=223625>
+##contig=<ID=2_KI270769v1_alt,length=120616>
+##contig=<ID=2_GL383521v1_alt,length=143390>
+##contig=<ID=2_KI270772v1_alt,length=133041>
+##contig=<ID=2_KI270775v1_alt,length=138019>
+##contig=<ID=2_KI270771v1_alt,length=110395>
+##contig=<ID=2_KI270768v1_alt,length=110099>
+##contig=<ID=2_GL582966v2_alt,length=96131>
+##contig=<ID=2_GL383522v1_alt,length=123821>
+##contig=<ID=2_KI270776v1_alt,length=174166>
+##contig=<ID=2_KI270767v1_alt,length=161578>
+##contig=<ID=3_JH636055v2_alt,length=173151>
+##contig=<ID=3_KI270783v1_alt,length=109187>
+##contig=<ID=3_KI270780v1_alt,length=224108>
+##contig=<ID=3_GL383526v1_alt,length=180671>
+##contig=<ID=3_KI270777v1_alt,length=173649>
+##contig=<ID=3_KI270778v1_alt,length=248252>
+##contig=<ID=3_KI270781v1_alt,length=113034>
+##contig=<ID=3_KI270779v1_alt,length=205312>
+##contig=<ID=3_KI270782v1_alt,length=162429>
+##contig=<ID=3_KI270784v1_alt,length=184404>
+##contig=<ID=4_KI270790v1_alt,length=220246>
+##contig=<ID=4_GL383528v1_alt,length=376187>
+##contig=<ID=4_KI270787v1_alt,length=111943>
+##contig=<ID=4_GL000257v2_alt,length=586476>
+##contig=<ID=4_KI270788v1_alt,length=158965>
+##contig=<ID=4_GL383527v1_alt,length=164536>
+##contig=<ID=4_KI270785v1_alt,length=119912>
+##contig=<ID=4_KI270789v1_alt,length=205944>
+##contig=<ID=4_KI270786v1_alt,length=244096>
+##contig=<ID=5_KI270793v1_alt,length=126136>
+##contig=<ID=5_KI270792v1_alt,length=179043>
+##contig=<ID=5_KI270791v1_alt,length=195710>
+##contig=<ID=5_GL383532v1_alt,length=82728>
+##contig=<ID=5_GL949742v1_alt,length=226852>
+##contig=<ID=5_KI270794v1_alt,length=164558>
+##contig=<ID=5_GL339449v2_alt,length=1612928>
+##contig=<ID=5_GL383530v1_alt,length=101241>
+##contig=<ID=5_KI270796v1_alt,length=172708>
+##contig=<ID=5_GL383531v1_alt,length=173459>
+##contig=<ID=5_KI270795v1_alt,length=131892>
+##contig=<ID=6_GL000250v2_alt,length=4672374>
+##contig=<ID=6_KI270800v1_alt,length=175808>
+##contig=<ID=6_KI270799v1_alt,length=152148>
+##contig=<ID=6_GL383533v1_alt,length=124736>
+##contig=<ID=6_KI270801v1_alt,length=870480>
+##contig=<ID=6_KI270802v1_alt,length=75005>
+##contig=<ID=6_KB021644v2_alt,length=185823>
+##contig=<ID=6_KI270797v1_alt,length=197536>
+##contig=<ID=6_KI270798v1_alt,length=271782>
+##contig=<ID=7_KI270804v1_alt,length=157952>
+##contig=<ID=7_KI270809v1_alt,length=209586>
+##contig=<ID=7_KI270806v1_alt,length=158166>
+##contig=<ID=7_GL383534v2_alt,length=119183>
+##contig=<ID=7_KI270803v1_alt,length=1111570>
+##contig=<ID=7_KI270808v1_alt,length=271455>
+##contig=<ID=7_KI270807v1_alt,length=126434>
+##contig=<ID=7_KI270805v1_alt,length=209988>
+##contig=<ID=8_KI270818v1_alt,length=145606>
+##contig=<ID=8_KI270812v1_alt,length=282736>
+##contig=<ID=8_KI270811v1_alt,length=292436>
+##contig=<ID=8_KI270821v1_alt,length=985506>
+##contig=<ID=8_KI270813v1_alt,length=300230>
+##contig=<ID=8_KI270822v1_alt,length=624492>
+##contig=<ID=8_KI270814v1_alt,length=141812>
+##contig=<ID=8_KI270810v1_alt,length=374415>
+##contig=<ID=8_KI270819v1_alt,length=133535>
+##contig=<ID=8_KI270820v1_alt,length=36640>
+##contig=<ID=8_KI270817v1_alt,length=158983>
+##contig=<ID=8_KI270816v1_alt,length=305841>
+##contig=<ID=8_KI270815v1_alt,length=132244>
+##contig=<ID=9_GL383539v1_alt,length=162988>
+##contig=<ID=9_GL383540v1_alt,length=71551>
+##contig=<ID=9_GL383541v1_alt,length=171286>
+##contig=<ID=9_GL383542v1_alt,length=60032>
+##contig=<ID=9_KI270823v1_alt,length=439082>
+##contig=<ID=10_GL383545v1_alt,length=179254>
+##contig=<ID=10_KI270824v1_alt,length=181496>
+##contig=<ID=10_GL383546v1_alt,length=309802>
+##contig=<ID=10_KI270825v1_alt,length=188315>
+##contig=<ID=11_KI270832v1_alt,length=210133>
+##contig=<ID=11_KI270830v1_alt,length=177092>
+##contig=<ID=11_KI270831v1_alt,length=296895>
+##contig=<ID=11_KI270829v1_alt,length=204059>
+##contig=<ID=11_GL383547v1_alt,length=154407>
+##contig=<ID=11_JH159136v1_alt,length=200998>
+##contig=<ID=11_JH159137v1_alt,length=191409>
+##contig=<ID=11_KI270827v1_alt,length=67707>
+##contig=<ID=11_KI270826v1_alt,length=186169>
+##contig=<ID=12_GL877875v1_alt,length=167313>
+##contig=<ID=12_GL877876v1_alt,length=408271>
+##contig=<ID=12_KI270837v1_alt,length=40090>
+##contig=<ID=12_GL383549v1_alt,length=120804>
+##contig=<ID=12_KI270835v1_alt,length=238139>
+##contig=<ID=12_GL383550v2_alt,length=169178>
+##contig=<ID=12_GL383552v1_alt,length=138655>
+##contig=<ID=12_GL383553v2_alt,length=152874>
+##contig=<ID=12_KI270834v1_alt,length=119498>
+##contig=<ID=12_GL383551v1_alt,length=184319>
+##contig=<ID=12_KI270833v1_alt,length=76061>
+##contig=<ID=12_KI270836v1_alt,length=56134>
+##contig=<ID=13_KI270840v1_alt,length=191684>
+##contig=<ID=13_KI270839v1_alt,length=180306>
+##contig=<ID=13_KI270843v1_alt,length=103832>
+##contig=<ID=13_KI270841v1_alt,length=169134>
+##contig=<ID=13_KI270838v1_alt,length=306913>
+##contig=<ID=13_KI270842v1_alt,length=37287>
+##contig=<ID=14_KI270844v1_alt,length=322166>
+##contig=<ID=14_KI270847v1_alt,length=1511111>
+##contig=<ID=14_KI270845v1_alt,length=180703>
+##contig=<ID=14_KI270846v1_alt,length=1351393>
+##contig=<ID=15_KI270852v1_alt,length=478999>
+##contig=<ID=15_KI270851v1_alt,length=263054>
+##contig=<ID=15_KI270848v1_alt,length=327382>
+##contig=<ID=15_GL383554v1_alt,length=296527>
+##contig=<ID=15_KI270849v1_alt,length=244917>
+##contig=<ID=15_GL383555v2_alt,length=388773>
+##contig=<ID=15_KI270850v1_alt,length=430880>
+##contig=<ID=16_KI270854v1_alt,length=134193>
+##contig=<ID=16_KI270856v1_alt,length=63982>
+##contig=<ID=16_KI270855v1_alt,length=232857>
+##contig=<ID=16_KI270853v1_alt,length=2659700>
+##contig=<ID=16_GL383556v1_alt,length=192462>
+##contig=<ID=16_GL383557v1_alt,length=89672>
+##contig=<ID=17_GL383563v3_alt,length=375691>
+##contig=<ID=17_KI270862v1_alt,length=391357>
+##contig=<ID=17_KI270861v1_alt,length=196688>
+##contig=<ID=17_KI270857v1_alt,length=2877074>
+##contig=<ID=17_JH159146v1_alt,length=278131>
+##contig=<ID=17_JH159147v1_alt,length=70345>
+##contig=<ID=17_GL383564v2_alt,length=133151>
+##contig=<ID=17_GL000258v2_alt,length=1821992>
+##contig=<ID=17_GL383565v1_alt,length=223995>
+##contig=<ID=17_KI270858v1_alt,length=235827>
+##contig=<ID=17_KI270859v1_alt,length=108763>
+##contig=<ID=17_GL383566v1_alt,length=90219>
+##contig=<ID=17_KI270860v1_alt,length=178921>
+##contig=<ID=18_KI270864v1_alt,length=111737>
+##contig=<ID=18_GL383567v1_alt,length=289831>
+##contig=<ID=18_GL383570v1_alt,length=164789>
+##contig=<ID=18_GL383571v1_alt,length=198278>
+##contig=<ID=18_GL383568v1_alt,length=104552>
+##contig=<ID=18_GL383569v1_alt,length=167950>
+##contig=<ID=18_GL383572v1_alt,length=159547>
+##contig=<ID=18_KI270863v1_alt,length=167999>
+##contig=<ID=19_KI270868v1_alt,length=61734>
+##contig=<ID=19_KI270865v1_alt,length=52969>
+##contig=<ID=19_GL383573v1_alt,length=385657>
+##contig=<ID=19_GL383575v2_alt,length=170222>
+##contig=<ID=19_GL383576v1_alt,length=188024>
+##contig=<ID=19_GL383574v1_alt,length=155864>
+##contig=<ID=19_KI270866v1_alt,length=43156>
+##contig=<ID=19_KI270867v1_alt,length=233762>
+##contig=<ID=19_GL949746v1_alt,length=987716>
+##contig=<ID=20_GL383577v2_alt,length=128386>
+##contig=<ID=20_KI270869v1_alt,length=118774>
+##contig=<ID=20_KI270871v1_alt,length=58661>
+##contig=<ID=20_KI270870v1_alt,length=183433>
+##contig=<ID=21_GL383578v2_alt,length=63917>
+##contig=<ID=21_KI270874v1_alt,length=166743>
+##contig=<ID=21_KI270873v1_alt,length=143900>
+##contig=<ID=21_GL383579v2_alt,length=201197>
+##contig=<ID=21_GL383580v2_alt,length=74653>
+##contig=<ID=21_GL383581v2_alt,length=116689>
+##contig=<ID=21_KI270872v1_alt,length=82692>
+##contig=<ID=22_KI270875v1_alt,length=259914>
+##contig=<ID=22_KI270878v1_alt,length=186262>
+##contig=<ID=22_KI270879v1_alt,length=304135>
+##contig=<ID=22_KI270876v1_alt,length=263666>
+##contig=<ID=22_KI270877v1_alt,length=101331>
+##contig=<ID=22_GL383583v2_alt,length=96924>
+##contig=<ID=22_GL383582v2_alt,length=162811>
+##contig=<ID=X_KI270880v1_alt,length=284869>
+##contig=<ID=X_KI270881v1_alt,length=144206>
+##contig=<ID=19_KI270882v1_alt,length=248807>
+##contig=<ID=19_KI270883v1_alt,length=170399>
+##contig=<ID=19_KI270884v1_alt,length=157053>
+##contig=<ID=19_KI270885v1_alt,length=171027>
+##contig=<ID=19_KI270886v1_alt,length=204239>
+##contig=<ID=19_KI270887v1_alt,length=209512>
+##contig=<ID=19_KI270888v1_alt,length=155532>
+##contig=<ID=19_KI270889v1_alt,length=170698>
+##contig=<ID=19_KI270890v1_alt,length=184499>
+##contig=<ID=19_KI270891v1_alt,length=170680>
+##contig=<ID=1_KI270892v1_alt,length=162212>
+##contig=<ID=2_KI270894v1_alt,length=214158>
+##contig=<ID=2_KI270893v1_alt,length=161218>
+##contig=<ID=3_KI270895v1_alt,length=162896>
+##contig=<ID=4_KI270896v1_alt,length=378547>
+##contig=<ID=5_KI270897v1_alt,length=1144418>
+##contig=<ID=5_KI270898v1_alt,length=130957>
+##contig=<ID=6_GL000251v2_alt,length=4795265>
+##contig=<ID=7_KI270899v1_alt,length=190869>
+##contig=<ID=8_KI270901v1_alt,length=136959>
+##contig=<ID=8_KI270900v1_alt,length=318687>
+##contig=<ID=11_KI270902v1_alt,length=106711>
+##contig=<ID=11_KI270903v1_alt,length=214625>
+##contig=<ID=12_KI270904v1_alt,length=572349>
+##contig=<ID=15_KI270906v1_alt,length=196384>
+##contig=<ID=15_KI270905v1_alt,length=5161414>
+##contig=<ID=17_KI270907v1_alt,length=137721>
+##contig=<ID=17_KI270910v1_alt,length=157099>
+##contig=<ID=17_KI270909v1_alt,length=325800>
+##contig=<ID=17_JH159148v1_alt,length=88070>
+##contig=<ID=17_KI270908v1_alt,length=1423190>
+##contig=<ID=18_KI270912v1_alt,length=174061>
+##contig=<ID=18_KI270911v1_alt,length=157710>
+##contig=<ID=19_GL949747v2_alt,length=729520>
+##contig=<ID=22_KB663609v1_alt,length=74013>
+##contig=<ID=X_KI270913v1_alt,length=274009>
+##contig=<ID=19_KI270914v1_alt,length=205194>
+##contig=<ID=19_KI270915v1_alt,length=170665>
+##contig=<ID=19_KI270916v1_alt,length=184516>
+##contig=<ID=19_KI270917v1_alt,length=190932>
+##contig=<ID=19_KI270918v1_alt,length=123111>
+##contig=<ID=19_KI270919v1_alt,length=170701>
+##contig=<ID=19_KI270920v1_alt,length=198005>
+##contig=<ID=19_KI270921v1_alt,length=282224>
+##contig=<ID=19_KI270922v1_alt,length=187935>
+##contig=<ID=19_KI270923v1_alt,length=189352>
+##contig=<ID=3_KI270924v1_alt,length=166540>
+##contig=<ID=4_KI270925v1_alt,length=555799>
+##contig=<ID=6_GL000252v2_alt,length=4604811>
+##contig=<ID=8_KI270926v1_alt,length=229282>
+##contig=<ID=11_KI270927v1_alt,length=218612>
+##contig=<ID=19_GL949748v2_alt,length=1064304>
+##contig=<ID=22_KI270928v1_alt,length=176103>
+##contig=<ID=19_KI270929v1_alt,length=186203>
+##contig=<ID=19_KI270930v1_alt,length=200773>
+##contig=<ID=19_KI270931v1_alt,length=170148>
+##contig=<ID=19_KI270932v1_alt,length=215732>
+##contig=<ID=19_KI270933v1_alt,length=170537>
+##contig=<ID=19_GL000209v2_alt,length=177381>
+##contig=<ID=3_KI270934v1_alt,length=163458>
+##contig=<ID=6_GL000253v2_alt,length=4677643>
+##contig=<ID=19_GL949749v2_alt,length=1091841>
+##contig=<ID=3_KI270935v1_alt,length=197351>
+##contig=<ID=6_GL000254v2_alt,length=4827813>
+##contig=<ID=19_GL949750v2_alt,length=1066390>
+##contig=<ID=3_KI270936v1_alt,length=164170>
+##contig=<ID=6_GL000255v2_alt,length=4606388>
+##contig=<ID=19_GL949751v2_alt,length=1002683>
+##contig=<ID=3_KI270937v1_alt,length=165607>
+##contig=<ID=6_GL000256v2_alt,length=4929269>
+##contig=<ID=19_GL949752v1_alt,length=987100>
+##contig=<ID=6_KI270758v1_alt,length=76752>
+##contig=<ID=19_GL949753v2_alt,length=796479>
+##contig=<ID=19_KI270938v1_alt,length=1066800>
+##contig=<ID=M,length=16569>
+##contig=<ID=Un_KI270302v1,length=2274>
+##contig=<ID=Un_KI270304v1,length=2165>
+##contig=<ID=Un_KI270303v1,length=1942>
+##contig=<ID=Un_KI270305v1,length=1472>
+##contig=<ID=Un_KI270322v1,length=21476>
+##contig=<ID=Un_KI270320v1,length=4416>
+##contig=<ID=Un_KI270310v1,length=1201>
+##contig=<ID=Un_KI270316v1,length=1444>
+##contig=<ID=Un_KI270315v1,length=2276>
+##contig=<ID=Un_KI270312v1,length=998>
+##contig=<ID=Un_KI270311v1,length=12399>
+##contig=<ID=Un_KI270317v1,length=37690>
+##contig=<ID=Un_KI270412v1,length=1179>
+##contig=<ID=Un_KI270411v1,length=2646>
+##contig=<ID=Un_KI270414v1,length=2489>
+##contig=<ID=Un_KI270419v1,length=1029>
+##contig=<ID=Un_KI270418v1,length=2145>
+##contig=<ID=Un_KI270420v1,length=2321>
+##contig=<ID=Un_KI270424v1,length=2140>
+##contig=<ID=Un_KI270417v1,length=2043>
+##contig=<ID=Un_KI270422v1,length=1445>
+##contig=<ID=Un_KI270423v1,length=981>
+##contig=<ID=Un_KI270425v1,length=1884>
+##contig=<ID=Un_KI270429v1,length=1361>
+##contig=<ID=Un_KI270442v1,length=392061>
+##contig=<ID=Un_KI270466v1,length=1233>
+##contig=<ID=Un_KI270465v1,length=1774>
+##contig=<ID=Un_KI270467v1,length=3920>
+##contig=<ID=Un_KI270435v1,length=92983>
+##contig=<ID=Un_KI270438v1,length=112505>
+##contig=<ID=Un_KI270468v1,length=4055>
+##contig=<ID=Un_KI270510v1,length=2415>
+##contig=<ID=Un_KI270509v1,length=2318>
+##contig=<ID=Un_KI270518v1,length=2186>
+##contig=<ID=Un_KI270508v1,length=1951>
+##contig=<ID=Un_KI270516v1,length=1300>
+##contig=<ID=Un_KI270512v1,length=22689>
+##contig=<ID=Un_KI270519v1,length=138126>
+##contig=<ID=Un_KI270522v1,length=5674>
+##contig=<ID=Un_KI270511v1,length=8127>
+##contig=<ID=Un_KI270515v1,length=6361>
+##contig=<ID=Un_KI270507v1,length=5353>
+##contig=<ID=Un_KI270517v1,length=3253>
+##contig=<ID=Un_KI270529v1,length=1899>
+##contig=<ID=Un_KI270528v1,length=2983>
+##contig=<ID=Un_KI270530v1,length=2168>
+##contig=<ID=Un_KI270539v1,length=993>
+##contig=<ID=Un_KI270538v1,length=91309>
+##contig=<ID=Un_KI270544v1,length=1202>
+##contig=<ID=Un_KI270548v1,length=1599>
+##contig=<ID=Un_KI270583v1,length=1400>
+##contig=<ID=Un_KI270587v1,length=2969>
+##contig=<ID=Un_KI270580v1,length=1553>
+##contig=<ID=Un_KI270581v1,length=7046>
+##contig=<ID=Un_KI270579v1,length=31033>
+##contig=<ID=Un_KI270589v1,length=44474>
+##contig=<ID=Un_KI270590v1,length=4685>
+##contig=<ID=Un_KI270584v1,length=4513>
+##contig=<ID=Un_KI270582v1,length=6504>
+##contig=<ID=Un_KI270588v1,length=6158>
+##contig=<ID=Un_KI270593v1,length=3041>
+##contig=<ID=Un_KI270591v1,length=5796>
+##contig=<ID=Un_KI270330v1,length=1652>
+##contig=<ID=Un_KI270329v1,length=1040>
+##contig=<ID=Un_KI270334v1,length=1368>
+##contig=<ID=Un_KI270333v1,length=2699>
+##contig=<ID=Un_KI270335v1,length=1048>
+##contig=<ID=Un_KI270338v1,length=1428>
+##contig=<ID=Un_KI270340v1,length=1428>
+##contig=<ID=Un_KI270336v1,length=1026>
+##contig=<ID=Un_KI270337v1,length=1121>
+##contig=<ID=Un_KI270363v1,length=1803>
+##contig=<ID=Un_KI270364v1,length=2855>
+##contig=<ID=Un_KI270362v1,length=3530>
+##contig=<ID=Un_KI270366v1,length=8320>
+##contig=<ID=Un_KI270378v1,length=1048>
+##contig=<ID=Un_KI270379v1,length=1045>
+##contig=<ID=Un_KI270389v1,length=1298>
+##contig=<ID=Un_KI270390v1,length=2387>
+##contig=<ID=Un_KI270387v1,length=1537>
+##contig=<ID=Un_KI270395v1,length=1143>
+##contig=<ID=Un_KI270396v1,length=1880>
+##contig=<ID=Un_KI270388v1,length=1216>
+##contig=<ID=Un_KI270394v1,length=970>
+##contig=<ID=Un_KI270386v1,length=1788>
+##contig=<ID=Un_KI270391v1,length=1484>
+##contig=<ID=Un_KI270383v1,length=1750>
+##contig=<ID=Un_KI270393v1,length=1308>
+##contig=<ID=Un_KI270384v1,length=1658>
+##contig=<ID=Un_KI270392v1,length=971>
+##contig=<ID=Un_KI270381v1,length=1930>
+##contig=<ID=Un_KI270385v1,length=990>
+##contig=<ID=Un_KI270382v1,length=4215>
+##contig=<ID=Un_KI270376v1,length=1136>
+##contig=<ID=Un_KI270374v1,length=2656>
+##contig=<ID=Un_KI270372v1,length=1650>
+##contig=<ID=Un_KI270373v1,length=1451>
+##contig=<ID=Un_KI270375v1,length=2378>
+##contig=<ID=Un_KI270371v1,length=2805>
+##contig=<ID=Un_KI270448v1,length=7992>
+##contig=<ID=Un_KI270521v1,length=7642>
+##contig=<ID=Un_GL000195v1,length=182896>
+##contig=<ID=Un_GL000219v1,length=179198>
+##contig=<ID=Un_GL000220v1,length=161802>
+##contig=<ID=Un_GL000224v1,length=179693>
+##contig=<ID=Un_KI270741v1,length=157432>
+##contig=<ID=Un_GL000226v1,length=15008>
+##contig=<ID=Un_GL000213v1,length=164239>
+##contig=<ID=Un_KI270743v1,length=210658>
+##contig=<ID=Un_KI270744v1,length=168472>
+##contig=<ID=Un_KI270745v1,length=41891>
+##contig=<ID=Un_KI270746v1,length=66486>
+##contig=<ID=Un_KI270747v1,length=198735>
+##contig=<ID=Un_KI270748v1,length=93321>
+##contig=<ID=Un_KI270749v1,length=158759>
+##contig=<ID=Un_KI270750v1,length=148850>
+##contig=<ID=Un_KI270751v1,length=150742>
+##contig=<ID=Un_KI270752v1,length=27745>
+##contig=<ID=Un_KI270753v1,length=62944>
+##contig=<ID=Un_KI270754v1,length=40191>
+##contig=<ID=Un_KI270755v1,length=36723>
+##contig=<ID=Un_KI270756v1,length=79590>
+##contig=<ID=Un_KI270757v1,length=71251>
+##contig=<ID=Un_GL000214v1,length=137718>
+##contig=<ID=Un_KI270742v1,length=186739>
+##contig=<ID=Un_GL000216v2,length=176608>
+##contig=<ID=Un_GL000218v1,length=161147>
+##contig=<ID=X,length=156040895>
+##contig=<ID=Y,length=57227415>
+##contig=<ID=Y_KI270740v1_random,length=37240>
+##VEP="v115.2" API="v115" time="2025-10-05 21:25:41" cache="/data/homo_sapiens/115_GRCh38" ensembl=115.266b84d ensembl-compara=115.ae48a7a ensembl-funcgen=115.57f7061 ensembl-io=115.25061d3 ensembl-variation=115.b7c2637 1000genomes="phase3" COSMIC="101" ClinVar="202502" HGMD-PUBLIC="20204" assembly="GRCh38.p14" dbSNP="156" gencode="GENCODE 49" genebuild="GENCODE49" gnomADe="v4.1" gnomADg="v4.1" polyphen="2.2.3" regbuild="1.0" sift="6.2.1"
+##INFO=<ID=CSQ,Number=.,Type=String,Description="Consequence annotations from Ensembl VEP. Format: Consequence|SYMBOL|Gene|INTRON|HGVSc|STRAND">
+##VEP-command-line='vep --assembly GRCh38 --cache --database 0 --dir_cache /data --dir_plugins /plugins --fasta [PATH]/genome_noprefix.fa --fields Consequence,SYMBOL,Gene,INTRON,HGVSc,STRAND --hgvs --input_file [PATH]/deep_intronic_moderate_indexed.vcf --offline --output_file [PATH]/deep_intronic_moderate_indexed.vep.vcf --pick_allele_gene --vcf'
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	67413648	ENST00000361219:c.1126-385G>T	C	A	.	.	CSQ=intron_variant|SERBP1|ENSG00000142864|7/7|ENST00000361219.11:c.1126-385G>T|-1,upstream_gene_variant|RNU6-387P|ENSG00000223263|||1
+1	94038815	ENST00000370225.3:c.3607+1228C>T	G	A	.	.	CSQ=intron_variant|ABCA4|ENSG00000198691|24/49|ENST00000370225.4:c.3607+1228C>T|-1
+1	94062156	ENST00000370225:c.1937+421A>G	T	C	.	.	CSQ=intron_variant|ABCA4|ENSG00000198691|13/49|ENST00000370225.4:c.1937+421A>G|-1
+1	94075406	ENST00000370225.3:c.1554+2284G>T	C	A	.	.	CSQ=intron_variant|ABCA4|ENSG00000198691|11/49|ENST00000370225.4:c.1554+2284G>T|-1
+1	94117794	ENST00000370225.3:c.66+3186C>T	G	A	.	.	CSQ=intron_variant|ABCA4|ENSG00000198691|1/49|ENST00000370225.4:c.66+3186C>T|-1
+1	100200640	ENST00000370132:c.1282-4218G>A	C	T	.	.	CSQ=intron_variant&non_coding_transcript_variant||ENSG00000285530|2/4|ENST00000835180.1:n.140-18004C>T|1,downstream_gene_variant|RPL23AP90|ENSG00000271415|||1,intron_variant|DBT|ENSG00000137992|10/10|ENST00000370132.8:c.1282-4218G>A|-1
+1	215715611	ENST00000307340.7:c.12066+12419C>A	G	T	.	.	CSQ=intron_variant|USH2A|ENSG00000042781|61/71|ENST00000307340.8:c.12066+12419C>A|-1
+1	215723303	ENST00000307340.7:c.12066+4727G>A	C	T	.	.	CSQ=intron_variant|USH2A|ENSG00000042781|61/71|ENST00000307340.8:c.12066+4727G>A|-1
+1	215795345	ENST00000307340.7:c.9958+3562C>T	G	A	.	.	CSQ=intron_variant|USH2A|ENSG00000042781|50/71|ENST00000307340.8:c.9958+3562C>T|-1
+1	216417529	ENST00000307340:c.651+985A>C	T	G	.	.	CSQ=intron_variant|USH2A|ENSG00000042781|3/71|ENST00000307340.8:c.651+985A>C|-1
+10	20089118	ENST00000377238:n.316+20879A>G	A	G	.	.	CSQ=intron_variant|PLXDC2|ENSG00000120594|4/13|ENST00000377252.5:c.541+20879A>G|1,intron_variant&non_coding_transcript_variant|PLXDC2-AS1|ENSG00000238246|1/1|ENST00000451584.1:n.51+2616T>C|-1
+11	9411040	ENST00000379719:c.479+954G>C	G	C	.	.	CSQ=intron_variant|IPO7|ENSG00000205339|4/24|ENST00000379719.8:c.479+954G>C|1
+11	117396360	ENST00000278935.7:c.3216+180G>A	G	A	.	.	CSQ=intron_variant|CEP164|ENSG00000110274|25/32|ENST00000278935.8:c.3216+180G>A|1
+12	88118025	ENST00000552810.5:c.1711+458T>C	A	G	.	.	CSQ=intron_variant|CEP290|ENSG00000198707|17/53|ENST00000552810.6:c.1711+458T>C|-1
+15	26730416	ENST00000299267:c.240+41985del	TC	T	.	.	CSQ=intron_variant|GABRB3|ENSG00000166206|3/8|ENST00000311550.10:c.240+41985del|-1
+15	42362740	ENST00000318023:c.309+2626A>G	A	G	.	.	CSQ=intron_variant|CAPN3|ENSG00000092529|1/23|ENST00000397163.8:c.309+2626A>G|1
+16	53624469	ENST00000647211.1:c.3295-2113C>T	G	A	.	.	CSQ=intron_variant|RPGRIP1L|ENSG00000103494|22/26|ENST00000647211.2:c.3295-2113C>T|-1,downstream_gene_variant||ENSG00000275191|||-1
+16	89526754	ENST00000268704:c.758+286G>C	G	C	.	.	CSQ=intron_variant|SPG7|ENSG00000197912|5/16|ENST00000645818.2:c.758+286G>C|1
+18	6982822	ENST00000389658.3:c.5797-232C>T	G	A	.	.	CSQ=intron_variant|LAMA1|ENSG00000101680|40/62|ENST00000389658.4:c.5797-232C>T|-1
+18	7113110	ENST00000389658.3:c.61+4550A>G	T	C	.	.	CSQ=intron_variant|LAMA1|ENSG00000101680|1/62|ENST00000389658.4:c.61+4550A>G|-1
+18	74637898	ENST00000299687:c.4687+2192A>C	A	C	.	.	CSQ=intron_variant|ZNF407|ENSG00000215421|2/8|ENST00000299687.10:c.4687+2192A>C|1
+21	44534795	ENST00000323084:c.304-872G>C	C	G	.	.	CSQ=downstream_gene_variant|KRTAP10-1|ENSG00000215455|||-1,downstream_gene_variant||ENSG00000287088|||1,intron_variant|TSPEAR|ENSG00000175894|2/11|ENST00000323084.9:c.304-872G>C|-1
+5	88813529	ENST00000340208:c.55-8728C>G	G	C	.	.	CSQ=intron_variant|MEF2C|ENSG00000081189|2/10|ENST00000504921.7:c.55-8728C>G|-1
+5	127300340	ENST00000274473:c.-19+294G>A	G	A	.	.	CSQ=intron_variant|MEGF10|ENSG00000145794|1/24|ENST00000503335.7:c.-19+9284G>A|1
+5	149895639	ENST00000255266.9:c.1621-349T>G	A	C	.	.	CSQ=intron_variant|PDE6A|ENSG00000132915|12/21|ENST00000255266.10:c.1621-349T>G|-1
+6	42564691	ENST00000372899:c.78+294T>G	T	G	.	.	CSQ=downstream_gene_variant||ENSG00000308721|||1,intron_variant|UBR2|ENSG00000024048|1/46|ENST00000372901.2:c.78+294T>G|1
+6	64156873	ENST00000370621.7:c.6424+73718:6424+73724del	AA	A	.	.	CSQ=intron_variant|EYS|ENSG00000188107|31/42|ENST00000503581.6:c.6424+73719del|-1
+6	64962795	ENST00000370621.7:c.2260-16881C>G	G	C	.	.	CSQ=intron_variant|EYS|ENSG00000188107|14/42|ENST00000503581.6:c.2260-16881C>G|-1
+6	65054804	ENST00000370621.7:c.2137+2810A>G	T	C	.	.	CSQ=intron_variant|EYS|ENSG00000188107|13/42|ENST00000503581.6:c.2137+2810A>G|-1
+6	65345828	ENST00000370621.7:c.1460-1651G>C	C	G	.	.	CSQ=intron_variant|EYS|ENSG00000188107|9/42|ENST00000503581.6:c.1460-1651G>C|-1
+6	65446195	ENST00000370621.7:c.863-40828G>A	C	T	.	.	CSQ=intron_variant|EYS|ENSG00000188107|5/42|ENST00000503581.6:c.863-40828G>A|-1
+6	65519741	ENST00000370621.7:c.-332-23748C>A	G	T	.	.	CSQ=intron_variant|EYS|ENSG00000188107|2/42|ENST00000503581.6:c.-332-23748C>A|-1
+7	7477511	ENST00000399429:c.1165-331C>G	G	C	.	.	CSQ=intron_variant|COL28A1|ENSG00000215018|13/34|ENST00000399429.8:c.1165-331C>G|-1,non_coding_transcript_exon_variant||ENSG00000296684||ENST00000741186.1:n.286C>G|-1
+7	56039148	ENST00000275605:c.-291-5042G>T	C	A	.	.	CSQ=intron_variant|PSPH|ENSG00000146733|1/7|ENST00000275605.8:c.-291-5042G>T|-1
+8	99033081	ENST00000358544.6:c.148-5342A>T	A	T	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|2/61|ENST00000357162.7:c.148-5342A>T|1
+8	99088290	ENST00000358544.6:c.292-8022G>T	G	T	.	.	CSQ=downstream_gene_variant||ENSG00000253562|||-1,intron_variant|VPS13B|ENSG00000132549|3/61|ENST00000357162.7:c.292-8022G>T|1
+8	99331565	ENST00000358544.6:c.2825-52643A>C	A	C	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|19/61|ENST00000357162.7:c.2825-52643A>C|1
+8	99516825	ENST00000358544.6:c.4709-4074G>T	G	T	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|29/61|ENST00000357162.7:c.4634-4074G>T|1
+8	99630877	ENST00000358544.6:c.5296-10934T>C	T	C	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|33/61|ENST00000357162.7:c.5221-10934T>C|1
+8	99640481	ENST00000358544.6:c.5296-1330T>C	T	C	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|33/61|ENST00000357162.7:c.5221-1330T>C|1
+8	99742151	ENST00000358544.6:c.7125+21104C>T	C	T	.	.	CSQ=intron_variant|VPS13B|ENSG00000132549|39/61|ENST00000357162.7:c.7050+21104C>T|1
+9	85713505	ENST00000337006:c.189-20692A>G	T	C	.	.	CSQ=intron_variant|AGTPBP1|ENSG00000135049|1/25|ENST00000357081.8:c.-33-939A>G|-1
+9	137641344	ENST00000371394:c.21+22295T>C	T	C	.	.	CSQ=upstream_gene_variant|Metazoa_SRP|ENSG00000274841|||-1,non_coding_transcript_exon_variant|SETP5|ENSG00000233998||ENST00000437270.1:n.204A>G|-1,intron_variant|EHMT1|ENSG00000181090|1/26|ENST00000460843.6:c.21+22295T>C|1
+X	32441421	ENST00000357033:c.3787-107A>G	T	C	.	.	CSQ=intron_variant|DMD|ENSG00000198947|27/78|ENST00000357033.9:c.3787-107A>G|-1
