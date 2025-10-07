@@ -1,0 +1,48 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	9956947	G	T	NMNAT1	False	False		False
+1	9964768	T	C	NMNAT1	False	False		False
+1	43650631	G	C	KDM4A	False	False	False	False
+10	71407820	C	T	CDH23	False	False	False	False
+12	131929445	G	A	PUS1	False	True	False	False
+14	93326671	G	A	BTBD7	False	False		False
+15	71795439	T	G	NR2E3				False
+15	78540983	C	G	PSMA4	False	True	True	False
+15	92900529	G	C	CHD2	False	False	False	False
+17	68277419	C	T	ARSG	False	False		False
+17	75444036	G	A	TMEM94	False			False
+17	75447414	T	A	TMEM94	False			False
+17	75450151	C	T	TMEM94	False			False
+18	62167236	A	C	PIGN	False	False		False
+18	62172550	C	T	PIGN	False	False		False
+20	2874341	A	G	PTPRA	True	True	True	False
+20	41231379	T	A	ZHX3	False	True	True	False
+3	129174104	T	C	CNBP	False	True	True	False
+6	10837919	G	T	MAK	False	False	False	False
+6	65499308	G	T	EYS	False	False	False	False
+6	65517563	C	T	EYS	False	False	False	False
+6	65523440	T	C	EYS	False	False		False
+6	65542538	T	A	EYS	False	False	False	False
+6	65542539	C	A	EYS	False	False	False	False
+6	65542562	T	A	EYS	False	False	False	False
+6	65560354	A	C	EYS	False	False		False
+6	65581673	A	C	EYS	False	False	False	False
+6	65598246	C	T	EYS	False	False	False	False
+6	65606044	T	G	EYS	False	False	False	False
+6	65611380	G	A	EYS	False	False	False	False
+6	65628312	G	T	EYS	False	False		False
+6	65633598	A	G	EYS	False	False	False	False
+6	65636890	C	T	EYS	False	False		False
+6	65647467	A	T	EYS	False	False		False
+6	65649179	C	A	EYS	False	False	False	False
+6	65655003	G	T	EYS	False	False	False	False
+6	65655007	G	T	EYS	False	False	False	False
+6	65656915	T	C	EYS	False	False		False
+6	65689263	C	A	EYS	False	False		False
+7	108282706	T	C	NRCAM	False	False	True	False
+8	71359597	T	G	EYA1	False		False	False
+X	9783852	A	G	GPR143	False		False	False
+X	131078836	C	A	ARHGAP36	False	False	False	False
+5	127300340	G	A	MEGF10	False	True	True	True
+6	65519741	G	T	EYS	False	False		True
+7	56039148	C	A	PSPH	False	True		True
+9	85713505	T	C	AGTPBP1	False	False		True

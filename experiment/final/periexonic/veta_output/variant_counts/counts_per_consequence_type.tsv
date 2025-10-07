@@ -1,0 +1,11 @@
+location	Pathogenic	Benign
+splice_site	179	325
+missense	65	2039
+splice_region	48	346
+synonymous	25	391
+noncodingRNA	11	153
+intronic	10	405
+3primeUTR	5	20
+other_coding	2	17
+5primeUTR	1	12
+frameshift	0	2

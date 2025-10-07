@@ -1,0 +1,67 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	9973974	AT	A	NMNAT1	False	False		False
+1	10518975	GT	G	PEX14	False	False	False	False
+1	93994352	T	TT	ABCA4	False	False	False	False
+1	94008010	AT	A	ABCA4	False	False		False
+1	94060125	TC	T	ABCA4	False	False	False	False
+1	215701465	AG	A	USH2A	False	False		False
+1	215742886	CA	C	USH2A	False	False	False	False
+1	215822305	CA	C	USH2A	False	False		False
+1	215833774	GA	G	USH2A	False	False		False
+1	215913336	CT	C	USH2A	False	False		False
+1	215929746	TG	T	USH2A	False	False		False
+1	216126692	T	TT	USH2A	False	False		False
+1	216138921	TG	T	USH2A	False	False		False
+1	216189609	AA	A	USH2A	False	False	False	False
+1	216355305	CA	C	USH2A	False	False		False
+10	71537845	T	TA	CDH23	False	False		False
+11	22266069	TCT	T	ANO5	False	False		False
+12	94396280	CT	C	CEP83	False	False		False
+14	100521164	ACAGACACACACA	A	WDR25	False	False		False
+14	100521178	AGACACACACACA	A	WDR25	False	False		False
+14	105838219	ACG	A	IGHD			False	False
+16	3024959	TG	T	THOC6	False	True		False
+17	68417755	T	TT	ARSG	False	False		False
+18	62074622	CT	C	PIGN	False	False	False	False
+18	62156337	TA	T	PIGN	False	False	False	False
+2	168966888	ATC	A	ABCB11	False	False	True	False
+4	6285202	GG	G	WFS1	False	False	False	False
+4	186695759	A	AC	FAT1	False	False	False	False
+5	248215	CTGA	C	SDHA	False	False		False
+5	90980650	AA	A	ADGRV1	False	False	False	False
+6	63727925	TA	T	EYS	False	False		False
+6	63824224	TA	T	EYS	False	False		False
+6	63835261	A	AA	EYS	False	False		False
+6	63836584	AA	A	EYS	False	False	False	False
+6	63837127	CA	C	EYS	False	False	False	False
+6	63986626	GA	G	EYS	False	False		False
+6	64012406	GC	G	EYS	False	False	False	False
+6	64125787	A	AA	EYS	False	False		False
+6	64319712	C	CC	EYS	False	False		False
+6	64403363	T	TT	EYS	False	False		False
+6	64486023	TA	T	EYS	False	False	False	False
+6	64570706	AG	A	EYS	False	False		False
+6	64619674	TT	T	EYS	False	False		False
+6	64622575	GA	G	EYS	False	False	False	False
+6	64768488	AT	A	EYS	False	False	False	False
+6	64824740	CA	C	EYS	False	False	False	False
+6	64839275	AT	A	EYS	False	False	False	False
+6	64879484	A	AA	EYS	False	False		False
+6	64938344	GA	G	EYS	False	False		False
+6	65114366	GC	G	EYS	False	False		False
+6	65204986	TA	T	EYS	False	False		False
+6	65440695	A	AA	EYS	False	False	False	False
+6	130907218	T	TT	EPB41L2	False	False	False	False
+6	157002118	AG	A	ARID1B	False	False	False	False
+6	157002119	GA	G	ARID1B	False	False	False	False
+7	73497083	ACCT	A	BAZ1B	False	True		False
+7	107420319	ACAACT	A	COG5	False	False		False
+8	99154565	CC	C	VPS13B	False	False	False	False
+8	99592031	GG	G	VPS13B	False	False		False
+9	128645451	C	CC	DYNC2I2	False	False		False
+X	92147809	T	TTTTCTT	PCDH11X	False	False		False
+X	124056528	TC	T	STAG2	False	False		False
+X	124056529	CG	C	STAG2	False	False		False
+X	130255131	CT	C	ZNF280C	False	False		False
+15	26730416	TC	T	GABRB3	False	True		True
+6	64156873	AA	A	EYS	False	False		True

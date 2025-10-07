@@ -1,0 +1,9 @@
+location	Pathogenic	Benign
+intronic	123	689
+5primeUTR	9	53
+noncodingRNA	7	91
+3primeUTR	1	15
+missense	0	1
+other_types	0	1
+splice_region	0	1
+synonymous	0	1

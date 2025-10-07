@@ -1,0 +1,13 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	204922021	GGG	G	NFASC	False	True	True	False
+11	117330663	AG	A	CEP164	False	False		False
+11	117337524	AG	A	CEP164	False	False		False
+17	19377491	AATATGCATAC	A	B9D1	False		False	False
+17	75461998	T	TTT	TMEM94	False	False		False
+3	10002279	T	TATT	EMC3	False			False
+4	95046797	GCAAAATTAAGTTG	G	BMPR1B	False	False	False	False
+4	95046808	TTGGCTATCTCAGT	T	BMPR1B	False	False	False	False
+6	65502448	A	AA	EYS	False	False		False
+6	65540564	TA	T	EYS	False	False	False	False
+10	71403325	TC	T	CDH23	False	False		True
+5	139197267	TC	T	SIL1	False	True		True

@@ -1,0 +1,4 @@
+tool	precision	specificity	sensitivity	mcc	norm_mcc	weighted_norm_mcc	tp	fp	tn	fn	mp	mn	scored_p	scored_n	total_p	total_n	F1	weighted_F1	total	correct	nan	fraction_nan	coverage	accuracy	weighted_accuracy
+SQUIRLS	0	1.0	0	0.0	0.5	0.5	0	0	14	0	0	0	0	14	0	14	0	0	14	14	0	0.0	1.0	1.0	1.0
+SpliceAI	0	1.0	0	0.0	0.5	0.5	0	0	14	0	0	0	0	14	0	14	0	0	14	14	0	0.0	1.0	1.0	1.0
+Pangolin	0	1.0	0	0.0	0.5	0.143	0	0	4	0	0	10	0	4	0	14	0	0	14	4	10	0.7142857142857143	0.2857142857142857	1.0	0.286

@@ -1,0 +1,22 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	93994352	T	TT	ABCA4	False	False	False	False
+1	216126692	T	TT	USH2A	False	False		False
+10	71537845	T	TA	CDH23	False	False		False
+11	22031309	T	TCT					False
+11	22031309	T	TCTT					False
+15	31388868	T	TT	KLF13	False		False	False
+17	68417755	T	TT	ARSG	False	False		False
+17	75461998	T	TTT	TMEM94	False	False		False
+3	10002279	T	TATT	EMC3	False			False
+3	10002279	T	TATTTTATTTTATTTTATTTTATTTTATTTTATT		False			False
+4	186695759	A	AC	FAT1	False	False	False	False
+6	63835261	A	AA	EYS	False	False		False
+6	64125787	A	AA	EYS	False	False		False
+6	64319712	C	CC	EYS	False	False		False
+6	64403363	T	TT	EYS	False	False		False
+6	64879484	A	AA	EYS	False	False		False
+6	65440695	A	AA	EYS	False	False	False	False
+6	65502448	A	AA	EYS	False	False		False
+6	130907218	T	TT	EPB41L2	False	False	False	False
+9	128645451	C	CC	DYNC2I2	False	False		False
+X	92147809	T	TTTTCTT	PCDH11X	False	False		False

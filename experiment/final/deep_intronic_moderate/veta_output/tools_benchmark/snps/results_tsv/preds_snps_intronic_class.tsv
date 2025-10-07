@@ -1,0 +1,662 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	935279	G	T	SAMD11	False	False	False	False
+1	9973961	C	G	NMNAT1	False	False		False
+1	9974327	G	A	NMNAT1	False	False		False
+1	9976917	T	C	NMNAT1	False	False		False
+1	9978716	A	T	NMNAT1	False	False	False	False
+1	10266559	A	G	KIF1B	False	False	False	False
+1	10488206	C	T	PEX14	False	False		False
+1	10518338	A	G	PEX14	False	False	False	False
+1	10536040	A	G	PEX14	False	False	False	False
+1	10536501	G	C	PEX14	False	False	False	False
+1	10537566	G	A	PEX14	False	False	False	False
+1	11520026	G	T	DISP3	False	True	True	False
+1	17270490	A	G	PADI3	False	False		False
+1	20716241	C	A	KIF17	False	True		False
+1	29238134	G	A	PTPRU	False	True	False	False
+1	31740606	C	T	ADGRB2	False	True	False	False
+1	35299068	A	G	ZMYM4	False	False		False
+1	40088600	G	C	PPT1	False	False		False
+1	43440133	G	A	SZT2	False	False	False	False
+1	44414469	T	C	RNF220	False	False	True	False
+1	93998928	T	G	ABCA4	False	False		False
+1	94002451	C	T	ABCA4	False	False		False
+1	94005663	C	T	ABCA4	False	False	False	False
+1	94011976	A	T	ABCA4	False	False	False	False
+1	94012459	A	C	ABCA4	False	False		False
+1	94019971	T	C	ABCA4	False	False	False	False
+1	94027360	C	T	ABCA4	False	False	False	False
+1	94027361	G	A	ABCA4	False	True	True	False
+1	94027381	G	A	ABCA4	False	True	True	False
+1	94027710	G	T	ABCA4	False	False	False	False
+1	94028355	T	C	ABCA4	False	False	False	False
+1	94035176	T	C	ABCA4	False	False	False	False
+1	94040287	G	T	ABCA4	False	False	False	False
+1	94042116	A	G	ABCA4	False	False		False
+1	94046566	T	G	ABCA4	False	False	False	False
+1	94049288	C	T	ABCA4	False	False	False	False
+1	94049290	C	T	ABCA4	False	False	False	False
+1	94050975	C	T	ABCA4	False	False	False	False
+1	94050984	G	C	ABCA4	False	False	False	False
+1	94062159	T	G	ABCA4	False	False	False	False
+1	94074470	A	G	ABCA4	False	False		False
+1	94091465	T	C	ABCA4	False	False	False	False
+1	94097229	C	T	ABCA4	False	False	False	False
+1	94103589	T	G	ABCA4	False	False		False
+1	94116845	A	C	ABCA4	False	False	False	False
+1	94458047	G	T	ABCD3	False	True	True	False
+1	94509036	G	A	ABCD3	False	False		False
+1	102891887	G	T	COL11A1	False	False		False
+1	103062589	G	C	COL11A1	False	False		False
+1	103085332	G	A	COL11A1	False	False		False
+1	154178246	G	T	TPM3	False	False	False	False
+1	155874589	T	C	SYT11	False	False		False
+1	160230345	C	A	DCAF8	False	True	True	False
+1	161809323	T	C	ATF6	False	False		False
+1	161873071	A	C	ATF6	False	False	False	False
+1	200584887	A	C	KIF14	False	True		False
+1	205528636	G	C	CDK18	False	False		False
+1	205528636	G	T	CDK18	False	True		False
+1	215628344	G	A	USH2A	False	False		False
+1	215633283	T	C	USH2A	False	False		False
+1	215700551	C	G	USH2A	False	False		False
+1	215701413	T	C	USH2A	False	False		False
+1	215703095	C	T	USH2A	False	False		False
+1	215721121	C	T	USH2A	False	False		False
+1	215721819	T	A	USH2A	False	False		False
+1	215721943	T	C	USH2A	False	False		False
+1	215729415	A	G	USH2A	False	False	False	False
+1	215730860	G	A	USH2A	False	False	False	False
+1	215749854	T	C	USH2A	False	False	False	False
+1	215773097	T	A	USH2A	False	False		False
+1	215777700	A	G	USH2A	False	False	False	False
+1	215777702	T	A	USH2A	False	False	False	False
+1	215786033	C	G	USH2A	False	False	False	False
+1	215799793	C	T	USH2A	False	False		False
+1	215803932	A	C	USH2A	False	False		False
+1	215812233	G	A	USH2A	False	False		False
+1	215812234	C	T	USH2A	False	False		False
+1	215812237	C	T	USH2A	False	False		False
+1	215812238	A	G	USH2A	False	False		False
+1	215850314	A	G	USH2A	False	False	False	False
+1	215866381	C	T	USH2A	False	False	False	False
+1	215867824	G	C	USH2A	False	True	False	False
+1	215879223	G	T	USH2A	False	False	False	False
+1	215896034	G	A	USH2A	False	False		False
+1	215901481	A	C	USH2A	False	False	False	False
+1	215913721	G	C	USH2A	False	False	False	False
+1	215922484	C	T	USH2A	False	False	False	False
+1	215923164	T	G	USH2A	False	False		False
+1	215930594	A	G	USH2A	False	False	False	False
+1	215942531	T	C	USH2A	False	False	False	False
+1	215966223	A	G	USH2A	False	False	False	False
+1	215988868	A	C	USH2A	False	False	False	False
+1	215990023	T	G	USH2A	False	False	False	False
+1	215991802	T	C	USH2A	False	False	False	False
+1	215998131	A	G	USH2A	False	False	False	False
+1	216004782	A	G	USH2A	False	False		False
+1	216011545	G	A	USH2A	False	False		False
+1	216026760	A	G	USH2A	False	False		False
+1	216033382	G	T	USH2A	False	False		False
+1	216034638	T	C	USH2A	False	False		False
+1	216061150	C	A	USH2A	False	False	False	False
+1	216088534	T	G	USH2A	False	False	False	False
+1	216090430	G	T	USH2A	False	False	False	False
+1	216102132	G	C	USH2A	False	False		False
+1	216105070	C	T	USH2A	False	False		False
+1	216129805	T	C	USH2A	False	False		False
+1	216147286	T	C	USH2A	False	False		False
+1	216194178	G	T	USH2A	False	False		False
+1	216194179	G	T	USH2A	False	False		False
+1	216194180	A	T	USH2A	False	False		False
+1	216240005	G	T	USH2A	False	False	False	False
+1	216242048	T	G	USH2A	False	False		False
+1	216243452	T	C	USH2A	False	False		False
+1	216254446	G	A	USH2A	False	False	False	False
+1	216272559	G	C	USH2A	False	False	False	False
+1	216282592	T	A	USH2A	False	False		False
+1	216282990	A	G	USH2A	False	False		False
+1	216337476	C	T	USH2A	False	False		False
+1	216358257	T	C	USH2A	False	False	False	False
+1	216362760	T	C	USH2A	False	False		False
+1	216362771	C	A	USH2A	False	False		False
+1	216362772	A	G	USH2A	False	False		False
+1	216368947	T	C	USH2A	False	False	False	False
+1	216370110	G	A	USH2A	False	False		False
+1	216401260	T	G	USH2A	False	False		False
+1	228247044	G	T	OBSCN	False	False	False	False
+1	243366393	A	G	SDCCAG8	False	False	False	False
+10	49478812	T	C	ERCC6	False	False	False	False
+10	71481681	A	G	CDH23	False	False	False	False
+10	71485838	A	G	CDH23	False	False	False	False
+10	71487682	A	G	CDH23	False	False		False
+10	71488512	T	C	CDH23	False	False	False	False
+10	71492087	G	A	CDH23	False	False	False	False
+10	71544113	T	A	CDH23	False	False	False	False
+10	71548980	C	T	CDH23	False	False	False	False
+10	71561169	A	G	CDH23	False	False	False	False
+10	71565646	T	C	CDH23	False	False	False	False
+10	71596793	G	A	CDH23	False	False	False	False
+10	71610144	T	C	CDH23	False	False		False
+10	71629749	G	A	CDH23	False	False		False
+10	71662388	T	C	CDH23	False	False	False	False
+10	71664767	A	T	CDH23	False	False		False
+10	77405967	G	C	KCNMA1	False	False	True	False
+10	79842515	G	A	NUTM2E	False	False	False	False
+10	86709802	G	A	LDB3	False	True	False	False
+10	87358824	G	A	NUTM2D	False	False	False	False
+10	97588369	T	G	HOGA1	False	False		False
+10	97606066	C	T	HOGA1	False	False		False
+10	129849301	T	C	EBF3	False	True	True	False
+11	1866266	C	T	LSP1	False		False	False
+11	4132592	T	C	RRM1	False	True	False	False
+11	22246690	C	T	ANO5	False	False		False
+11	22278931	C	T	ANO5	False	False		False
+11	32413513	C	T	WT1	False	False	False	False
+11	47347065	C	T	MYBPC3	True	True		False
+11	63164786	C	T	SLC22A25	False	True	True	False
+11	65609388	A	G	MAP3K11	False	False		False
+11	66421996	G	A	NPAS4	False	True	False	False
+11	66507560	G	C	DPP3	False	False	False	False
+11	73361930	A	T	ARHGEF17	False	False	False	False
+11	86315581	A	T	HIKESHI	False	False		False
+11	117368281	T	C	CEP164	False	False	False	False
+11	117528284	A	C	DSCAML1	False	False	False	False
+11	124877742	G	A	ROBO3	False	False	False	False
+12	1883521	C	T	CACNA2D4	False	False	False	False
+12	1892279	A	G	CACNA2D4	False	False		False
+12	6464510	C	T	VAMP1	True	True		False
+12	32680034	C	G	DNM1L	False	True	True	False
+12	51920681	T	G	ACVRL1	False	True	False	False
+12	55952246	T	G	DGKA	True	False	True	False
+12	57176144	C	T	LRP1	False	True	True	False
+12	88139735	T	C	CEP290	False	False		False
+12	89466410	T	C	POC1B	False	False	False	False
+12	94311588	A	T	CEP83	False	False		False
+12	103620324	G	T	STAB2	False	True	False	False
+12	103620326	A	T	STAB2	False	True	False	False
+12	110325685	A	G	ATP2A2	False	False	False	False
+12	122545950	T	A	KNTC1	False	False		False
+12	123517592	T	C	RILPL1	False	True		False
+12	132028603	A	G	EP400	False	False	False	False
+13	35546571	G	T	NBEA	False	True		False
+13	101089430	T	C	NALCN	False	True	True	False
+14	21302893	G	T	RPGRIP1	False	False		False
+14	35679378	A	C	RALGAPA1	False	True		False
+14	50181913	T	C	SOS2	False	True	False	False
+14	50592699	C	A	ATL1	False	True		False
+14	67809411	T	A	ZFYVE26	False	False		False
+14	76055980	C	G	IFT43	False	False	False	False
+14	76057264	A	C	IFT43	False	False		False
+14	80829622	T	A	CEP128	False	True		False
+14	91291916	G	C	CCDC88C	False	True	True	False
+14	101976741	C	T	DYNC1H1	False	True	True	False
+14	103685016	T	C	KLC1	False	True		False
+15	41987089	T	C	PLA2G4E	False	True	True	False
+15	42370421	G	A	CAPN3	False	False	False	False
+15	42380756	T	A	CAPN3	False	False	False	False
+15	43337383	A	G	MAPDA	False	True	True	False
+15	48610977	T	C	FBN1	True	True		False
+15	66502870	C	A	RPL4	True	False	False	False
+16	262011	G	C	FAM234A	False	False	False	False
+16	2078060	T	C	TSC2	False	False	False	False
+16	2104734	C	T	PKD1	False	False	False	False
+16	2107078	T	C	PKD1	False	True	False	False
+16	3247980	C	T	MEFV	False	False		False
+16	4701210	C	T	ANKS3	False	False	False	False
+16	17344217	G	A	XYLT1	False	False		False
+16	49730532	G	A	ZNF423	False	False	False	False
+16	53652380	C	T	RPGRIP1L	False	False	False	False
+16	53698990	G	A	RPGRIP1L	False	False		False
+16	66526537	C	T	TK2	False	False		False
+16	68361869	G	C	SMPD3	False	False	False	False
+16	90023443	G	A	GAS8	True	True	False	False
+17	3641131	C	G	CTNS	False	False	False	False
+17	6471774	G	A	PITPNM3	False	True	True	False
+17	10686581	C	A	SCO1	False	True		False
+17	38485928	A	G	ARHGAP23	True	True	True	False
+17	39922902	T	C	ORMDL3	False	True	True	False
+17	42554185	C	T	HSD17B1	False	False		False
+17	65750923	T	C	CEP112	False	False	False	False
+17	75214884	A	G	NUP85	False	False	False	False
+17	81131821	C	T	AATK	False	False	False	False
+18	7058323	T	C	LAMA1	False	False	False	False
+18	23508613	G	A	RMC1	False	False	False	False
+18	49490622	T	C	RPL17	True	True	True	False
+18	62108807	C	T	PIGN	False	False		False
+18	62112937	C	G	PIGN	False	False	False	False
+19	1820733	C	T	REXO1	False	True		False
+19	3778784	C	T	MATK	False	True		False
+19	35156833	T	C	FXYD5	False	True		False
+19	35731759	T	A	KMT2B	False	False	False	False
+19	38466985	A	G	RYR1	False	True	True	False
+19	38530950	A	G	RYR1	True	True		False
+19	46998425	C	G	ARHGAP35	True	True	True	False
+19	54130027	A	G	PRPF31	False	True		False
+2	1181593	T	A	SNTG2	False	True	True	False
+2	11621117	A	G	GREB1	False	False	False	False
+2	23830497	C	T	ATAD2B	False	True	True	False
+2	26472943	C	A	OTOF	False	True	True	False
+2	28625001	C	T	PLB1	False	False	False	False
+2	33304045	C	T	LTBP1	False	False	False	False
+2	61022226	T	C	PEX13	False	False		False
+2	71481112	G	A	DYSF	False	True	False	False
+2	73492053	T	C	ALMS1	False			False
+2	111907538	A	G	MERTK	False	False	False	False
+2	112003794	G	A	MERTK	True	False	True	False
+2	121530939	G	A	CLASP1	True	False	False	False
+2	151681578	T	C	NEB	False	False	False	False
+2	181630686	G	A	CERKL	False	False		False
+2	190363929	C	T	INPP1	True	True		False
+2	231734826	G	A	PDE6D	False	False		False
+2	231734844	C	A	PDE6D	False	False		False
+2	231742262	C	T	PDE6D	False	False		False
+2	231742269	G	T	PDE6D	False	False		False
+2	231742271	A	G	PDE6D	False	False		False
+2	231755529	T	C	PDE6D	False	False		False
+2	231755537	G	A	PDE6D	False	False		False
+2	231755538	T	C	PDE6D	False	False		False
+2	241039528	C	A	SNED1	True	False	False	False
+20	4787481	T	G	RASSF2	False	False		False
+20	25319680	G	A	ABHD12	False	False		False
+20	25328557	A	T	ABHD12	False	False	False	False
+20	25356673	C	T	ABHD12	False	False	False	False
+20	25359143	C	T	ABHD12	False	False		False
+20	25366155	C	A	ABHD12	False	False		False
+20	25374303	A	T	ABHD12	False	False		False
+20	47176531	T	C	EYA2	False	False	False	False
+20	61852217	C	T	CDH4	False		False	False
+20	64066871	G	T	TCEA2	False	True	False	False
+21	40076917	T	G	DSCAM	False	True	False	False
+21	44612097	C	T	TSPEAR	True	True	True	False
+21	45989954	C	T	COL6A1	False	True	True	False
+21	45998254	G	A	COL6A1	False	True	False	False
+21	46125167	C	G	COL6A2	False	True	True	False
+22	18173031	G	A	USP18	False	False	False	False
+22	20115872	C	A	TRMT2A	False	False	False	False
+22	42070246	C	T	NAGA	True	True	True	False
+3	7453178	A	G	GRM7	False	True		False
+3	10144305	T	A	VHL	False	False		False
+3	12902265	G	C	IQSEC1	False	False	False	False
+3	48181792	A	T	CDC25A	False	True	True	False
+3	53856360	C	T	IL17RB	False	False	False	False
+3	58124599	A	T	FLNB	False	True	False	False
+3	62022149	C	T	PTPRG	False	True		False
+3	79018778	G	A	ROBO1	True	True	True	False
+3	100775116	C	T	ABI3BP	False	False	False	False
+3	134877499	G	C	EPHB1	False	True	False	False
+3	168037064	A	T	GOLIM4	False	False	False	False
+3	180646690	T	C	CCDC39	True	True	True	False
+4	630381	G	A	PDE6B	False	False	False	False
+4	646709	G	A	PDE6B	False	False	False	False
+4	649633	G	A	PDE6B	False	False	False	False
+4	658223	A	G	PDE6B	False	False	False	False
+4	664491	C	A	PDE6B	False	False		False
+4	996917	A	G	IDUA	False	False	False	False
+4	6288829	G	T	WFS1	False	True	False	False
+4	6292206	C	T	WFS1	False	False	False	False
+4	6298518	T	C	WFS1	False	False	False	False
+4	10084887	C	T	WDR1	False	True	False	False
+4	15987834	C	A	PROM1	False	False	False	False
+4	16012792	A	C	PROM1	False	False		False
+4	39200185	T	A	WDR19	False	False	False	False
+4	39200194	C	A	WDR19	False	False	False	False
+4	39223580	G	T	WDR19	False	False		False
+4	39263789	T	C	WDR19	False	False		False
+4	53135615	G	A	SCFD2	False	True		False
+4	54734893	C	G	KIT	False	True		False
+4	127894590	A	T	PLK4	False	False	False	False
+5	13891364	T	A	DNAH5	False	False		False
+5	13907808	T	G	DNAH5	False	False		False
+5	37157971	C	A	CPLANE1	False	False	False	False
+5	38454013	A	G	EGFLAM	False	True	True	False
+5	81750071	G	A	SSBP2	False	True	True	False
+5	90676940	C	G	ADGRV1	False	True		False
+5	90688489	G	A	ADGRV1	False	False		False
+5	90722437	G	A	ADGRV1	False	False		False
+5	90779420	A	T	ADGRV1	False	False	False	False
+5	90797750	G	A	ADGRV1	False	False		False
+5	90813133	A	C	ADGRV1	False	False		False
+5	90829307	T	G	ADGRV1	False	False	False	False
+5	90849670	G	A	ADGRV1	False	False		False
+5	90855412	A	C	ADGRV1	False	False	False	False
+5	90893482	G	A	ADGRV1	False	False		False
+5	90896189	A	G	ADGRV1	False	False	False	False
+5	90902756	A	G	ADGRV1	False	False	False	False
+5	90933458	C	A	ADGRV1	False	False		False
+5	90953258	C	G	ADGRV1	False	False		False
+5	90953482	C	T	ADGRV1	False	False		False
+5	90985226	C	T	ADGRV1	False	False	False	False
+5	90995260	T	A	ADGRV1	False	False		False
+5	90996548	C	A	ADGRV1	False	False		False
+5	91039673	A	C	ADGRV1	False	False	False	False
+5	91042364	A	G	ADGRV1	False	False	False	False
+5	91064158	G	A	ADGRV1	False	False	False	False
+5	91072198	A	G	ADGRV1	False	False	False	False
+5	91080612	C	A	ADGRV1	False	False	False	False
+5	91080615	G	T	ADGRV1	False	False	False	False
+5	91125276	C	T	ADGRV1	False	False	False	False
+5	91128972	A	G	ADGRV1	False	False	False	False
+5	127401900	A	G	MEGF10	False	True	False	False
+5	132370583	C	G	SLC22A5	False	True	True	False
+5	160266941	C	T	CCNJL	False	True	True	False
+6	26094155	T	G	HFE	False	True	True	False
+6	32662465	T	C	HLA-DQB1	False	False		False
+6	38753339	G	A	DNAH8	False	True		False
+6	63731025	A	G	EYS	False	False		False
+6	63731651	T	G	EYS	False	False		False
+6	63753293	C	T	PHF3	False	False	False	False
+6	63756330	A	G	PHF3	False	False		False
+6	63767646	T	C	EYS	False	False		False
+6	63768620	T	C	EYS	False	False		False
+6	63843232	G	A	EYS	False	False		False
+6	63843233	T	C	EYS	False	False		False
+6	63850227	A	T	EYS	False	False		False
+6	63852185	C	A	EYS	False	False		False
+6	63855760	G	A	EYS	False	False	False	False
+6	63862187	C	T	EYS	False	False		False
+6	63876912	C	T	EYS	False	False		False
+6	63921037	C	A	EYS	False	False		False
+6	63940638	A	G	EYS	False	False		False
+6	63986586	A	T	EYS	False	False		False
+6	63986601	A	G	EYS	False	False		False
+6	63986603	A	G	EYS	False	False		False
+6	63986617	G	T	EYS	False	False		False
+6	63986619	T	C	EYS	False	False		False
+6	63992096	A	G	EYS	False	False		False
+6	63995325	G	A	EYS	False	False		False
+6	64004151	A	G	EYS	False	False		False
+6	64011402	G	A	EYS	False	False	False	False
+6	64024854	G	A	EYS	False	False		False
+6	64037678	C	T	EYS	False	False	False	False
+6	64050998	G	T	EYS	False	False	False	False
+6	64075096	G	C	EYS	False	False	False	False
+6	64079519	G	A	EYS	False	False	False	False
+6	64091526	G	T	EYS	False	False	False	False
+6	64092766	C	A	EYS	False	False		False
+6	64093730	G	A	EYS	False	False		False
+6	64108441	G	T	EYS	False	False		False
+6	64117336	C	A	EYS	False	False		False
+6	64139630	G	C	EYS	False	False	False	False
+6	64147286	T	C	EYS	False	False	False	False
+6	64156448	T	G	EYS	False	False		False
+6	64158201	T	G	EYS	False	False		False
+6	64183238	T	C	EYS	False	False		False
+6	64183239	A	C	EYS	False	False		False
+6	64183243	G	A	EYS	False	False		False
+6	64191483	C	T	EYS	False	False		False
+6	64209947	A	G	EYS	False	False	False	False
+6	64211089	G	A	EYS	False	False		False
+6	64219589	G	C	EYS	False	False		False
+6	64222338	C	T	EYS	False	False	False	False
+6	64228794	C	T	EYS	False	False	False	False
+6	64231866	G	T	EYS	False	False	False	False
+6	64236869	C	T	EYS	False	False		False
+6	64241106	G	A	EYS	False	False		False
+6	64251971	A	G	EYS	False	False		False
+6	64256438	C	G	EYS	False	False	False	False
+6	64260191	A	C	EYS	False	False		False
+6	64276214	T	A	EYS	False	False	False	False
+6	64300111	T	G	EYS	False	False		False
+6	64300501	C	T	EYS	False	False		False
+6	64331132	T	C	EYS	False	False		False
+6	64341685	T	C	EYS	False	False	False	False
+6	64344700	G	A	EYS	False	False		False
+6	64362989	C	T	EYS	False	False		False
+6	64362990	A	T	EYS	False	False		False
+6	64364750	A	T	EYS	False	False		False
+6	64373598	G	C	EYS	False	False		False
+6	64386793	C	T	EYS	False	False	False	False
+6	64388939	T	A	EYS	False	False	False	False
+6	64397885	A	T	EYS	False	False		False
+6	64401649	A	G	EYS	False	False		False
+6	64403213	T	A	EYS	False	False	False	False
+6	64429828	T	C	EYS	False	False	False	False
+6	64462895	T	C	EYS	False	False	False	False
+6	64464281	G	A	EYS	False	False		False
+6	64467920	C	T	EYS	False	False		False
+6	64471329	T	C	EYS	False	False		False
+6	64480953	T	C	EYS	False	False	False	False
+6	64517087	T	C	EYS	False	False	False	False
+6	64532741	T	C	EYS	False	False	False	False
+6	64537490	A	T	EYS	False	False	False	False
+6	64544116	T	C	EYS	False	False	False	False
+6	64544382	A	C	EYS	False	False		False
+6	64549916	G	A	EYS	False	False		False
+6	64554280	T	C	EYS	False	False	False	False
+6	64554395	T	G	EYS	False	False	False	False
+6	64556397	G	A	EYS	False	False		False
+6	64569045	C	A	EYS	False	False		False
+6	64578870	T	C	EYS	False	False	False	False
+6	64600925	T	G	EYS	False	False		False
+6	64613703	G	C	EYS	False	False		False
+6	64616532	G	T	EYS	False	False	False	False
+6	64626354	A	T	EYS	False	False	False	False
+6	64632081	C	A	EYS	False	False	False	False
+6	64633676	T	C	EYS	False	False	False	False
+6	64640401	T	A	EYS	False	False		False
+6	64653004	C	A	EYS	False	False		False
+6	64663093	C	A	EYS	False	False	False	False
+6	64666594	A	G	EYS	False	False		False
+6	64684477	G	C	EYS	False	False		False
+6	64690780	G	A	EYS	False	False		False
+6	64700018	C	A	EYS	False	False		False
+6	64745015	A	T	EYS	False	False	False	False
+6	64757627	T	A	EYS	False	False	False	False
+6	64757808	G	T	EYS	False	False		False
+6	64765923	A	G	EYS	False	False	False	False
+6	64768174	T	C	EYS	False	False	False	False
+6	64771923	C	T	EYS	False	False		False
+6	64782793	C	T	EYS	False	False	False	False
+6	64786116	T	G	EYS	False	False	False	False
+6	64798647	C	A	EYS	False	False	False	False
+6	64799754	A	C	EYS	False	False	False	False
+6	64825576	T	G	EYS	False	False	False	False
+6	64830502	G	T	EYS	False	False		False
+6	64831497	C	A	EYS	False	False	False	False
+6	64843913	C	T	EYS	False	False		False
+6	64846901	G	C	EYS	False	False		False
+6	64847970	G	C	EYS	False	False	False	False
+6	64850677	A	G	EYS	False	False	False	False
+6	64850766	G	T	EYS	False	False	False	False
+6	64855506	C	T	EYS	False	False		False
+6	64864409	C	A	EYS	False	False		False
+6	64877447	A	T	EYS	False	False		False
+6	64889439	A	G	EYS	False	False	False	False
+6	64890921	A	G	EYS	False	False		False
+6	64892902	T	C	EYS	False	False	False	False
+6	64919370	A	G	EYS	False	False		False
+6	64921578	G	A	EYS	False	False	False	False
+6	64945114	G	T	EYS	False	False		False
+6	64946032	A	G	EYS	False	False	False	False
+6	64964757	T	C	EYS	False	False		False
+6	64964760	A	T	EYS	False	False		False
+6	64964763	T	G	EYS	False	False		False
+6	64964770	A	G	EYS	False	False		False
+6	64964784	G	C	EYS	False	False		False
+6	64964787	A	T	EYS	False	False		False
+6	64964798	A	G	EYS	False	False		False
+6	64964807	A	G	EYS	False	False		False
+6	64972517	C	G	EYS	False	False		False
+6	64977036	G	A	EYS	False	False		False
+6	64983973	C	T	EYS	False	False		False
+6	64990092	C	A	EYS	False	False	False	False
+6	64993373	T	C	EYS	True	False		False
+6	64994291	C	A	EYS	True	True	True	False
+6	65006972	C	G	EYS	False	False		False
+6	65006978	G	T	EYS	False	False		False
+6	65015642	C	T	EYS	False	False	False	False
+6	65020527	G	A	EYS	False	False		False
+6	65024952	C	T	EYS	False	False	False	False
+6	65026583	C	T	EYS	False	False	False	False
+6	65039910	T	C	EYS	False	False		False
+6	65042108	C	A	EYS	False	False		False
+6	65046842	A	G	EYS	False	False		False
+6	65053503	C	A	EYS	False	False	False	False
+6	65086544	T	C	EYS	False	False	False	False
+6	65089059	A	T	EYS	False	False		False
+6	65094293	C	A	EYS	False	False		False
+6	65109855	T	G	EYS	False	False		False
+6	65109883	T	G	EYS	False	False		False
+6	65119984	C	A	EYS	False	False		False
+6	65119985	T	A	EYS	False	False		False
+6	65120486	C	A	EYS	False	False	False	False
+6	65121470	C	T	EYS	False	False		False
+6	65122330	A	G	EYS	False	False	False	False
+6	65132598	G	A	EYS	False	False		False
+6	65132608	A	G	EYS	False	False		False
+6	65139077	C	T	EYS	False	False		False
+6	65143390	A	G	EYS	False	False		False
+6	65145395	T	G	EYS	False	False	False	False
+6	65148259	T	A	EYS	False	False		False
+6	65148265	T	C	EYS	False	False		False
+6	65148272	A	C	EYS	False	False		False
+6	65149419	A	T	EYS	False	False		False
+6	65149421	A	G	EYS	False	False		False
+6	65161046	A	T	EYS	False	False	False	False
+6	65161846	G	A	EYS	False	False		False
+6	65162617	T	G	EYS	False	False	False	False
+6	65173769	T	C	EYS	False	False	False	False
+6	65198039	A	G	EYS	False	False		False
+6	65225288	T	C	EYS	False	False		False
+6	65231486	T	C	EYS	False	False	False	False
+6	65238748	C	A	EYS	False	False	False	False
+6	65241484	C	T	EYS	True	False	False	False
+6	65241531	C	A	EYS	False	False	False	False
+6	65262890	C	T	EYS	False	False	False	False
+6	65264860	C	T	EYS	False	False	False	False
+6	65272169	T	C	EYS	False	False		False
+6	65283994	G	T	EYS	False	False	False	False
+6	65291375	G	T	EYS	False	False	False	False
+6	65296933	T	C	EYS	False	False	False	False
+6	65313740	T	C	EYS	False	False		False
+6	65326007	C	T	EYS	False	False	False	False
+6	65342380	C	T	EYS	False	False	False	False
+6	65345720	C	T	EYS	False	False	False	False
+6	65381647	A	C	EYS	False	False	False	False
+6	65403820	A	C	EYS	False	False	False	False
+6	65430859	G	A	EYS	False	False		False
+6	65434188	G	A	EYS	False	False	False	False
+6	65441890	A	G	EYS	False	False	False	False
+6	65461026	T	G	EYS	False	False	False	False
+6	65468995	T	C	EYS	False	False	False	False
+6	65473253	T	C	EYS	False	False	False	False
+6	65493399	A	G	EYS	False	False	False	False
+6	76002774	G	A	IMPG1	False	False	False	False
+6	136823483	G	A	PEX7	False	False		False
+7	5308419	T	A	TNRC18	False	True		False
+7	33529954	G	C	BBS9	False	False	False	False
+7	42064752	G	A	GLI3	False	False		False
+7	48246361	T	G	ABCA13	True	True	True	False
+7	100646451	C	T	ACTL6B	False	True	False	False
+7	107342406	G	A	COG5	False	False		False
+7	107377855	T	G	COG5	False	False		False
+7	107396836	T	C	COG5	False	False	False	False
+7	107421724	C	T	COG5	False	False		False
+7	107446076	A	G	COG5	False	False	False	False
+7	107528602	C	T	COG5	False	False	False	False
+7	140686921	C	T	ADCK2	False	False	False	False
+7	147496668	A	G	CNTNAP2	False	False	False	False
+7	147588961	A	G	CNTNAP2	False	True	True	False
+8	17871491	C	A	FGL1	False	True		False
+8	58620985	C	A	NSMAF	False	False		False
+8	73293202	C	T	RPL7	False	True	False	False
+8	99027541	G	C	VPS13B	False	False		False
+8	99030157	C	A	VPS13B	False	False		False
+8	99050280	C	T	VPS13B	False	False		False
+8	99050281	A	G	VPS13B	False	False		False
+8	99050282	G	A	VPS13B	False	False		False
+8	99149507	A	G	VPS13B	False	False		False
+8	99149510	A	G	VPS13B	False	False		False
+8	99221288	A	C	VPS13B	False	False		False
+8	99221564	A	G	VPS13B	False	False	False	False
+8	99299083	C	A	VPS13B	False	False		False
+8	99381737	A	G	VPS13B	False	False		False
+8	99405654	G	C	VPS13B	False	False		False
+8	99405667	G	C	VPS13B	False	False		False
+8	99450522	A	G	VPS13B	False	False		False
+8	99455617	T	G	VPS13B	False	False		False
+8	99551646	T	C	VPS13B	False	False		False
+8	99560375	C	A	VPS13B	False	False		False
+8	99562280	C	A	VPS13B	False	False		False
+8	99592094	A	T	VPS13B	False	False		False
+8	99592095	C	G	VPS13B	False	False		False
+8	99592101	T	C	VPS13B	False	False		False
+8	99592102	G	A	VPS13B	False	False		False
+8	99592106	C	T	VPS13B	False	False		False
+8	99592107	A	G	VPS13B	False	False		False
+8	99614639	T	C	VPS13B	False	False	False	False
+8	99668913	T	C	VPS13B	False	False	False	False
+8	99699159	G	T	VPS13B	False	False	False	False
+8	99743606	T	A	VPS13B	False	False		False
+8	99743613	T	A	VPS13B	False	False		False
+8	99743614	C	A	VPS13B	False	False		False
+8	99743615	C	A	VPS13B	False	False		False
+8	99749591	A	C	VPS13B	False	False		False
+8	99749592	G	A	VPS13B	False	False		False
+8	99749598	C	T	VPS13B	False	False		False
+8	99749600	C	T	VPS13B	False	False		False
+8	99749604	T	G	VPS13B	False	False		False
+8	99749607	G	A	VPS13B	False	False		False
+8	99749609	G	A	VPS13B	False	False		False
+8	99749610	T	C	VPS13B	False	False		False
+8	99807492	T	C	VPS13B	False	False	False	False
+8	102233428	G	A	RRM2B	False	True		False
+9	13248508	A	G	MPDZ	False	True	False	False
+9	76192455	C	A	PCSK5	False	True		False
+9	77952373	T	C	GNAQ	False	True	False	False
+9	91359568	C	G	AUH	False	True	True	False
+9	91359603	G	A	AUH	False	True	False	False
+9	110680898	A	G	MUSK	False	False		False
+9	113276040	G	C	PRPF4	False	True	True	False
+9	131594065	C	T	RAPGEF1	False	True	False	False
+9	133154722	T	C	GBGT1	False	True		False
+9	133357149	C	T	SURF2	False	False	False	False
+9	136430542	C	A	INPP5E	False	False	False	False
+9	136525450	G	A	NOTCH1	False	True	True	False
+X	25011103	C	T	ARX	False	False	False	False
+X	41205633	G	T	USP9X	False	True	True	False
+X	44894778	C	T	KDM6A	False	False		False
+X	48598459	G	C	WDR13	False	False	False	False
+X	53254479	G	T	IQSEC2	False	False	False	False
+X	57485222	G	A	FAAH2	True	True		False
+X	77996733	T	C	ATP7A	False	True	True	False
+X	123708094	C	A	THOC2	False	True	True	False
+X	133923217	C	G	GPC3	False	False	False	False
+X	154096835	A	T	MECP2	False	False	False	False
+1	67413648	C	A	SERBP1	False	False		True
+1	94038815	G	A	ABCA4	False	False		True
+1	94062156	T	C	ABCA4	False	False	False	True
+1	94075406	C	A	ABCA4	False	False	False	True
+1	94117794	G	A	ABCA4	False	False	False	True
+1	215715611	G	T	USH2A	False	False	False	True
+1	215723303	C	T	USH2A	False	False		True
+1	215795345	G	A	USH2A	False	False	False	True
+1	216417529	T	G	USH2A	False	False		True
+10	20089118	A	G	PLXDC2	False	True		True
+11	9411040	G	C	IPO7	False	True	True	True
+11	117396360	G	A	CEP164	False	False	False	True
+12	88118025	A	G	CEP290	False	False		True
+15	42362740	A	G	CAPN3	False	False		True
+16	53624469	G	A	RPGRIP1L	False	False		True
+16	89526754	G	C	SPG7	False	False	False	True
+18	6982822	G	A	LAMA1	False	False	False	True
+18	7113110	T	C	LAMA1	False	False	False	True
+18	74637898	A	C	ZNF407	False	False	False	True
+21	44534795	C	G	TSPEAR	False	True		True
+5	88813529	G	C	MEF2C	False	False	True	True
+5	149895639	A	C	PDE6A	False	False	False	True
+6	42564691	T	G	UBR2	False	False	False	True
+6	64962795	G	C	EYS	False	False	False	True
+6	65054804	T	C	EYS	False	False	False	True
+6	65345828	C	G	EYS	False	False	False	True
+6	65446195	C	T	EYS	False	False	False	True
+7	7477511	G	C	COL28A1	True	True		True
+8	99033081	A	T	VPS13B	False	False		True
+8	99088290	G	T	VPS13B	False	False	False	True
+8	99331565	A	C	VPS13B	False	False	False	True
+8	99516825	G	T	VPS13B	False	False	False	True
+8	99630877	T	C	VPS13B	False	False	False	True
+8	99640481	T	C	VPS13B	False	False		True
+8	99742151	C	T	VPS13B	False	False		True
+X	32441421	T	C	DMD	True	True	True	True

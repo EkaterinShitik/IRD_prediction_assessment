@@ -1,0 +1,94 @@
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
+1	9953838	C	T	TMEM274P	False	False		False
+1	203127674	G	A	ADORA1-AS2		False	False	False
+1	215897040	A	G		False	False	False	False
+1	215898777	C	T		False	False	False	False
+1	216229846	A	T	USH2A-AS1	False	False	False	False
+10	43648052	G	C	ZNF32-AS2	False	True		False
+10	79704384	G	A	NUTM2B-AS1	False	False	False	False
+10	129860875	G	A	EBF3-AS1	True	False	False	False
+11	21825629	A	C	ANO5			False	False
+11	21831624	G	A	ANO5				False
+11	21843736	A	G	ANO5				False
+11	21894315	C	A	ANO5			False	False
+11	21896259	G	C	ANO5			False	False
+11	21930540	G	A	ANO5				False
+11	21931408	A	G	ANO5				False
+11	21955277	A	C	ANO5				False
+11	21964033	C	T	ANO5				False
+11	21972163	G	C	ANO5				False
+11	21991576	G	A	ANO5				False
+11	21998721	T	C	ANO5				False
+11	22007487	CGATAAAATATCCAAC	C	ANO5			False	False
+11	22021926	C	T					False
+11	22024366	T	A	ANO5				False
+11	22027543	T	C					False
+11	22031309	T	TCT					False
+11	22031309	T	TCTT					False
+11	22033536	T	C	ANO5			False	False
+11	22037789	A	T				False	False
+11	22050965	G	T					False
+11	22058346	A	G	ANO5				False
+11	22061775	T	A					False
+11	22083662	T	C					False
+11	22093727	G	A					False
+11	22095104	C	T				False	False
+11	22102147	C	T	ANO5				False
+11	22156930	C	T				False	False
+11	22158082	C	T					False
+11	22166543	A	G	ANO5				False
+11	22170473	A	G	ANO5			False	False
+11	22174324	C	T	ANO5			False	False
+11	22175493	G	A	ANO5				False
+11	22176949	T	C	ANO5				False
+11	22182107	A	G	ANO5				False
+11	22182932	C	A	ANO5				False
+12	123723148	G	A		False	True	True	False
+13	77081800	T	G	MYCBP2-AS1	False		False	False
+15	31388868	T	TT	KLF13	False		False	False
+15	41477069	T	G		False	True	False	False
+17	81232077	C	T	TEPSIN-AS1	True	False	False	False
+18	37575747	A	T				False	False
+19	10817433	C	G	MIR199A1	False	False	False	False
+2	73458063	C	A	ALMS1-IT1	False		False	False
+2	121530927	G	A	RNU4ATAC	True	False	False	False
+2	143946647	G	A	GTDC1-AS1	False	False	False	False
+2	188974888	C	G		False	False	False	False
+2	207466061	A	C				False	False
+2	227288969	G	T	MFF-DT	False	True		False
+2	241755042	C	T		False		False	False
+21	29596731	C	T	BACH1	False	False	False	False
+3	10002279	T	TATTTTATTTTATTTTATTTTATTTTATTTTATT		False			False
+3	170505802	C	T	SLC7A14-AS1	False	False		False
+4	661323	C	G		False	False	False	False
+4	663645	G	C		False	False	False	False
+5	91101555	G	A	LUCAT1	False	False	False	False
+5	91137316	C	A		False	False	False	False
+5	111536666	G	C	STARD4-AS1	False		False	False
+6	63811567	A	G	SCAT8	False	False		False
+6	63815029	A	T	SCAT8	False	False	False	False
+6	64379719	G	A		False	False	False	False
+6	64383130	A	G		False	False		False
+6	64387657	G	A		False	False	False	False
+6	64410124	T	C		False	False	False	False
+6	64631587	G	A	HNRNPDP2	False	False	False	False
+6	64679098	C	G		False	False		False
+6	64686507	C	T		False	False		False
+6	64690765	C	T		False	False		False
+6	64690771	T	C		False	False		False
+6	64690776	T	C		False	False		False
+6	64690788	T	A		False	False		False
+6	64690795	A	C		False	False		False
+6	64690800	T	A		False	False		False
+6	64700599	C	A		False	False		False
+6	64714546	G	T		False	False		False
+6	64907918	A	G		False	False		False
+7	41705479	A	G	INHBA-AS1	False		False	False
+8	99092616	G	A		False	False		False
+X	128041966	G	C					False
+X	128174710	T	C					False
+X	128737049	A	G					False
+X	129186200	T	C					False
+X	131025969	G	T	LINC01201	False		False	False
+1	100200640	C	T		False	True		True
+9	137641344	T	C	SETP5	False	False	True	True

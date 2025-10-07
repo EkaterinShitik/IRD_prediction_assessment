@@ -1,0 +1,4 @@
+tool	weighted_accuracy	accuracy	weighted_F1	F1	coverage	specificity	sensitivity	precision	mcc	norm_mcc	weighted_norm_mcc
+SQUIRLS	0.891	0.9661016949152542	0.0	0.0	0.921875	1.0	0.0	0.0	0.0	0.5	0.461
+SpliceAI	0.844	0.9310344827586207	0.302	0.333	0.90625	0.9464285714285714	0.5	0.25	0.321	0.6605	0.599
+Pangolin	0.406	0.9285714285714286	0.0	0.0	0.4375	0.9285714285714286	0.0	0.0	0.0	0.5	0.219
