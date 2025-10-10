@@ -1,33 +1,33 @@
-chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
-1	5927786	AC	A	NPHP4	True	True	True	False
-1	35893699	TTCT	T	AGO1	False	False	False	False
-1	68431069	ATCT	A	RPE65	False	False	False	False
-1	68438234	GAGCCTTTCTGGC	G	RPE65	False	False	False	False
-1	68446763	TTGCCCA	T	RPE65	False	False	False	False
-1	185928541	TCCA	T	HMCN1	True	True	True	False
-1	202764148	TA	T	KDM5B	False	True	False	False
-12	69262510	GAGACCGTGACCG	G	CPSF6	False	False		False
-12	96592602	AATA	A	CFAP54	False	True	False	False
-14	35007375	AACA	A	SRP54	False	False	False	False
-14	96302110	TA	T	ATG2B	True	True	True	False
-15	39589030	GGTG	G	THBS1	False	False	False	False
-15	42392609	CT	C	CAPN3	False	True	True	False
-15	42401686	AGGA	A	CAPN3	False	False	False	False
-17	1653571	ACTT	A	PRPF8	False	False	False	False
-17	1675615	TC	T	PRPF8	False	False	False	False
-17	8015502	GG	G		True	True	True	False
-17	10418879	ACACT	A	MYHAS	True	True	True	False
-2	11198523	GCTTCTCAAA	G	ROCK2	False	False	False	False
-2	173209820	ACAA	A	MAP3K20-AS1	False	False	False	False
-20	45960695	CCA	C	ZNF335	False	False	False	False
-3	39084742	GT	G	WDR48	True	True	True	False
-3	48883995	AC	A	SLC25A20	True	True	True	False
-6	64388675	CA	C	EYS	False	False	False	False
-X	119470513	A	ACTGACCTCATGTACACAG	SLC25A5	True	False	False	False
-X	153783885	GTGAGGG	G	SRPK3	True	True	True	False
-1	46643189	CT	C	ATPAF1	True	True	True	True
-1	68439183	AGACTTACCCCCATGGTTTCATTG	A	RPE65	True	True	True	True
-1	212895057	AGTAA	A	FLVCR1	True	True	True	True
-15	90879546	TAAGT	T	FURIN	True	True	True	True
-16	24555705	TAAGT	T	RBBP6	True	True	True	True
-7	33273959	AA	A	BBS9	True	True	True	True
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	AlphaGenome_prediction	label
+1	5927786	AC	A	NPHP4	True	True	True	True	False
+1	35893699	TTCT	T	AGO1	False	False	False	True	False
+1	68431069	ATCT	A	RPE65	False	False	False	True	False
+1	68438234	GAGCCTTTCTGGC	G	RPE65	False	False	False	True	False
+1	68446763	TTGCCCA	T	RPE65	False	False	False	True	False
+1	185928541	TCCA	T	HMCN1	True	True	True	False	False
+1	202764148	TA	T	KDM5B	False	True	False	False	False
+12	69262510	GAGACCGTGACCG	G	CPSF6	False	False		False	False
+12	96592602	AATA	A	CFAP54	False	True	False	False	False
+14	35007375	AACA	A	SRP54	False	False	False	False	False
+14	96302110	TA	T	ATG2B	True	True	True	False	False
+15	39589030	GGTG	G	THBS1	False	False	False	False	False
+15	42392609	CT	C	CAPN3	False	True	True	False	False
+15	42401686	AGGA	A	CAPN3	False	False	False	False	False
+17	1653571	ACTT	A	PRPF8	False	False	False	False	False
+17	1675615	TC	T	PRPF8	False	False	False	False	False
+17	8015502	GG	G		True	True	True	False	False
+17	10418879	ACACT	A	MYHAS	True	True	True	False	False
+2	11198523	GCTTCTCAAA	G	ROCK2	False	False	False	False	False
+2	173209820	ACAA	A	MAP3K20-AS1	False	False	False	False	False
+20	45960695	CCA	C	ZNF335	False	False	False	False	False
+3	39084742	GT	G	WDR48	True	True	True	False	False
+3	48883995	AC	A	SLC25A20	True	True	True	False	False
+6	64388675	CA	C	EYS	False	False	False	False	False
+X	119470513	A	ACTGACCTCATGTACACAG	SLC25A5	True	False	False		False
+X	153783885	GTGAGGG	G	SRPK3	True	True	True		False
+1	46643189	CT	C	ATPAF1	True	True	True		True
+1	68439183	AGACTTACCCCCATGGTTTCATTG	A	RPE65	True	True	True		True
+1	212895057	AGTAA	A	FLVCR1	True	True	True		True
+15	90879546	TAAGT	T	FURIN	True	True	True		True
+16	24555705	TAAGT	T	RBBP6	True	True	True		True
+7	33273959	AA	A	BBS9	True	True	True		True

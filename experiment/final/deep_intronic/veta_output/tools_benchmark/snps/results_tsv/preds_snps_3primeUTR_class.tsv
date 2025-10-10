@@ -1,14 +1,14 @@
-chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
-11	1974754	G	T	MRPL23	False		False	False
-18	61935483	G	A	PIGN				False
-18	61942426	G	T	PIGN			False	False
-18	61942864	G	A	PIGN				False
-18	61951882	T	A	PIGN			False	False
-18	61965099	C	T	PIGN			False	False
-18	61965921	T	A	PIGN				False
-18	61971727	T	C	PIGN				False
-18	62006949	C	T	PIGN				False
-2	24055032	T	G	MFSD2B	False	False		False
-6	10820641	C	T	TMEM14B	False	False	False	False
-6	63722031	C	T	PHF3	False	False	False	False
-11	66525157	A	G	ZDHHC24	False	False		True
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	AlphaGenome_prediction	label
+11	1974754	G	T	MRPL23	False		False	False	False
+18	61935483	G	A	PIGN				False	False
+18	61942426	G	T	PIGN			False	False	False
+18	61942864	G	A	PIGN				False	False
+18	61951882	T	A	PIGN			False	False	False
+18	61965099	C	T	PIGN			False	False	False
+18	61965921	T	A	PIGN				False	False
+18	61971727	T	C	PIGN				False	False
+18	62006949	C	T	PIGN				False	False
+2	24055032	T	G	MFSD2B	False	False		False	False
+6	10820641	C	T	TMEM14B	False	False	False		False
+6	63722031	C	T	PHF3	False	False	False		False
+11	66525157	A	G	ZDHHC24	False	False			True

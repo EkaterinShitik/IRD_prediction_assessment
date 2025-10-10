@@ -2,3 +2,4 @@ tool	precision	specificity	sensitivity	mcc	norm_mcc	weighted_norm_mcc	tp	fp	tn	f
 SQUIRLS	0.0	1.0	0	0.0	0.5	0.5	0	0	10	0	0	0	0	10	0	10	0	0	10	10	0	0.0	1.0	1.0	1.0
 SpliceAI	0.0	0.875	0	0.0	0.5	0.4	0	1	7	0	0	2	0	8	0	10	0	0	10	7	2	0.2	0.8	0.875	0.7
 Pangolin	0.0	0.8	0	0.0	0.5	0.25	0	1	4	0	0	5	0	5	0	10	0	0	10	4	5	0.5	0.5	0.8	0.4
+AlphaGenome	0.0	0.0	0	0.0	0.5	0.0	0	0	0	0	0	10	0	0	0	10	0	0	10	0	10	1.0	0.0	0.0	0.0

@@ -1,14 +1,14 @@
-chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
-1	182388752	T	C	GLUL	True	True	True	False
-10	29563308	T	C	SVIL	True	True	True	False
-10	71725483	A	G	C10orf105	False	False	True	False
-10	71725516	T	G	C10orf105	False	False	False	False
-16	57967295	C	A	CNGB1	True	True	True	False
-19	54118265	C	A	PRPF31	False	True	True	False
-2	98369938	G	T	CNGA3	True	True	True	False
-22	38314171	T	C	CSNK1E	True	True	True	False
-3	44354737	A	G	TCAIM	True	True	True	False
-5	140565906	C	T	SLC35A4	False	False	False	False
-X	24025060	T	C	KLHL15	True	True	True	False
-X	93674678	C	T	FAM133A	False	False	True	False
-X	55489166	T	G	USP51	True	True	True	True
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	AlphaGenome_prediction	label
+1	182388752	T	C	GLUL	True	True	True	False	False
+10	29563308	T	C	SVIL	True	True	True	False	False
+10	71725483	A	G	C10orf105	False	False	True	False	False
+10	71725516	T	G	C10orf105	False	False	False	False	False
+16	57967295	C	A	CNGB1	True	True	True	False	False
+19	54118265	C	A	PRPF31	False	True	True	False	False
+2	98369938	G	T	CNGA3	True	True	True	False	False
+22	38314171	T	C	CSNK1E	True	True	True	False	False
+3	44354737	A	G	TCAIM	True	True	True	False	False
+5	140565906	C	T	SLC35A4	False	False	False	False	False
+X	24025060	T	C	KLHL15	True	True	True	False	False
+X	93674678	C	T	FAM133A	False	False	True	True	False
+X	55489166	T	G	USP51	True	True	True	True	True

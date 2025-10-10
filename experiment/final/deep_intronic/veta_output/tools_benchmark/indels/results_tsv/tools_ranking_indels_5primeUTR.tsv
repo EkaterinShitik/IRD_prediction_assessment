@@ -2,3 +2,4 @@ tool	weighted_accuracy	accuracy	weighted_F1	F1	coverage	specificity	sensitivity	
 SQUIRLS	0.833	0.8333333333333334	0.0	0.0	1.0	1.0	0.0	0.0	0.0	0.5	0.5
 SpliceAI	0.667	0.8	0.417	0.5	0.8333333333333334	0.875	0.5	0.5	0.375	0.6875	0.573
 Pangolin	0.333	0.8	0.0	0.0	0.4166666666666667	0.8	0.0	0.0	0.0	0.5	0.208
+AlphaGenome	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.5	0.0

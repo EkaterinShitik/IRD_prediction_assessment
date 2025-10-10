@@ -1,4 +1,5 @@
 tool	weighted_accuracy	accuracy	weighted_F1	F1	coverage	specificity	sensitivity	precision	mcc	norm_mcc	weighted_norm_mcc
+AlphaGenome	0.667	1.0	0	0	0.6666666666666666	1.0	0	0	0.0	0.5	0.333
 Pangolin	0.4	1.0	0	0	0.4	1.0	0	0	0.0	0.5	0.2
 SQUIRLS	0.333	1.0	0	0	0.3333333333333333	1.0	0	0	0.0	0.5	0.167
 SpliceAI	0.267	1.0	0	0	0.26666666666666666	1.0	0	0	0.0	0.5	0.133

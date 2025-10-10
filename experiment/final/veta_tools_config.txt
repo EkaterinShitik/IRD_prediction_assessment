@@ -1,0 +1,6 @@
+#Name	VCF_annotation_field	Directionality	Threshold	Scope	Processing_function
+# Splicing
+SQUIRLS	SQUIRLS_SCORE
+SpliceAI	SpliceAI
+Pangolin	Pangolin
+AlphaGenome	AGp	>	0.5	Splicing	to_numeric

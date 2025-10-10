@@ -1,13 +1,13 @@
-chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
-1	35893699	TTCT	T	AGO1	False	False	False	False
-1	68431069	ATCT	A	RPE65	False	False	False	False
-1	68438234	GAGCCTTTCTGGC	G	RPE65	False	False	False	False
-1	68446763	TTGCCCA	T	RPE65	False	False	False	False
-12	69262510	GAGACCGTGACCG	G	CPSF6	False	False		False
-12	96592602	AATA	A	CFAP54	False	True	False	False
-14	35007375	AACA	A	SRP54	False	False	False	False
-15	39589030	GGTG	G	THBS1	False	False	False	False
-15	42401686	AGGA	A	CAPN3	False	False	False	False
-17	1653571	ACTT	A	PRPF8	False	False	False	False
-2	11198523	GCTTCTCAAA	G	ROCK2	False	False	False	False
-1	20089828	GGAG	G	PLA2G5	False	False	False	True
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	AlphaGenome_prediction	label
+1	35893699	TTCT	T	AGO1	False	False	False	True	False
+1	68431069	ATCT	A	RPE65	False	False	False	True	False
+1	68438234	GAGCCTTTCTGGC	G	RPE65	False	False	False	True	False
+1	68446763	TTGCCCA	T	RPE65	False	False	False	True	False
+12	69262510	GAGACCGTGACCG	G	CPSF6	False	False		False	False
+12	96592602	AATA	A	CFAP54	False	True	False	False	False
+14	35007375	AACA	A	SRP54	False	False	False	False	False
+15	39589030	GGTG	G	THBS1	False	False	False	False	False
+15	42401686	AGGA	A	CAPN3	False	False	False	False	False
+17	1653571	ACTT	A	PRPF8	False	False	False	False	False
+2	11198523	GCTTCTCAAA	G	ROCK2	False	False	False	False	False
+1	20089828	GGAG	G	PLA2G5	False	False	False		True

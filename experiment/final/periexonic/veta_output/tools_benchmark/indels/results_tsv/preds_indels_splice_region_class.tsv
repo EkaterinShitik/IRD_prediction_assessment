@@ -1,11 +1,11 @@
-chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	label
-1	185928541	TCCA	T	HMCN1	True	True	True	False
-1	202764148	TA	T	KDM5B	False	True	False	False
-14	96302110	TA	T	ATG2B	True	True	True	False
-17	1675615	TC	T	PRPF8	False	False	False	False
-6	64388675	CA	C	EYS	False	False	False	False
-1	46643189	CT	C	ATPAF1	True	True	True	True
-1	212895057	AGTAA	A	FLVCR1	True	True	True	True
-15	90879546	TAAGT	T	FURIN	True	True	True	True
-16	24555705	TAAGT	T	RBBP6	True	True	True	True
-7	33273959	AA	A	BBS9	True	True	True	True
+chr	pos	ref	alt	SYMBOL	SQUIRLS_prediction	SpliceAI_prediction	Pangolin_prediction	AlphaGenome_prediction	label
+1	185928541	TCCA	T	HMCN1	True	True	True	False	False
+1	202764148	TA	T	KDM5B	False	True	False	False	False
+14	96302110	TA	T	ATG2B	True	True	True	False	False
+17	1675615	TC	T	PRPF8	False	False	False	False	False
+6	64388675	CA	C	EYS	False	False	False	False	False
+1	46643189	CT	C	ATPAF1	True	True	True		True
+1	212895057	AGTAA	A	FLVCR1	True	True	True		True
+15	90879546	TAAGT	T	FURIN	True	True	True		True
+16	24555705	TAAGT	T	RBBP6	True	True	True		True
+7	33273959	AA	A	BBS9	True	True	True		True
